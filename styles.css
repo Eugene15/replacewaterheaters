@@ -31,10 +31,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .service-bar a { color: oklch(82% 0.12 250); text-decoration: none; }
 .site-header { position: relative; z-index: 20; background: var(--paper); border-bottom: 1px solid var(--line); }
 .header-inner { height: 82px; display: flex; align-items: center; gap: clamp(20px, 4vw, 52px); }
-.brand { flex: 0 0 auto; display: flex; align-items: center; gap: 0.58rem; color: var(--navy); text-decoration: none; }
-.brand__mark { width: 43px; height: 42px; display: grid; place-items: center; flex: 0 0 auto; border-radius: 0.3rem; color: white; background: linear-gradient(135deg, var(--navy) 0 48%, var(--blue) 48% 100%); font-size: 1.45rem; font-weight: 800; letter-spacing: -0.08em; }
-.brand__name { display: flex; flex-direction: column; font-size: 1rem; font-weight: 800; letter-spacing: 0.14em; line-height: 1; text-transform: uppercase; }
-.brand__name small { margin-top: 0.35rem; font-size: 0.5rem; font-weight: 700; letter-spacing: 0.12em; }
+.brand { position: relative; flex: 0 0 138px; width: 138px; height: 70px; overflow: hidden; color: var(--navy); text-decoration: none; }
+.brand img { position: absolute; width: 135px; height: 135px; max-width: none; left: 0; top: -28px; }
 .desktop-nav { display: flex; align-items: center; gap: clamp(16px, 2.2vw, 30px); margin-left: auto; }
 .desktop-nav a { font-size: 0.86rem; font-weight: 600; text-decoration: none; color: var(--ink); }
 .desktop-nav a:hover { color: var(--blue-dark); }
@@ -49,7 +47,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .eyebrow span { width: 26px; height: 2px; background: currentColor; }
 .eyebrow--light { color: oklch(80% 0.12 250); }
 h1, h2, h3, p { margin-top: 0; }
-h1 { max-width: 680px; margin-bottom: 22px; color: var(--navy); font-size: clamp(3rem, 6.3vw, 5.65rem); line-height: 0.96; letter-spacing: -0.055em; font-weight: 800; text-wrap: balance; }
+h1 { max-width: 680px; margin-bottom: 22px; color: var(--navy); font-size: clamp(3rem, 6.3vw, 5.65rem); line-height: 0.96; letter-spacing: -0.03em; word-spacing: 0.08em; font-weight: 800; text-wrap: balance; }
 .hero__lead { max-width: 610px; margin-bottom: 28px; color: oklch(35% 0.035 255); font-size: clamp(1.05rem, 1.7vw, 1.28rem); line-height: 1.55; }
 .hero__actions { display: flex; align-items: center; gap: 24px; flex-wrap: wrap; }
 .button { min-height: 52px; display: inline-flex; align-items: center; justify-content: center; border: 0; padding: 13px 22px; font-weight: 700; text-decoration: none; cursor: pointer; transition: transform 180ms cubic-bezier(.22,1,.36,1), background 180ms ease; }
@@ -63,7 +61,7 @@ h1 { max-width: 680px; margin-bottom: 22px; color: var(--navy); font-size: clamp
 
 .request-form { align-self: center; padding: 30px; background: var(--paper); box-shadow: var(--shadow); border: 1px solid oklch(91% 0.01 255); }
 .form-kicker { margin-bottom: 5px; color: var(--blue-dark); font-size: 0.72rem; font-weight: 800; letter-spacing: 0.11em; text-transform: uppercase; }
-.form-heading h2 { margin-bottom: 8px; font-size: 1.55rem; line-height: 1.15; color: var(--navy); letter-spacing: -0.025em; }
+.form-heading h2 { margin-bottom: 8px; font-size: 1.55rem; line-height: 1.15; color: var(--navy); letter-spacing: -0.012em; word-spacing: 0.05em; }
 .form-heading > p:last-child { margin-bottom: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.45; }
 .field-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 .field { margin-bottom: 13px; }
@@ -83,7 +81,7 @@ h1 { max-width: 680px; margin-bottom: 22px; color: var(--navy); font-size: clamp
 
 .section { padding-block: clamp(80px, 10vw, 140px); }
 .section-heading--split { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(300px, 0.65fr); gap: 8vw; align-items: end; margin-bottom: 58px; }
-.section-heading h2, .cost h2, .faq h2 { margin-bottom: 0; color: var(--navy); font-size: clamp(2.25rem, 4.4vw, 4.2rem); line-height: 1.03; letter-spacing: -0.045em; text-wrap: balance; }
+.section-heading h2, .cost h2, .faq h2 { margin-bottom: 0; color: var(--navy); font-size: clamp(2.25rem, 4.4vw, 4.2rem); line-height: 1.03; letter-spacing: -0.022em; word-spacing: 0.08em; text-wrap: balance; }
 .section-heading--split > p { margin: 0; color: var(--muted); font-size: 1rem; }
 .option-list { border-top: 1px solid var(--line); }
 .option-row { display: grid; grid-template-columns: 70px minmax(0, 1fr) auto; gap: 28px; align-items: center; padding: 30px 0; border-bottom: 1px solid var(--line); }
@@ -94,7 +92,7 @@ h1 { max-width: 680px; margin-bottom: 22px; color: var(--navy); font-size: clamp
 
 .process { background: var(--navy-deep); color: var(--white); }
 .process__grid { display: grid; grid-template-columns: 0.8fr 1fr; gap: 9vw; }
-.process__intro h2, .service-area h2 { margin-bottom: 22px; font-size: clamp(2.4rem, 4.6vw, 4.4rem); line-height: 1.02; letter-spacing: -0.045em; color: var(--white); }
+.process__intro h2, .service-area h2 { margin-bottom: 22px; font-size: clamp(2.4rem, 4.6vw, 4.4rem); line-height: 1.02; letter-spacing: -0.022em; word-spacing: 0.08em; color: var(--white); }
 .process__intro > p:not(.eyebrow), .service-area__copy > p:not(.eyebrow) { color: oklch(78% 0.025 255); max-width: 520px; }
 .button--light { margin-top: 14px; background: var(--white); color: var(--navy); }
 .steps { margin: 0; padding: 0; list-style: none; }
@@ -128,7 +126,7 @@ h1 { max-width: 680px; margin-bottom: 22px; color: var(--navy); font-size: clamp
 
 .final-cta { padding-block: 65px; background: var(--navy); color: var(--white); }
 .final-cta__inner { display: flex; align-items: end; justify-content: space-between; gap: 30px; }
-.final-cta h2 { margin: 0; font-size: clamp(2.5rem, 5vw, 5rem); line-height: 0.95; letter-spacing: -0.05em; }
+.final-cta h2 { margin: 0; font-size: clamp(2.5rem, 5vw, 5rem); line-height: 0.98; letter-spacing: -0.025em; word-spacing: 0.08em; }
 .final-cta__phone { text-decoration: none; color: var(--white); font-size: clamp(1.5rem, 3vw, 2.7rem); font-weight: 800; letter-spacing: -0.03em; text-align: right; }
 .final-cta__phone span { display: block; margin-bottom: 2px; color: oklch(78% 0.1 250); font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; }
 
@@ -158,8 +156,8 @@ h1 { max-width: 680px; margin-bottom: 22px; color: var(--navy); font-size: clamp
   .service-bar__inner { justify-content: center; }
   .service-bar__inner span { display: none; }
   .header-inner { height: 68px; }
-  .brand__mark { width: 38px; height: 38px; }
-  .brand__name { font-size: 0.88rem; }
+  .brand { flex-basis: 124px; width: 124px; height: 64px; }
+  .brand img { width: 120px; height: 120px; top: -25px; }
   .header-call { padding: 10px 12px; font-size: 0; }
   .header-call span { font-size: 1.1rem; }
   .hero { min-height: auto; background: var(--sky); }
