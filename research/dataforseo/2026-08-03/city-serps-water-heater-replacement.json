@@ -1,0 +1,2220 @@
+{
+  "requested_at": "2026-08-03T17:51:32.407Z",
+  "provider": "DataForSEO Google Organic Live Advanced",
+  "keyword": "water heater replacement",
+  "device": "desktop",
+  "depth": 20,
+  "cost": 0.028,
+  "rows": [
+    {
+      "city": "Sacramento",
+      "location": "Sacramento,California,United States",
+      "check_url": "https://www.google.com/search?q=water%20heater%20replacement&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCfmXg7JyxpqAEdt_GXSqah-S",
+      "item_types": [
+        "ai_overview",
+        "local_pack",
+        "organic",
+        "people_also_search",
+        "popular_products",
+        "people_also_ask",
+        "perspectives",
+        "related_searches"
+      ],
+      "local_pack": [
+        {
+          "type": "local_pack",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+          "title": "Proudman plumbing",
+          "description": "Open · Closes 5 PM \n\"Replaced water heater same day, good price, easy to work with\" \n",
+          "domain": "www.proudmanplumbing.com",
+          "phone": "(818) 835-7586",
+          "booking_url": "https://book.housecallpro.com/book/Proudman-Plumbing/6ebf8aeabbfb425ab9a7338735e887d1?v2=true&lead_source=google&merchant_id=32689977-e578-4eaf-82a4-ce1c3300df34&rwg_token=AE37R_jiY8Qq6Da6w8x13FuxO65AHkQoXV2WISK2vVLyk54kPC0Z1sqczyECBYW5VFI1XqOiX9dPsmFt03crWqt-XkmM1hPZvQ%3D%3D&source=cat",
+          "url": "https://www.proudmanplumbing.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 5,
+            "votes_count": 29,
+            "rating_max": 5
+          },
+          "cid": "10221110809694309063",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]",
+          "title": "Super Brothers Plumbing, Heating and Air - Sacramento",
+          "description": "1610 R St Ste 300 · (916) 866-8770 \nOpen · Closes 6 PM \n\"Fast, diagnosed, and replaced an old tankless water heater .\" \n",
+          "domain": "www.superbrothers.com",
+          "phone": "(916) 866-8770",
+          "booking_url": null,
+          "url": "https://www.superbrothers.com/cities/sacramento/?utm_source=sac-gbp&utm_medium=organic&utm_campaign=1610R",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.9,
+            "votes_count": 64,
+            "rating_max": 5
+          },
+          "cid": "13790218944244105999",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 3,
+          "rank_absolute": 4,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[1]/div[1]",
+          "title": "Drain Time Plumbing Of Sacramento",
+          "description": "1750 Howe Ave Ste 300 #313 · (916) 964-2551 \nOpen 24 hours \n\"Same day fix with excellent communication and prompt results.\" \n",
+          "domain": "www.draintime.com",
+          "phone": "(916) 964-2551",
+          "booking_url": null,
+          "url": "https://www.draintime.com/service-area/sacramento-ca?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Sacramento-CA",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.8,
+            "votes_count": 85,
+            "rating_max": 5
+          },
+          "cid": "7172135073670353771",
+          "rectangle": null
+        }
+      ],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 10,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the normal cost to replace a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Who is the best person to install a water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Can I replace my water heater myself?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "How much does Home Depot charge to replace a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 5,
+          "domain": "waterheatersonly.com",
+          "url": "https://waterheatersonly.com/find-a-local-installer/sacramento-water-heater-repair/",
+          "title": "Sacramento Water Heater Repair",
+          "description": "Top rated Sacramento Water Heater Service, including repairs and replacements. Call our experts 24/7/365. Call us at 916-245-2979 today. Contact us 24/7/365 ...",
+          "breadcrumb": "https://waterheatersonly.com › find-a-local-installer › sa..."
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 6,
+          "domain": "www.waterheaterpros.com",
+          "url": "https://www.waterheaterpros.com/",
+          "title": "Water Heater Repair & Installation Sacramento CA",
+          "description": "Water heater replacement in Sacramento typically ranges from $1,200 to $3,500, depending on the unit type, installation complexity, and whether upgrades are ... Read more",
+          "breadcrumb": "https://www.waterheaterpros.com"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 7,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/services/c/water-heater-installation/9058c024e",
+          "title": "Water Heater Replacement",
+          "description": "Same-day water heater installation is available Monday-Friday if you request install before noon and live within 30 miles of a Home Depot store. Read more",
+          "breadcrumb": "https://www.homedepot.com › Home Services"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 12,
+          "domain": "www.mccrayshomeservices.com",
+          "url": "https://www.mccrayshomeservices.com/residential-home-services/water-heater-repair-%26-installation-in-west-sacramento",
+          "title": "Water Heater Repair & Installation in West Sacramento",
+          "description": "What Does a Water Heater Cost? · Repairs: $150 to $600+ · Standard tank replacement: $1,800 to $3,500+ · Tankless systems: $4,500 to $8,500+. We provide ... Read more",
+          "breadcrumb": "https://www.mccrayshomeservices.com › water-heater-r..."
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 13,
+          "domain": "www.yelp.com",
+          "url": "https://www.yelp.com/search?find_desc=Water+Heater+Installation&find_loc=Sacramento%2C+CA",
+          "title": "TOP 10 BEST Water Heater Installation in Sacramento, CA",
+          "description": "What are some for water heater installation/repair in Sacramento, CA: Harris Water Heaters, Inc (5/5) Doggonit Plumbing and Drain (5/5) Straight Forward ...",
+          "breadcrumb": "https://www.yelp.com › Home Services"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 14,
+          "domain": "structuretech.com",
+          "url": "https://structuretech.com/water-heater-replacement-expensive/",
+          "title": "Beware of outrageously expensive water heater ...",
+          "description": "Sep 26, 2023 — Many large plumbing companies are charging an outrageous amount of money for a simple water heater replacement. Read more",
+          "breadcrumb": "https://structuretech.com › water-heater-replacement-ex..."
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 15,
+          "domain": "www.bonney.com",
+          "url": "https://www.bonney.com/plumbing/water-heaters/",
+          "title": "Water Heater Repair, Install & Replacements in Sacramento",
+          "description": "Reliable and Affordable Water Heater Services … we offer repairs 7 days a week. Low: $450 Average: $4,500 High: $9,500. Water heater estimates and second ...",
+          "breadcrumb": "https://www.bonney.com › Plumbing"
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 16,
+          "domain": "villara.com",
+          "url": "https://villara.com/plumbing/water-heater-installation/",
+          "title": "Water Heater Installation & Replacement in Sacramento, CA",
+          "description": "Call (916) 646-2701 today to schedule dependable water heater installation or replacement anywhere in Central or Northern California. When to Replace Your Water ... Read more",
+          "breadcrumb": "https://villara.com › plumbing › water-heater-installation"
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 18,
+          "domain": "www.superbrothers.com",
+          "url": "https://www.superbrothers.com/cities/sacramento/water-heater-replacement/",
+          "title": "Sacramento Water Heater Replacement",
+          "description": "Sacramento water heater replacement services, including repairs, and upgrades. Online quotes, best pricing, financing options and quick top-rated service.",
+          "breadcrumb": "https://www.superbrothers.com › Sacramento"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 19,
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/DIY/comments/1ch5uuo/how_hard_is_replacing_hot_water_heater_and_do_i/",
+          "title": "How hard is replacing hot water heater and do I need to do ...",
+          "description": "Noticed some water coming from my hot water heater. How soon does this need fixed and how hard is it to do DIY?",
+          "breadcrumb": "200+ comments  ·  2 years ago"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 20,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=5AKzzESlx8M",
+          "title": "How to Replace a Water Heater | Gas Water Heater Install ...",
+          "description": null,
+          "breadcrumb": "2.4K+ views  ·  4 months ago"
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 21,
+          "domain": "www.angi.com",
+          "url": "https://www.angi.com/articles/how-much-does-water-heater-installation-cost.htm",
+          "title": "How Much Does Water Heater Replacement Cost? [2026 ...",
+          "description": "Jul 20, 2026 — Tank-style water heater replacement costs $881 to $1,825 while tankless systems run $1,400 to $3,900 for your home project. Read more",
+          "breadcrumb": "https://www.angi.com › ... › Plumbing › Water Heater"
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 22,
+          "domain": "alwaysaffordableplumbing.com",
+          "url": "https://alwaysaffordableplumbing.com/water-heaters/water-heater-installation-sacramento-ca",
+          "title": "Water Heater Installation Sacramento, CA Service",
+          "description": "Professional water heater installation in Sacramento, CA delivers safe, code-compliant setup with proper sizing and reliable hot water. Learn more today.",
+          "breadcrumb": "https://alwaysaffordableplumbing.com › water-heaters"
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 23,
+          "domain": "www.yelp.com",
+          "url": "https://www.yelp.com/costs/waterheaterinstallrepair/sacramento",
+          "title": "Cost of Water Heater Installation/Repair in Sacramento, CA",
+          "description": "Find water heater installation/repair cost information to hire your next professional in Sacramento, CA, including virtual consultations.",
+          "breadcrumb": "https://www.yelp.com › costs › sacramento"
+        },
+        {
+          "rank_group": 15,
+          "rank_absolute": 24,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/l/install/water-heater",
+          "title": "Professional Water Heater Installation & Replacement",
+          "description": "Get expert water heater installation and replacement from Lowe's with flexible financing. Book your free consultation and same-day service today.",
+          "breadcrumb": "https://www.lowes.com › Install"
+        },
+        {
+          "rank_group": 16,
+          "rank_absolute": 25,
+          "domain": "www.calljazz.com",
+          "url": "https://www.calljazz.com/sacramento/water-heaters/installation/",
+          "title": "Water Heater Installation in Sacramento, CA",
+          "description": "Jazz installs gas and electric water heaters for Sacramento homeowners, including standard tank replacements, new installations, and upgrades when an older unit ... Read more",
+          "breadcrumb": "https://www.calljazz.com › sacramento › installation"
+        },
+        {
+          "rank_group": 17,
+          "rank_absolute": 26,
+          "domain": "www.cozyhvac.net",
+          "url": "https://www.cozyhvac.net/hvac-plumbing-sacramento/plumbing/water-heater-installation/",
+          "title": "Water Heater Installation Sacramento, CA",
+          "description": "3 days ago — Water Heater Installation and Replacement ... If you have a water heater emergency, we provide same-day water heater replacement in Sacramento. Read more",
+          "breadcrumb": "https://www.cozyhvac.net › plumbing › water-heater-inst..."
+        },
+        {
+          "rank_group": 18,
+          "rank_absolute": 27,
+          "domain": "finance.yahoo.com",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/water-heater-replacement-cost-193642969.html",
+          "title": "When should you replace your water heater, and how ...",
+          "description": "Oct 15, 2025 — According to the home services website Angi, hot water heater replacement costs typically range from $882 to $1,807, with the average cost being ... Read more",
+          "breadcrumb": "https://finance.yahoo.com › ... › Mortgages"
+        }
+      ]
+    },
+    {
+      "city": "Roseville",
+      "location": "Roseville,California,United States",
+      "check_url": "https://www.google.com/search?q=water%20heater%20replacement&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCXkYPGJlH5uAEZk5SbpSSq8i",
+      "item_types": [
+        "ai_overview",
+        "local_pack",
+        "organic",
+        "popular_products",
+        "people_also_ask",
+        "perspectives",
+        "related_searches"
+      ],
+      "local_pack": [
+        {
+          "type": "local_pack",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+          "title": "United Plumbing & Water Heaters",
+          "description": "25+ years in business · 8800 Sierra College Blvd Apt 316 · (916) 656-0304 \nOpen · Closes 8 PM \n\"He came in and knocked the job out in less than 45 minutes!!!\" \n",
+          "domain": "unitedplumbingheating.com",
+          "phone": "(916) 656-0304",
+          "booking_url": "https://book.servicetitan.com/viee9grcnftu2qbsuktkz94u?rwg_token=AE37R_hX79rJvScRo6pqNjufVWSW0a6tS9Fz6KwE8qESBwggNmXiKAv3xtuoFJHaxIf0BuDGImegUecv6jwICPvkREXe7dkCKg%3D%3D&source=cat",
+          "url": "https://unitedplumbingheating.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.9,
+            "votes_count": 217,
+            "rating_max": 5
+          },
+          "cid": "5517453029064953099",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]",
+          "title": "Mach 1 Plumbing Roseville",
+          "description": "15+ years in business · 611 Manzanita Ave · (916) 674-2920 \nOpen 24 hours \n\"Michael was prompt, very communicative and fixed our issue in one hour!\" \n",
+          "domain": "mach1plumbingrosevilleca.com",
+          "phone": "(916) 674-2920",
+          "booking_url": null,
+          "url": "https://mach1plumbingrosevilleca.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 5,
+            "votes_count": 271,
+            "rating_max": 5
+          },
+          "cid": "10378473752781905530",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 3,
+          "rank_absolute": 4,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[1]/div[1]",
+          "title": "Armoured Plumbing, Inc.",
+          "description": "45+ years in business · 228 Church St · (916) 782-8133 \nOpen · Closes 7 PM \n\"... came on a Sunday morning and installed my new water heater !\" \n",
+          "domain": "www.armouredplumbing.com",
+          "phone": "(916) 782-8133",
+          "booking_url": null,
+          "url": "https://www.armouredplumbing.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.9,
+            "votes_count": 617,
+            "rating_max": 5
+          },
+          "cid": "8500628946249576898",
+          "rectangle": null
+        }
+      ],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 10,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the normal cost to replace a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Who is the best person to install a water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Can I replace my water heater myself?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "How much does Home Depot charge to replace a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 5,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/services/c/water-heater-installation/9058c024e",
+          "title": "Water Heater Replacement",
+          "description": "Same-day water heater installation is available Monday-Friday if you request install before noon and live within 30 miles of a Home Depot store. Read more",
+          "breadcrumb": "https://www.homedepot.com › Home Services"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 6,
+          "domain": "www.yelp.com",
+          "url": "https://www.yelp.com/search?cflt=waterheaterinstallrepair&find_loc=Roseville%2C+CA",
+          "title": "THE BEST 10 Water Heater Installation/Repair in ...",
+          "description": "Best Water Heater Installation/Repair in Roseville, CA - Last Updated July 2026 - The Water Heater Man, The Plumbing Pros, HOTCO The Hot Water Heater ...",
+          "breadcrumb": "https://www.yelp.com › search › cflt=waterheaterinstallr..."
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 7,
+          "domain": "waterheaters-sacramento.com",
+          "url": "https://waterheaters-sacramento.com/roseville-water-heater-repair-replacement/",
+          "title": "Roseville Water Heater Repair & Replacement",
+          "description": "4 days ago — Our Experts Are available 24/7/365! Call us at 1-916-238-6500 . fast and professional water heater repair and replacement for residential and ...",
+          "breadcrumb": "https://waterheaters-sacramento.com › roseville-water-h..."
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/store/1207-roseville-ca/water-heater-installation",
+          "title": "Water Heater Installation in Roseville, CA, 95678",
+          "description": "Phone:(916) 771-7111. Whether you're replacing your existing water heater. You can get same-day water heater installation with free delivery. Phone: (916) 644- ...",
+          "breadcrumb": "https://www.lowes.com › ... › CA › Roseville"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 12,
+          "domain": "www.waterheaterpros.com",
+          "url": "https://www.waterheaterpros.com/",
+          "title": "Water Heater Repair & Installation Sacramento CA",
+          "description": "Water heater replacement in Sacramento typically ranges from $1,200 to $3,500, depending on the unit type, installation complexity, and whether upgrades are ... Read more",
+          "breadcrumb": "https://www.waterheaterpros.com"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 13,
+          "domain": "villara.com",
+          "url": "https://villara.com/plumbing/water-heater-installation/",
+          "title": "Water Heater Installation & Replacement in Sacramento, CA",
+          "description": "Call (916) 646-2701 today to schedule dependable water heater installation or replacement anywhere in Central or Northern California. When to Replace Your Water ... Read more",
+          "breadcrumb": "https://villara.com › plumbing › water-heater-installation"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 14,
+          "domain": "structuretech.com",
+          "url": "https://structuretech.com/water-heater-replacement-expensive/",
+          "title": "Beware of outrageously expensive water heater ...",
+          "description": "Sep 26, 2023 — $1,500 to $1,800 for a simple water heater replacement, plumbing companies charging over $6,000 for the exact same work.",
+          "breadcrumb": "https://structuretech.com › water-heater-replacement-ex..."
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=5AKzzESlx8M",
+          "title": "How to Replace a Water Heater | Gas Water Heater Install ...",
+          "description": null,
+          "breadcrumb": "2.4K+ views  ·  4 months ago"
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 17,
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/DIY/comments/1ch5uuo/how_hard_is_replacing_hot_water_heater_and_do_i/",
+          "title": "How hard is replacing hot water heater and do I need to do ...",
+          "description": "Noticed some water coming from my hot water heater. How soon does this need fixed and how hard is it to do DIY?",
+          "breadcrumb": "200+ comments  ·  2 years ago"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 18,
+          "domain": "www.angi.com",
+          "url": "https://www.angi.com/articles/how-much-does-water-heater-installation-cost.htm",
+          "title": "How Much Does Water Heater Replacement Cost? [2026 ...",
+          "description": "Jul 20, 2026 — Tank-style water heater replacement costs $881 to $1,825 while tankless systems run $1,400 to $3,900 for your home project. Read more",
+          "breadcrumb": "https://www.angi.com › ... › Plumbing › Water Heater"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 19,
+          "domain": "www.mccrayshomeservices.com",
+          "url": "https://www.mccrayshomeservices.com/residential-home-services/water-heater-repair-%26-installation-in-west-sacramento",
+          "title": "Water Heater Repair & Installation in West Sacramento",
+          "description": "What Does a Water Heater Cost? · Repairs: $150 to $600+ · Standard tank replacement: $1,800 to $3,500+ · Tankless systems: $4,500 to $8,500+. We provide ... Read more",
+          "breadcrumb": "https://www.mccrayshomeservices.com › water-heater-r..."
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 20,
+          "domain": "rosevillewaterheater.com",
+          "url": "https://rosevillewaterheater.com/",
+          "title": "Roseville Water Heater Solutions: Water Heater Installation ...",
+          "description": "We provide 24/7 water heater repairs, installations, maintenance, and replacement services to all residential customers in Roseville. Read more",
+          "breadcrumb": "https://rosevillewaterheater.com"
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 21,
+          "domain": "finance.yahoo.com",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/water-heater-replacement-cost-193642969.html",
+          "title": "When should you replace your water heater, and how ...",
+          "description": "Oct 15, 2025 — According to the home services website Angi, hot water heater replacement costs typically range from $882 to $1,807, with the average cost being ... Read more",
+          "breadcrumb": "https://finance.yahoo.com › ... › Mortgages"
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 22,
+          "domain": "www.bonney.com",
+          "url": "https://www.bonney.com/plumbing/water-heaters/",
+          "title": "Water Heater Repair, Install & Replacements in Sacramento",
+          "description": "How Much Does It Cost for Tank Water Heater Services in Sacramento? · Low: $450 · Average: $4,500 · High: $9,500. What Are Some Factors That Affect the Cost ... Read more",
+          "breadcrumb": "https://www.bonney.com › Plumbing"
+        },
+        {
+          "rank_group": 15,
+          "rank_absolute": 23,
+          "domain": "homeguide.com",
+          "url": "https://homeguide.com/ca/roseville/water-heater-installation/",
+          "title": "The 10 Best Water Heater Installers in Roseville, CA (2026)",
+          "description": "Water heater replacement costs $600 to $3,100. Tankless water heater installation costs $1,400 to $5,600. A new standard tank water heater costs $400 to $2,100 ... Read more",
+          "breadcrumb": "https://homeguide.com › CA › Roseville"
+        },
+        {
+          "rank_group": 16,
+          "rank_absolute": 24,
+          "domain": "waterheatersonly.com",
+          "url": "https://waterheatersonly.com/find-a-local-installer/sacramento-water-heater-repair/",
+          "title": "Sacramento Water Heater Repair",
+          "description": "Top rated Sacramento Water Heater Service, including repairs and replacements. Lowest Prices, Financing Available. Call our experts 24/7/365.",
+          "breadcrumb": "https://waterheatersonly.com › find-a-local-installer › sa..."
+        },
+        {
+          "rank_group": 17,
+          "rank_absolute": 25,
+          "domain": "www.superbrothers.com",
+          "url": "https://www.superbrothers.com/cities/roseville/water-heater-replacement/",
+          "title": "Roseville Water Heater Replacement",
+          "description": "Roseville water heater replacement services, including repairs, and upgrades. Online quotes, best pricing, financing options and quick top-rated service.",
+          "breadcrumb": "https://www.superbrothers.com › Roseville"
+        },
+        {
+          "rank_group": 18,
+          "rank_absolute": 26,
+          "domain": "www.hotwater.com",
+          "url": "https://www.hotwater.com/info-center/water-heater-replacement-cost.html",
+          "title": "How Much Does a Water Heater Cost to Replace?",
+          "description": "The total cost to replace a water heater typically ranges from $600 to $4,500 depending on the type and installation complexity. Basic tank water heaters are ... Read more",
+          "breadcrumb": "https://www.hotwater.com › Info Center"
+        }
+      ]
+    },
+    {
+      "city": "Rocklin",
+      "location": "Rocklin,California,United States",
+      "check_url": "https://www.google.com/search?q=water%20heater%20replacement&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCbXjoP1HH5uAEUQhjX1HH7NF",
+      "item_types": [
+        "ai_overview",
+        "local_pack",
+        "organic",
+        "people_also_ask",
+        "perspectives",
+        "popular_products",
+        "related_searches"
+      ],
+      "local_pack": [
+        {
+          "type": "local_pack",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+          "title": "United Plumbing & Water Heaters",
+          "description": "25+ years in business · Roseville, CA · (916) 656-0304 \nOpen · Closes 8 PM \n\"He came in and knocked the job out in less than 45 minutes!!!\" \n",
+          "domain": "unitedplumbingheating.com",
+          "phone": "(916) 656-0304",
+          "booking_url": "https://book.servicetitan.com/viee9grcnftu2qbsuktkz94u?rwg_token=AE37R_jM12oJVbouvizSyLDRBxoL9m53n2yHbfc8zjee5nNNZfz8NdJARVFFVfscg59vyyeMvHqp-GjPXpEW0VUWAvyjmf4l_w%3D%3D&source=cat",
+          "url": "https://unitedplumbingheating.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.9,
+            "votes_count": 217,
+            "rating_max": 5
+          },
+          "cid": "5517453029064953099",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]",
+          "title": "The Plumbing Pros",
+          "description": "10+ years in business · Roseville, CA · (916) 778-7384 \nOpen · Closes 7 PM \n\"The tankless water heater was planned form 10-3pm and finished by 2pm!\" \n",
+          "domain": "theplumbingpros.biz",
+          "phone": "(916) 778-7384",
+          "booking_url": null,
+          "url": "https://theplumbingpros.biz/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 5,
+            "votes_count": 871,
+            "rating_max": 5
+          },
+          "cid": "13498097008266669257",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 3,
+          "rank_absolute": 4,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[1]/div[1]",
+          "title": "DKH Plumbing - Rocklin",
+          "description": "7+ years in business · (916) 467-9766 \nOpen 24 hours \n\"brian did a great job, they were quick and timely and courteous\" \n",
+          "domain": "dkhplumbing.com",
+          "phone": "(916) 467-9766",
+          "booking_url": null,
+          "url": "https://dkhplumbing.com/plumber-rocklin-ca/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.9,
+            "votes_count": 50,
+            "rating_max": 5
+          },
+          "cid": "14147789737438954246",
+          "rectangle": null
+        }
+      ],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 8,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the normal cost to replace a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Who is the best person to install a water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "How much would Home Depot charge to install a water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the life expectancy of a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 5,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/services/c/water-heater-installation/9058c024e",
+          "title": "Water Heater Replacement",
+          "description": "Same-day water heater installation is available Monday-Friday if you request install before noon and live within 30 miles of a Home Depot store. Read more",
+          "breadcrumb": "https://www.homedepot.com › Home Services"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 6,
+          "domain": "www.yelp.com",
+          "url": "https://www.yelp.com/search?find_desc=Water+Heater+Repair&find_loc=Rocklin%2C+CA",
+          "title": "TOP 10 BEST Water Heater Repair in Rocklin, CA",
+          "description": "Longo Plumbing (5/5) Roseville Plumbing Solutions (5/5) Elliott Plumbing (5/5) Church's Plumbing And Water Heater (5/5) Crowley Plumbing (5/5)",
+          "breadcrumb": "https://www.yelp.com › Home Services"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 7,
+          "domain": "www.waterheaterpros.com",
+          "url": "https://www.waterheaterpros.com/",
+          "title": "Water Heater Repair & Installation Sacramento CA",
+          "description": "Water heater replacement in Sacramento typically ranges from $1,200 to $3,500, depending on the unit type, installation complexity, and whether upgrades are ... Read more",
+          "breadcrumb": "https://www.waterheaterpros.com"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 10,
+          "domain": "waterheaters-sacramento.com",
+          "url": "https://waterheaters-sacramento.com/rocklin-water-heater-repair-replacement-service/",
+          "title": "Rocklin Water Heater Repair & Replacement Service",
+          "description": "Call us 24/7/365 1-916-238-6500 Water Heaters Only, Inc. provides quick and professional water heater repairs, replacements, service, and installation",
+          "breadcrumb": "https://waterheaters-sacramento.com › rocklin-water-he..."
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 12,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=5AKzzESlx8M",
+          "title": "How to Replace a Water Heater | Gas Water Heater Install ...",
+          "description": null,
+          "breadcrumb": "2.4K+ views  ·  4 months ago"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 13,
+          "domain": "villara.com",
+          "url": "https://villara.com/plumbing/water-heater-installation/",
+          "title": "Water Heater Installation & Replacement in Sacramento, CA",
+          "description": "Call (916) 646-2701 today to schedule dependable water heater installation or replacement anywhere in Central or Northern California. When to Replace Your Water ... Read more",
+          "breadcrumb": "https://villara.com › plumbing › water-heater-installation"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 14,
+          "domain": "structuretech.com",
+          "url": "https://structuretech.com/water-heater-replacement-expensive/",
+          "title": "Beware of outrageously expensive water heater ...",
+          "description": "Sep 26, 2023 — $1,500 to $1,800 for a simple water heater replacement, plumbing companies charging over $6,000 for the exact same work.",
+          "breadcrumb": "https://structuretech.com › water-heater-replacement-ex..."
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "domain": "proplumberrocklin.com",
+          "url": "https://proplumberrocklin.com/water-heater-repair/",
+          "title": "Expert Water Heater Repair in Rocklin | No Hot Water? Call Now",
+          "description": "Need water heater repair in Rocklin? Local plumbers diagnose leaks, no hot water, unusual noises, and temperature issues. 24/7 service available!",
+          "breadcrumb": "https://proplumberrocklin.com › water-heater-repair"
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 17,
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/DIY/comments/1ch5uuo/how_hard_is_replacing_hot_water_heater_and_do_i/",
+          "title": "How hard is replacing hot water heater and do I need to do ...",
+          "description": "Noticed some water coming from my hot water heater. How soon does this need fixed and how hard is it to do DIY?",
+          "breadcrumb": "200+ comments  ·  2 years ago"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 18,
+          "domain": "www.angi.com",
+          "url": "https://www.angi.com/articles/how-much-does-water-heater-installation-cost.htm",
+          "title": "How Much Does Water Heater Replacement Cost? [2026 ...",
+          "description": "Jul 20, 2026 — Tank-style water heater replacement costs $881 to $1,825 while tankless systems run $1,400 to $3,900 for your home project. Read more",
+          "breadcrumb": "https://www.angi.com › ... › Plumbing › Water Heater"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 19,
+          "domain": "www.thumbtack.com",
+          "url": "https://www.thumbtack.com/ca/rocklin/water-heater-installation",
+          "title": "Water heater installation professionals near Rocklin, CA",
+          "description": "Here is the definitive list of Rocklin's water heater installers as rated by the Rocklin, CA community. Want to see who made the cut?",
+          "breadcrumb": "https://www.thumbtack.com › CA › Rocklin"
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 20,
+          "domain": "finance.yahoo.com",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/water-heater-replacement-cost-193642969.html",
+          "title": "When should you replace your water heater, and how ...",
+          "description": "Oct 15, 2025 — According to the home services website Angi, hot water heater replacement costs typically range from $882 to $1,807, with the average cost being ... Read more",
+          "breadcrumb": "https://finance.yahoo.com › ... › Mortgages"
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 21,
+          "domain": "www.mccrayshomeservices.com",
+          "url": "https://www.mccrayshomeservices.com/residential-home-services/water-heater-repair-%26-installation-in-west-sacramento",
+          "title": "Water Heater Repair & Installation in West Sacramento",
+          "description": "What Does a Water Heater Cost? · Repairs: $150 to $600+ · Standard tank replacement: $1,800 to $3,500+ · Tankless systems: $4,500 to $8,500+. We provide ... Read more",
+          "breadcrumb": "https://www.mccrayshomeservices.com › water-heater-r..."
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 22,
+          "domain": "proplumberrocklin.com",
+          "url": "https://proplumberrocklin.com/water-heater-repair/",
+          "title": "Expert Water Heater Repair in Rocklin | No Hot Water? Call Now",
+          "description": "Need water heater repair in Rocklin? Local plumbers diagnose leaks, no hot water, unusual noises, and temperature issues. 24/7 service available!",
+          "breadcrumb": "https://proplumberrocklin.com › water-heater-repair"
+        },
+        {
+          "rank_group": 15,
+          "rank_absolute": 23,
+          "domain": "waterheatersonly.com",
+          "url": "https://waterheatersonly.com/find-a-local-installer/sacramento-water-heater-repair/",
+          "title": "Sacramento Water Heater Repair",
+          "description": "Top rated Sacramento Water Heater Service, including repairs and replacements. Lowest Prices, Financing Available. Call our experts 24/7/365.",
+          "breadcrumb": "https://waterheatersonly.com › find-a-local-installer › sa..."
+        },
+        {
+          "rank_group": 16,
+          "rank_absolute": 24,
+          "domain": "www.allianceplumbingco.com",
+          "url": "https://www.allianceplumbingco.com/service-areas/rocklin-ca/water-heater-repair/",
+          "title": "Water Heater Repair in Rocklin, CA | Expert Local Plumbers",
+          "description": "Alliance Plumbing has 20 years of experience repairing water heaters across Northern California. Our team identifies the root cause quickly, executes repairs ... Read more",
+          "breadcrumb": "https://www.allianceplumbingco.com › ... › Rocklin, CA"
+        },
+        {
+          "rank_group": 17,
+          "rank_absolute": 25,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=rnbLs35mKd0",
+          "title": "Replace Your Water Heater Yourself in 10 Easy Steps",
+          "description": null,
+          "breadcrumb": "1.9M+ views  ·  3 years ago"
+        },
+        {
+          "rank_group": 18,
+          "rank_absolute": 26,
+          "domain": "www.bonney.com",
+          "url": "https://www.bonney.com/plumbing/water-heaters/",
+          "title": "Water Heater Repair, Install & Replacements in Sacramento",
+          "description": "How Much Does It Cost for Tank Water Heater Services in Sacramento? · Low: $450 · Average: $4,500 · High: $9,500. What Are Some Factors That Affect the Cost ... Read more",
+          "breadcrumb": "https://www.bonney.com › Plumbing"
+        }
+      ]
+    },
+    {
+      "city": "Lincoln",
+      "location": "Lincoln,California,United States",
+      "check_url": "https://www.google.com/search?q=water%20heater%20replacement&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCZtre58PE5uAERXWuKAOwliQ",
+      "item_types": [
+        "ai_overview",
+        "local_pack",
+        "organic",
+        "popular_products",
+        "people_also_ask",
+        "perspectives",
+        "discussions_and_forums",
+        "related_searches"
+      ],
+      "local_pack": [
+        {
+          "type": "local_pack",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+          "title": "Masterpiece Plumbing",
+          "description": "Open · Closes 5 PM \n\"Does great work, gave a much better price than the other guy I had come out.\" \n",
+          "domain": null,
+          "phone": "(916) 301-9426",
+          "booking_url": null,
+          "url": null,
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 5,
+            "votes_count": 27,
+            "rating_max": 5
+          },
+          "cid": "4682424543208732294",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]",
+          "title": "5 Star Plumbing",
+          "description": "7+ years in business · 1136 Kensington Ln · (669) 322-1899 \nOpen 24 hours \n\"Performed water heater replacement in a timely manner.\" \n",
+          "domain": "5-starplumbing.com",
+          "phone": "(669) 322-1899",
+          "booking_url": null,
+          "url": "https://5-starplumbing.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.9,
+            "votes_count": 741,
+            "rating_max": 5
+          },
+          "cid": "4424830827433729469",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 3,
+          "rank_absolute": 4,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[1]/div[1]",
+          "title": "Signature Plumbing",
+          "description": "25+ years in business · 110 Flocchini Cir Ste 300 · (916) 223-7179 \nOpen · Closes 6 PM \nOnsite services \n",
+          "domain": "www.signature-plumbing.com",
+          "phone": "(916) 223-7179",
+          "booking_url": null,
+          "url": "http://www.signature-plumbing.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.7,
+            "votes_count": 77,
+            "rating_max": 5
+          },
+          "cid": "8862611457131355626",
+          "rectangle": null
+        }
+      ],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 8,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the normal cost to replace a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Who is the best person to install a water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Can I replace my water heater myself?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "How much does Home Depot charge to replace a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 5,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/services/c/water-heater-installation/9058c024e",
+          "title": "Water Heater Replacement",
+          "description": "Same-day water heater installation is available Monday-Friday if you request install before noon and live within 30 miles of a Home Depot store. Read more",
+          "breadcrumb": "https://www.homedepot.com › Home Services"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 6,
+          "domain": "waterheatersonly.com",
+          "url": "https://waterheatersonly.com/find-a-local-installer/sacramento-water-heater-repair/",
+          "title": "Sacramento Water Heater Repair",
+          "description": "Top rated Sacramento Water Heater Service, including repairs and replacements. Call our experts 24/7/365. Call us at 916-245-2979 today. Contact us 24/7/365 ...",
+          "breadcrumb": "https://waterheatersonly.com › find-a-local-installer › sa..."
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 11,
+          "domain": "www.yelp.com",
+          "url": "https://www.yelp.com/search?find_desc=Water+Heater+Installation&find_loc=Sacramento%2C+CA",
+          "title": "TOP 10 BEST Water Heater Installation in Sacramento, CA",
+          "description": "What are some for water heater installation/repair in Sacramento, CA: Harris Water Heaters, Inc (5/5) Doggonit Plumbing and Drain (5/5) Straight Forward ...",
+          "breadcrumb": "https://www.yelp.com › Home Services"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 12,
+          "domain": "www.waterheaterpros.com",
+          "url": "https://www.waterheaterpros.com/",
+          "title": "Water Heater Repair & Installation Sacramento CA",
+          "description": "Water heater replacement in Sacramento typically ranges from $1,200 to $3,500, depending on the unit type, installation complexity, and whether upgrades are ... Read more",
+          "breadcrumb": "https://www.waterheaterpros.com"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 13,
+          "domain": "villara.com",
+          "url": "https://villara.com/plumbing/water-heater-installation/",
+          "title": "Water Heater Installation & Replacement in Sacramento, CA",
+          "description": "Call (916) 646-2701 today to schedule dependable water heater installation or replacement anywhere in Central or Northern California. When to Replace Your Water ... Read more",
+          "breadcrumb": "https://villara.com › plumbing › water-heater-installation"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 14,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=5AKzzESlx8M",
+          "title": "How to Replace a Water Heater | Gas Water Heater Install ...",
+          "description": null,
+          "breadcrumb": "2.4K+ views  ·  4 months ago"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 15,
+          "domain": "structuretech.com",
+          "url": "https://structuretech.com/water-heater-replacement-expensive/",
+          "title": "Beware of outrageously expensive water heater ...",
+          "description": "Sep 26, 2023 — $1,500 to $1,800 for a simple water heater replacement, plumbing companies charging over $6,000 for the exact same work.",
+          "breadcrumb": "https://structuretech.com › water-heater-replacement-ex..."
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 17,
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/DIY/comments/1ch5uuo/how_hard_is_replacing_hot_water_heater_and_do_i/",
+          "title": "How hard is replacing hot water heater and do I need to do ...",
+          "description": "Noticed some water coming from my hot water heater. How soon does this need fixed and how hard is it to do DIY?",
+          "breadcrumb": "200+ comments  ·  2 years ago"
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 18,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/l/install/water-heater",
+          "title": "Professional Water Heater Installation & Replacement",
+          "description": "Get expert water heater installation and replacement from Lowe's with flexible financing. Book your free consultation and same-day service today.",
+          "breadcrumb": "https://www.lowes.com › Install"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 19,
+          "domain": "www.angi.com",
+          "url": "https://www.angi.com/articles/how-much-does-water-heater-installation-cost.htm",
+          "title": "How Much Does Water Heater Replacement Cost? [2026 ...",
+          "description": "Jul 20, 2026 — Tank-style water heater replacement costs $881 to $1,825 while tankless systems run $1,400 to $3,900 for your home project. Read more",
+          "breadcrumb": "https://www.angi.com › ... › Plumbing › Water Heater"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 20,
+          "domain": "finance.yahoo.com",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/water-heater-replacement-cost-193642969.html",
+          "title": "When should you replace your water heater, and how ...",
+          "description": "Oct 15, 2025 — According to the home services website Angi, hot water heater replacement costs typically range from $882 to $1,807, with the average cost being ... Read more",
+          "breadcrumb": "https://finance.yahoo.com › ... › Mortgages"
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 21,
+          "domain": "www.mccrayshomeservices.com",
+          "url": "https://www.mccrayshomeservices.com/residential-home-services/water-heater-repair-%26-installation-in-west-sacramento",
+          "title": "Water Heater Repair & Installation in West Sacramento",
+          "description": "What Does a Water Heater Cost? · Repairs: $150 to $600+ · Standard tank replacement: $1,800 to $3,500+ · Tankless systems: $4,500 to $8,500+. We provide ... Read more",
+          "breadcrumb": "https://www.mccrayshomeservices.com › water-heater-r..."
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 22,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=rnbLs35mKd0",
+          "title": "Replace Your Water Heater Yourself in 10 Easy Steps",
+          "description": null,
+          "breadcrumb": "1.9M+ views  ·  3 years ago"
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 23,
+          "domain": "www.bonney.com",
+          "url": "https://www.bonney.com/plumbing/water-heaters/",
+          "title": "Water Heater Repair, Install & Replacements in Sacramento",
+          "description": "How Much Does It Cost for Tank Water Heater Services in Sacramento? · Low: $450 · Average: $4,500 · High: $9,500. What Are Some Factors That Affect the Cost ... Read more",
+          "breadcrumb": "https://www.bonney.com › Plumbing"
+        },
+        {
+          "rank_group": 15,
+          "rank_absolute": 24,
+          "domain": "www.hotwater.com",
+          "url": "https://www.hotwater.com/info-center/water-heater-replacement-cost.html",
+          "title": "How Much Does a Water Heater Cost to Replace?",
+          "description": "The total cost to replace a water heater typically ranges from $600 to $4,500 depending on the type and installation complexity. Basic tank water heaters are ... Read more",
+          "breadcrumb": "https://www.hotwater.com › Info Center"
+        },
+        {
+          "rank_group": 16,
+          "rank_absolute": 25,
+          "domain": "www.superbrothers.com",
+          "url": "https://www.superbrothers.com/cities/sacramento/water-heater-replacement/",
+          "title": "Sacramento Water Heater Replacement",
+          "description": "Sacramento water heater replacement services, including repairs, and upgrades. Online quotes, best pricing, financing options and quick top-rated service.",
+          "breadcrumb": "https://www.superbrothers.com › Sacramento"
+        },
+        {
+          "rank_group": 17,
+          "rank_absolute": 26,
+          "domain": "www.nexgenairandplumbing.com",
+          "url": "https://www.nexgenairandplumbing.com/plumbing/water-heater-installation/",
+          "title": "Water Heater Installation in Southern California - NEXGEN",
+          "description": "NEXGEN provides water heater installation and replacement services across Southern California with 24/7 service and financing options. Contact us at (820) 200- ... Read more",
+          "breadcrumb": "https://www.nexgenairandplumbing.com › plumbing › w..."
+        }
+      ]
+    },
+    {
+      "city": "Auburn",
+      "location": "Auburn,California,United States",
+      "check_url": "https://www.google.com/search?q=water%20heater%20replacement&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCZ-ldVUoBZuAEXB4LDMLsQI5",
+      "item_types": [
+        "ai_overview",
+        "local_pack",
+        "organic",
+        "popular_products",
+        "people_also_ask",
+        "perspectives",
+        "related_searches"
+      ],
+      "local_pack": [
+        {
+          "type": "local_pack",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+          "title": "ABT Plumbing, Electric, Heat & Air",
+          "description": "25+ years in business · 13170 Lincoln Way · (530) 885-6937 \nOpen · Closes 5 PM \n\"Our water heater was replaced by midday Monday, and the work looks perfect.\" \n",
+          "domain": "easyasabt.com",
+          "phone": "(530) 885-6937",
+          "booking_url": "https://book.servicetitan.com/fo36152emnjebgibu1wh4ogf?rwg_token=AE37R_jT8HHn_KMGRpun0-Cit7VWRia2Dd6pfiWi6MH21zdGi4d4J7VS61GLzkptCuCzJxkU7OzRGMlizfvrtKppy-SwvPUmmg%3D%3D&source=cat",
+          "url": "https://easyasabt.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.9,
+            "votes_count": 348,
+            "rating_max": 5
+          },
+          "cid": "5910509565019512234",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]",
+          "title": "Pro Hot Water & Plumbing Service",
+          "description": "15+ years in business · 4163 Richardson Dr · (530) 718-1700 \nOpen · Closes 7 PM \n\"... was able to come out the same day and replace our water heater .\" \n",
+          "domain": "prohotwaterservice.com",
+          "phone": "(530) 718-1700",
+          "booking_url": null,
+          "url": "https://prohotwaterservice.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.8,
+            "votes_count": 155,
+            "rating_max": 5
+          },
+          "cid": "10494627181194912027",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 3,
+          "rank_absolute": 4,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[1]/div[1]",
+          "title": "David's Plumbing",
+          "description": "10+ years in business · 12230 New Airport Rd · (916) 232-0614 \nOpen · Closes 6 PM \n\"... diagnostic appointment and next day water heater replacement .\" \n",
+          "domain": "www.davidsplumbinginc.net",
+          "phone": "(916) 232-0614",
+          "booking_url": "https://clienthub.getjobber.com/hubs/079beb95-f392-4db3-9f51-47b9c7539953/public/requests/1539437/new?rwg_token=AE37R_jgxR4pXi-ptDqvU3blCcy6uZUW8JuNfY3BJZvjNKYs2gKxCOWjSAbSkYTn64B3IX-FGEx-8znDZ9CuGW2qtgjwQsK6HA%3D%3D&source=cat",
+          "url": "https://www.davidsplumbinginc.net/?utm_source=gmb&utm_medium=organic",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 5,
+            "votes_count": 230,
+            "rating_max": 5
+          },
+          "cid": "2317774167995147884",
+          "rectangle": null
+        }
+      ],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 7,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the normal cost to replace a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Who is the best person to install a water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Can I replace my water heater myself?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "How much does Home Depot charge to replace a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 5,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/services/c/water-heater-installation/9058c024e",
+          "title": "Water Heater Replacement",
+          "description": "Same-day water heater installation is available Monday-Friday if you request install before noon and live within 30 miles of a Home Depot store.",
+          "breadcrumb": "https://www.homedepot.com › Home Services"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 8,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/l/install/water-heater",
+          "title": "Professional Water Heater Installation & Replacement",
+          "description": "Get expert water heater installation and replacement from Lowe's with flexible financing. Book your free consultation and same-day service today.",
+          "breadcrumb": "https://www.lowes.com › Install"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 9,
+          "domain": "www.yelp.com",
+          "url": "https://www.yelp.com/search?find_desc=Water+Heater+Installation&find_loc=Sacramento%2C+CA",
+          "title": "TOP 10 BEST Water Heater Installation in Sacramento, CA",
+          "description": "What are some for water heater installation/repair in Sacramento, CA: Harris Water Heaters, Inc (5/5) Doggonit Plumbing and Drain (5/5) Straight Forward ...",
+          "breadcrumb": "https://www.yelp.com › Home Services"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 11,
+          "domain": "www.superbrothers.com",
+          "url": "https://www.superbrothers.com/what-does-it-really-cost-to-replace-a-water-heater-in-sacramento/",
+          "title": "What Does It Really Cost To Replace A Water Heater In ...",
+          "description": "Dec 30, 2025 — As a reference point, one national cost guide estimates labor alone around $150–$450 for a tank-style replacement and $600–$1,900 for a tankless ... Read more",
+          "breadcrumb": "https://www.superbrothers.com › what-does-it-really-co..."
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 12,
+          "domain": "waterheatersonly.com",
+          "url": "https://waterheatersonly.com/find-a-local-installer/sacramento-water-heater-repair/",
+          "title": "Sacramento Water Heater Repair",
+          "description": "Top rated Sacramento Water Heater Service, including repairs and replacements. Call our experts 24/7/365. Call us at 916-245-2979 today. Contact us 24/7/365 ...",
+          "breadcrumb": "https://waterheatersonly.com › find-a-local-installer › sa..."
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 13,
+          "domain": "villara.com",
+          "url": "https://villara.com/plumbing/water-heater-installation/",
+          "title": "Water Heater Installation & Replacement in Sacramento, CA",
+          "description": "Call (916) 646-2701 today to schedule dependable water heater installation or replacement anywhere in Central or Northern California. When to Replace Your Water ... Read more",
+          "breadcrumb": "https://villara.com › plumbing › water-heater-installation"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 14,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=5AKzzESlx8M",
+          "title": "How to Replace a Water Heater | Gas Water Heater Install ...",
+          "description": null,
+          "breadcrumb": "2.4K+ views  ·  4 months ago"
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "domain": "www.waterheaterpros.com",
+          "url": "https://www.waterheaterpros.com/",
+          "title": "Water Heater Repair & Installation Sacramento CA",
+          "description": "Water heater replacement in Sacramento typically ranges from $1,200 to $3,500, depending on the unit type, installation complexity, and whether upgrades are ... Read more",
+          "breadcrumb": "https://www.waterheaterpros.com"
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 17,
+          "domain": "www.bonney.com",
+          "url": "https://www.bonney.com/plumbing/water-heaters/",
+          "title": "Water Heater Repair, Install & Replacements in Sacramento",
+          "description": "How Much Does It Cost for Tank Water Heater Services in Sacramento? · Low: $450 · Average: $4,500 · High: $9,500. What Are Some Factors That Affect the Cost ... Read more",
+          "breadcrumb": "https://www.bonney.com › Plumbing"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 18,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=R11AZmQrPdI&vl=en-US",
+          "title": "How to Install a 40-Gallon Water Heater (Complete Step-by ...",
+          "description": "Complete start-to-finish 40-gallon water heater installation in Carmel Valley, San Diego. If your water heater is 8–12 years old, leaking, ...",
+          "breadcrumb": "1.8K+ views  ·  8 months ago"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 19,
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/homeowners/comments/1vb4ugg/did_i_just_get_screwed_plumbers_come_over_for_a/",
+          "title": "Did I just get screwed? Plumbers come over for a water ...",
+          "description": "They quote me on the spot for $2,400 (they credited all the money I had just paid for the gas valve replacement) to replace it with a new heater ... Read more",
+          "breadcrumb": "10+ comments  ·  3 days ago"
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 20,
+          "domain": "www.facebook.com",
+          "url": "https://www.facebook.com/ejplumbingbayarea/videos/average-cost-to-replace-a-water-heater-waterheatercost-plumbingprices-smartspend/1071825404317705/",
+          "title": "Average Cost to Replace a Water Heater #WaterHeaterCost ...",
+          "description": "So how much should a water heater replacement cost? Normal water heater, traditional gas, ambient water heater, it's about between 2000 and 2500 ...",
+          "breadcrumb": "4 reactions  ·  1 year ago"
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 21,
+          "domain": "www.mccrayshomeservices.com",
+          "url": "https://www.mccrayshomeservices.com/residential-home-services/water-heater-repair-%26-installation-in-west-sacramento",
+          "title": "Water Heater Repair & Installation in West Sacramento",
+          "description": "What Does a Water Heater Cost? · Repairs: $150 to $600+ · Standard tank replacement: $1,800 to $3,500+ · Tankless systems: $4,500 to $8,500+. We provide ... Read more",
+          "breadcrumb": "https://www.mccrayshomeservices.com › water-heater-r..."
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 22,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=Yr47GH9hp0I",
+          "title": "How to Install a Water Heater the Right Way",
+          "description": null,
+          "breadcrumb": "202.9K+ views  ·  1 year ago"
+        },
+        {
+          "rank_group": 15,
+          "rank_absolute": 23,
+          "domain": "plumbingsacramento.com",
+          "url": "https://plumbingsacramento.com/roseville-ca/water-heater-replacement/",
+          "title": "Roseville, CA Water Heater Replacement | Fast Service",
+          "description": "Same-day water heater replacement in Roseville, CA. Free estimates, no fees, and reliable hot water from America's Plumbing Company.",
+          "breadcrumb": "https://plumbingsacramento.com › roseville-ca › water-..."
+        },
+        {
+          "rank_group": 16,
+          "rank_absolute": 24,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/n/video/rough-plumbing/how-to-install-a-water-heater/79756438",
+          "title": "Water Heater Installation: Step-by-Step Video Guide",
+          "description": "Restore hot water fast with reliable water heater installation. Find easy water heater replacement tips clearly demonstrated in this video from Lowe's.",
+          "breadcrumb": "https://www.lowes.com · Feb 16, 2026"
+        },
+        {
+          "rank_group": 17,
+          "rank_absolute": 25,
+          "domain": "www.yelp.com",
+          "url": "https://www.yelp.com/costs/waterheaterinstallrepair/sacramento",
+          "title": "Cost of Water Heater Installation/Repair in Sacramento, CA",
+          "description": "Find water heater installation/repair cost information to hire your next professional in Sacramento, CA, including virtual consultations.",
+          "breadcrumb": "https://www.yelp.com › costs › sacramento"
+        },
+        {
+          "rank_group": 18,
+          "rank_absolute": 26,
+          "domain": "paylesswaterheaters.com",
+          "url": "https://paylesswaterheaters.com/service/water-heater-installation",
+          "title": "Water Heater Replacement & Installation",
+          "description": "Professional water heater replacement and installation with over 35 years experience. Same-day installation & price match guarantee. Call (833) 856-3341.",
+          "breadcrumb": "https://paylesswaterheaters.com › service › water-heater..."
+        }
+      ]
+    },
+    {
+      "city": "Granite Bay",
+      "location": "Granite Bay,California,United States",
+      "check_url": "https://www.google.com/search?q=water%20heater%20replacement&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCSf-tM5zHpuAEbh43BI0b-kC",
+      "item_types": [
+        "ai_overview",
+        "local_pack",
+        "people_also_ask",
+        "organic",
+        "perspectives",
+        "discussions_and_forums",
+        "related_searches"
+      ],
+      "local_pack": [
+        {
+          "type": "local_pack",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+          "title": "United Plumbing & Water Heaters",
+          "description": "25+ years in business · Roseville, CA · (916) 656-0304 \nOpen · Closes 8 PM \n\"He came in and knocked the job out in less than 45 minutes!!!\" \n",
+          "domain": "unitedplumbingheating.com",
+          "phone": "(916) 656-0304",
+          "booking_url": "https://book.servicetitan.com/viee9grcnftu2qbsuktkz94u?rwg_token=AE37R_gDSOxNi8jpdgAqpbkYEWYmq2V6_rI5Q7_bhezE5wxXqEoejVJX_9ZKEJ9kJYKf5ajjOGBHIkyOreytkuOIsn9BP8fsyA%3D%3D&source=cat",
+          "url": "https://unitedplumbingheating.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.9,
+            "votes_count": 217,
+            "rating_max": 5
+          },
+          "cid": "5517453029064953099",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]",
+          "title": "The Plumbing Pros",
+          "description": "10+ years in business · Roseville, CA · (916) 778-7384 \nOpen · Closes 7 PM \n\"The tankless water heater was planned form 10-3pm and finished by 2pm!\" \n",
+          "domain": "theplumbingpros.biz",
+          "phone": "(916) 778-7384",
+          "booking_url": null,
+          "url": "https://theplumbingpros.biz/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 5,
+            "votes_count": 871,
+            "rating_max": 5
+          },
+          "cid": "13498097008266669257",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 3,
+          "rank_absolute": 4,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[1]/div[1]",
+          "title": "Abe Lincoln Plumbing and Heating",
+          "description": "10+ years in business · (916) 917-2752 \nOpen · Closes 9 PM \n\"Quick, professional, same day service!\" \n",
+          "domain": null,
+          "phone": "(916) 917-2752",
+          "booking_url": null,
+          "url": null,
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.8,
+            "votes_count": 57,
+            "rating_max": 5
+          },
+          "cid": "1430087207851963443",
+          "rectangle": null
+        }
+      ],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 5,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the normal cost to replace a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Who is the best person to install a water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "How much does Home Depot charge to replace a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Can I replace my water heater myself?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 6,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/services/c/water-heater-installation/9058c024e",
+          "title": "Water Heater Replacement",
+          "description": "Same-day water heater installation is available Monday-Friday if you request install before noon and live within 30 miles of a Home Depot store. Read more",
+          "breadcrumb": "https://www.homedepot.com › Home Services"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 7,
+          "domain": "www.yelp.com",
+          "url": "https://www.yelp.com/search?cflt=waterheaterinstallrepair&find_loc=Roseville%2C+CA",
+          "title": "THE BEST 10 Water Heater Installation/Repair in ...",
+          "description": "Best Water Heater Installation/Repair in Roseville, CA - Last Updated July 2026 - The Water Heater Man, The Plumbing Pros, HOTCO The Hot Water Heater ...",
+          "breadcrumb": "https://www.yelp.com › search › cflt=waterheaterinstallr..."
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 8,
+          "domain": "www.superbrothers.com",
+          "url": "https://www.superbrothers.com/what-does-it-really-cost-to-replace-a-water-heater-in-sacramento/",
+          "title": "What Does It Really Cost To Replace A Water Heater In ...",
+          "description": "Dec 30, 2025 — As a reference point, one national cost guide estimates labor alone around $150–$450 for a tank-style replacement and $600–$1,900 for a tankless ... Read more",
+          "breadcrumb": "https://www.superbrothers.com › what-does-it-really-co..."
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 9,
+          "domain": "waterheatersonly.com",
+          "url": "https://waterheatersonly.com/find-a-local-installer/sacramento-water-heater-repair/",
+          "title": "Sacramento Water Heater Repair",
+          "description": "Top rated Sacramento Water Heater Service, including repairs and replacements. Call our experts 24/7/365. Call us at 916-245-2979 today. Contact us 24/7/365 ...",
+          "breadcrumb": "https://waterheatersonly.com › find-a-local-installer › sa..."
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 11,
+          "domain": "www.waterheaterpros.com",
+          "url": "https://www.waterheaterpros.com/",
+          "title": "Water Heater Repair & Installation Sacramento CA",
+          "description": "Water heater replacement in Sacramento typically ranges from $1,200 to $3,500, depending on the unit type, installation complexity, and whether upgrades are ... Read more",
+          "breadcrumb": "https://www.waterheaterpros.com"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 13,
+          "domain": "villara.com",
+          "url": "https://villara.com/plumbing/water-heater-installation/",
+          "title": "Water Heater Installation & Replacement in Sacramento, CA",
+          "description": "Call (916) 646-2701 today to schedule dependable water heater installation or replacement anywhere in Central or Northern California. When to Replace Your Water ... Read more",
+          "breadcrumb": "https://villara.com › plumbing › water-heater-installation"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 14,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=5AKzzESlx8M",
+          "title": "How to Replace a Water Heater | Gas Water Heater Install ...",
+          "description": null,
+          "breadcrumb": "2.4K+ views  ·  4 months ago"
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 16,
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/DIY/comments/1ch5uuo/how_hard_is_replacing_hot_water_heater_and_do_i/",
+          "title": "How hard is replacing hot water heater and do I need to do ...",
+          "description": "Noticed some water coming from my hot water heater. How soon does this need fixed and how hard is it to do DIY?",
+          "breadcrumb": "200+ comments  ·  2 years ago"
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 17,
+          "domain": "gilmoreair.com",
+          "url": "https://gilmoreair.com/plumbing/water-heater-installation/",
+          "title": "Water Heater Replacement in Sacramento, California",
+          "description": "When you need a water heater replacement in the Sacramento Valley or Roseville, California, contact us today to schedule an appointment.",
+          "breadcrumb": "https://gilmoreair.com › Plumbing"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 18,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/l/install/water-heater",
+          "title": "Professional Water Heater Installation & Replacement",
+          "description": "Get expert water heater installation and replacement from Lowe's with flexible financing. Book your free consultation and same-day service today.",
+          "breadcrumb": "https://www.lowes.com › Install"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 19,
+          "domain": "structuretech.com",
+          "url": "https://structuretech.com/water-heater-replacement-expensive/",
+          "title": "Beware of outrageously expensive water heater ...",
+          "description": "Sep 26, 2023 — Many large plumbing companies are charging an outrageous amount of money for a simple water heater replacement. Read more",
+          "breadcrumb": "https://structuretech.com › water-heater-replacement-ex..."
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 20,
+          "domain": "www.angi.com",
+          "url": "https://www.angi.com/articles/how-much-does-water-heater-installation-cost.htm",
+          "title": "How Much Does Water Heater Replacement Cost? [2026 ...",
+          "description": "Jul 20, 2026 — Tank-style water heater replacement costs $881 to $1,825 while tankless systems run $1,400 to $3,900 for your home project. Read more",
+          "breadcrumb": "https://www.angi.com › ... › Plumbing › Water Heater"
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 21,
+          "domain": "www.mccrayshomeservices.com",
+          "url": "https://www.mccrayshomeservices.com/residential-home-services/water-heater-repair-%26-installation-in-west-sacramento",
+          "title": "Water Heater Repair & Installation in West Sacramento",
+          "description": "What Does a Water Heater Cost? · Repairs: $150 to $600+ · Standard tank replacement: $1,800 to $3,500+ · Tankless systems: $4,500 to $8,500+. We provide ... Read more",
+          "breadcrumb": "https://www.mccrayshomeservices.com › water-heater-r..."
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 22,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=rnbLs35mKd0",
+          "title": "Replace Your Water Heater Yourself in 10 Easy Steps",
+          "description": null,
+          "breadcrumb": "1.9M+ views  ·  3 years ago"
+        },
+        {
+          "rank_group": 15,
+          "rank_absolute": 23,
+          "domain": "www.bonney.com",
+          "url": "https://www.bonney.com/plumbing/water-heaters/",
+          "title": "Water Heater Repair, Install & Replacements in Sacramento",
+          "description": "How Much Does It Cost for Tank Water Heater Services in Sacramento? · Low: $450 · Average: $4,500 · High: $9,500. What Are Some Factors That Affect the Cost ... Read more",
+          "breadcrumb": "https://www.bonney.com › Plumbing"
+        },
+        {
+          "rank_group": 16,
+          "rank_absolute": 24,
+          "domain": "www.hotwater.com",
+          "url": "https://www.hotwater.com/info-center/water-heater-replacement-cost.html",
+          "title": "How Much Does a Water Heater Cost to Replace?",
+          "description": "The total cost to replace a water heater typically ranges from $600 to $4,500 depending on the type and installation complexity. Basic tank water heaters are ... Read more",
+          "breadcrumb": "https://www.hotwater.com › Info Center"
+        },
+        {
+          "rank_group": 17,
+          "rank_absolute": 25,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=R11AZmQrPdI&vl=en-US",
+          "title": "How to Install a 40-Gallon Water Heater (Complete Step-by ...",
+          "description": "Complete start-to-finish 40-gallon water heater installation in Carmel Valley, San Diego. If your water heater is 8–12 years old, leaking, ...",
+          "breadcrumb": "1.8K+ views  ·  8 months ago"
+        }
+      ]
+    },
+    {
+      "city": "Loomis",
+      "location": "Loomis,California,United States",
+      "check_url": "https://www.google.com/search?q=water%20heater%20replacement&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCZORNMFpCJuAEWefBW4l9Rbm",
+      "item_types": [
+        "ai_overview",
+        "local_pack",
+        "organic",
+        "popular_products",
+        "people_also_ask",
+        "perspectives",
+        "related_searches"
+      ],
+      "local_pack": [
+        {
+          "type": "local_pack",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+          "title": "Crystal Blue Plumbing Heating & Air",
+          "description": "50+ years in business · 3129 Swetzer Rd #G · (916) 238-3838 \nOpen 24 hours \nTheir website mentions replace and water heater \n",
+          "domain": "crystalblueplumbing.com",
+          "phone": "(916) 238-3838",
+          "booking_url": null,
+          "url": "https://crystalblueplumbing.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Loomis-CA",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.8,
+            "votes_count": 397,
+            "rating_max": 5
+          },
+          "cid": "14140169439079530139",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]",
+          "title": "United Plumbing & Water Heaters",
+          "description": "25+ years in business · Roseville, CA · (916) 656-0304 \nOpen · Closes 8 PM \n\"He came in and knocked the job out in less than 45 minutes!!!\" \n",
+          "domain": "unitedplumbingheating.com",
+          "phone": "(916) 656-0304",
+          "booking_url": "https://book.servicetitan.com/viee9grcnftu2qbsuktkz94u?rwg_token=AE37R_hLqtDWFGYuBXy_ILIEkzeYPnHNYESjjs_uqh_E-bslC3P8C1k4P0cAhOCnDwz5z9Coe6x7TbGnLE_ObOn52EtfiNH-mw%3D%3D&source=cat",
+          "url": "https://unitedplumbingheating.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.9,
+            "votes_count": 217,
+            "rating_max": 5
+          },
+          "cid": "5517453029064953099",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 3,
+          "rank_absolute": 4,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[1]/div[1]",
+          "title": "The Plumbing Pros",
+          "description": "10+ years in business · Roseville, CA · (916) 778-7384 \nOpen · Closes 7 PM \n\"The tankless water heater was planned form 10-3pm and finished by 2pm!\" \n",
+          "domain": "theplumbingpros.biz",
+          "phone": "(916) 778-7384",
+          "booking_url": null,
+          "url": "https://theplumbingpros.biz/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 5,
+            "votes_count": 871,
+            "rating_max": 5
+          },
+          "cid": "13498097008266669257",
+          "rectangle": null
+        }
+      ],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 8,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the normal cost to replace a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Who is the best person to install a water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Can I replace my water heater myself?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "How much does Home Depot charge to replace a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 5,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/services/c/water-heater-installation/9058c024e",
+          "title": "Water Heater Replacement",
+          "description": "Same-day water heater installation is available Monday-Friday if you request install before noon and live within 30 miles of a Home Depot store. Read more",
+          "breadcrumb": "https://www.homedepot.com › Home Services"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 6,
+          "domain": "www.yelp.com",
+          "url": "https://www.yelp.com/search?cflt=waterheaterinstallrepair&find_loc=Roseville%2C+CA",
+          "title": "THE BEST 10 Water Heater Installation/Repair in ...",
+          "description": "Best Water Heater Installation/Repair in Roseville, CA - Last Updated July 2026 - The Water Heater Man, The Plumbing Pros, HOTCO The Hot Water Heater ...",
+          "breadcrumb": "https://www.yelp.com › search › cflt=waterheaterinstallr..."
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 9,
+          "domain": "waterheatersonly.com",
+          "url": "https://waterheatersonly.com/find-a-local-installer/sacramento-water-heater-repair/",
+          "title": "Sacramento Water Heater Repair",
+          "description": "Top rated Sacramento Water Heater Service, including repairs and replacements. Call our experts 24/7/365. Call us at 916-245-2979 today. Contact us 24/7/365 ...",
+          "breadcrumb": "https://waterheatersonly.com › find-a-local-installer › sa..."
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 10,
+          "domain": "www.waterheaterpros.com",
+          "url": "https://www.waterheaterpros.com/",
+          "title": "Water Heater Repair & Installation Sacramento CA",
+          "description": "Water heater replacement in Sacramento typically ranges from $1,200 to $3,500, depending on the unit type, installation complexity, and whether upgrades are ... Read more",
+          "breadcrumb": "https://www.waterheaterpros.com"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 11,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/l/install/water-heater",
+          "title": "Professional Water Heater Installation & Replacement",
+          "description": "Get expert water heater installation and replacement from Lowe's with flexible financing. Book your free consultation and same-day service today.",
+          "breadcrumb": "https://www.lowes.com › Install"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 13,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=5AKzzESlx8M",
+          "title": "How to Replace a Water Heater | Gas Water Heater Install ...",
+          "description": null,
+          "breadcrumb": "2.4K+ views  ·  4 months ago"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 14,
+          "domain": "villara.com",
+          "url": "https://villara.com/plumbing/water-heater-installation/",
+          "title": "Water Heater Installation & Replacement in Sacramento, CA",
+          "description": "Call (916) 646-2701 today to schedule dependable water heater installation or replacement anywhere in Central or Northern California. When to Replace Your Water ... Read more",
+          "breadcrumb": "https://villara.com › plumbing › water-heater-installation"
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "domain": "www.mccrayshomeservices.com",
+          "url": "https://www.mccrayshomeservices.com/residential-home-services/water-heater-repair-%26-installation-in-west-sacramento",
+          "title": "Water Heater Repair & Installation in West Sacramento",
+          "description": "What Does a Water Heater Cost? · Repairs: $150 to $600+ · Standard tank replacement: $1,800 to $3,500+ · Tankless systems: $4,500 to $8,500+. We provide ... Read more",
+          "breadcrumb": "https://www.mccrayshomeservices.com › water-heater-r..."
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 17,
+          "domain": "www.bonney.com",
+          "url": "https://www.bonney.com/plumbing/water-heaters/",
+          "title": "Water Heater Repair, Install & Replacements in Sacramento",
+          "description": "How Much Does It Cost for Tank Water Heater Services in Sacramento? · Low: $450 · Average: $4,500 · High: $9,500. What Are Some Factors That Affect the Cost ... Read more",
+          "breadcrumb": "https://www.bonney.com › Plumbing"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 18,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=rnbLs35mKd0",
+          "title": "Replace Your Water Heater Yourself in 10 Easy Steps",
+          "description": null,
+          "breadcrumb": "1.9M+ views  ·  3 years ago"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 19,
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/homeowners/comments/1vb4ugg/did_i_just_get_screwed_plumbers_come_over_for_a/",
+          "title": "Did I just get screwed? Plumbers come over for a water ...",
+          "description": "They quote me on the spot for $2,400 (they credited all the money I had just paid for the gas valve replacement) to replace it with a new heater ... Read more",
+          "breadcrumb": "10+ comments  ·  3 days ago"
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 20,
+          "domain": "plumbingsacramento.com",
+          "url": "https://plumbingsacramento.com/roseville-ca/water-heater-replacement/",
+          "title": "Roseville, CA Water Heater Replacement | Fast Service",
+          "description": "Same-day water heater replacement in Roseville, CA. Free estimates, no fees, and reliable hot water from America's Plumbing Company.",
+          "breadcrumb": "https://plumbingsacramento.com › roseville-ca › water-..."
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 21,
+          "domain": "www.sierrapacifichome.com",
+          "url": "https://www.sierrapacifichome.com/plumbing/water-heater",
+          "title": "Water Heater Services - Plumbing",
+          "description": "Water heater repair & replacement in Sacramento. Emergency & same-day service available.",
+          "breadcrumb": "https://www.sierrapacifichome.com › plumbing › water..."
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 22,
+          "domain": "www.yelp.com",
+          "url": "https://www.yelp.com/costs/waterheaterinstallrepair/sacramento",
+          "title": "Cost of Water Heater Installation/Repair in Sacramento, CA",
+          "description": "Find water heater installation/repair cost information to hire your next professional in Sacramento, CA, including virtual consultations.",
+          "breadcrumb": "https://www.yelp.com › costs › sacramento"
+        },
+        {
+          "rank_group": 15,
+          "rank_absolute": 23,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/n/video/rough-plumbing/how-to-install-a-water-heater/79756438",
+          "title": "Water Heater Installation: Step-by-Step Video Guide",
+          "description": "Restore hot water fast with reliable water heater installation. Find easy water heater replacement tips clearly demonstrated in this video from Lowe's.",
+          "breadcrumb": "https://www.lowes.com · Feb 16, 2026"
+        },
+        {
+          "rank_group": 16,
+          "rank_absolute": 24,
+          "domain": "www.superbrothers.com",
+          "url": "https://www.superbrothers.com/cities/sacramento/water-heater-replacement/",
+          "title": "Sacramento Water Heater Replacement",
+          "description": "Sacramento water heater replacement services, including repairs, and upgrades. Online quotes, best pricing, financing options and quick top-rated service.",
+          "breadcrumb": "https://www.superbrothers.com › Sacramento"
+        },
+        {
+          "rank_group": 17,
+          "rank_absolute": 25,
+          "domain": "crystalblueplumbing.com",
+          "url": "https://crystalblueplumbing.com/water-heater-replacement-loomis-ca/",
+          "title": "Water Heater Replacement in Loomis, CA",
+          "description": "Our team of expert plumbers can install or replace any water heater. From traditional tank water heaters to efficient tankless models, our professional team ... Read more",
+          "breadcrumb": "https://crystalblueplumbing.com › water-heater-replace..."
+        },
+        {
+          "rank_group": 18,
+          "rank_absolute": 26,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=R11AZmQrPdI&vl=en-US",
+          "title": "How to Install a 40-Gallon Water Heater (Complete Step-by ...",
+          "description": "Complete start-to-finish 40-gallon water heater installation in Carmel Valley, San Diego. If your water heater is 8–12 years old, leaking, ...",
+          "breadcrumb": "1.8K+ views  ·  8 months ago"
+        }
+      ]
+    }
+  ]
+}

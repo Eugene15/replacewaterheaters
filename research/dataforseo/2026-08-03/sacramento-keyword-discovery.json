@@ -1,0 +1,504 @@
+{
+  "requested_at": "2026-08-03T17:43:26.503Z",
+  "provider": "DataForSEO Labs Google Keyword Suggestions Live",
+  "seed": "water heater replacement Sacramento",
+  "location": "United States",
+  "cost": 0.01272,
+  "returned_keywords": 6,
+  "rows": [
+    {
+      "keyword": "water heater replacement sacramento",
+      "search_volume": 170,
+      "cpc": 32.62,
+      "competition": 0.82,
+      "competition_level": "HIGH",
+      "intent": "commercial",
+      "monthly_searches": [
+        {
+          "year": 2026,
+          "month": 6,
+          "search_volume": 70
+        },
+        {
+          "year": 2026,
+          "month": 5,
+          "search_volume": 50
+        },
+        {
+          "year": 2026,
+          "month": 4,
+          "search_volume": 110
+        },
+        {
+          "year": 2026,
+          "month": 3,
+          "search_volume": 70
+        },
+        {
+          "year": 2026,
+          "month": 2,
+          "search_volume": 70
+        },
+        {
+          "year": 2026,
+          "month": 1,
+          "search_volume": 50
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "search_volume": 70
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "search_volume": 320
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "search_volume": 480
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "search_volume": 320
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "search_volume": 320
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "search_volume": 210
+        }
+      ],
+      "serp_info": {
+        "se_type": "google",
+        "check_url": "https://www.google.com/search?q=water%20heater%20replacement%20sacramento&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "local_pack",
+          "organic",
+          "people_also_ask",
+          "popular_products",
+          "related_searches"
+        ],
+        "se_results_count": 175,
+        "last_updated_time": "2026-07-06 22:13:02 +00:00",
+        "previous_updated_time": "2026-05-25 05:06:16 +00:00"
+      }
+    },
+    {
+      "keyword": "sacramento water heater replacement",
+      "search_volume": 170,
+      "cpc": 3.72,
+      "competition": 0.5,
+      "competition_level": "MEDIUM",
+      "intent": "commercial",
+      "monthly_searches": [
+        {
+          "year": 2026,
+          "month": 6,
+          "search_volume": 260
+        },
+        {
+          "year": 2026,
+          "month": 5,
+          "search_volume": 320
+        },
+        {
+          "year": 2026,
+          "month": 4,
+          "search_volume": 480
+        },
+        {
+          "year": 2026,
+          "month": 3,
+          "search_volume": 210
+        },
+        {
+          "year": 2026,
+          "month": 2,
+          "search_volume": 50
+        },
+        {
+          "year": 2026,
+          "month": 1,
+          "search_volume": 50
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "search_volume": 70
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "search_volume": 110
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "search_volume": 110
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "search_volume": 210
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "search_volume": 110
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "search_volume": 30
+        }
+      ],
+      "serp_info": {
+        "se_type": "google",
+        "check_url": "https://www.google.com/search?q=sacramento%20water%20heater%20replacement&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "local_pack",
+          "organic",
+          "people_also_ask",
+          "popular_products",
+          "related_searches"
+        ],
+        "se_results_count": 174,
+        "last_updated_time": "2026-07-11 02:26:05 +00:00",
+        "previous_updated_time": "2026-05-04 19:43:00 +00:00"
+      }
+    },
+    {
+      "keyword": "water heater replacement in sacramento",
+      "search_volume": 170,
+      "cpc": 3.72,
+      "competition": 0.5,
+      "competition_level": "MEDIUM",
+      "intent": "commercial",
+      "monthly_searches": [
+        {
+          "year": 2026,
+          "month": 6,
+          "search_volume": 260
+        },
+        {
+          "year": 2026,
+          "month": 5,
+          "search_volume": 320
+        },
+        {
+          "year": 2026,
+          "month": 4,
+          "search_volume": 480
+        },
+        {
+          "year": 2026,
+          "month": 3,
+          "search_volume": 210
+        },
+        {
+          "year": 2026,
+          "month": 2,
+          "search_volume": 50
+        },
+        {
+          "year": 2026,
+          "month": 1,
+          "search_volume": 50
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "search_volume": 70
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "search_volume": 110
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "search_volume": 110
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "search_volume": 210
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "search_volume": 110
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "search_volume": 30
+        }
+      ],
+      "serp_info": {
+        "se_type": "google",
+        "check_url": "https://www.google.com/search?q=water%20heater%20replacement%20in%20sacramento&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "local_services",
+          "local_pack",
+          "organic",
+          "people_also_ask",
+          "people_also_search",
+          "discussions_and_forums",
+          "related_searches"
+        ],
+        "se_results_count": 2090000,
+        "last_updated_time": "2026-03-22 16:28:12 +00:00",
+        "previous_updated_time": "2025-08-28 12:29:58 +00:00"
+      }
+    },
+    {
+      "keyword": "water heater replacement sacramento ca",
+      "search_volume": 170,
+      "cpc": 3.72,
+      "competition": 0.5,
+      "competition_level": "MEDIUM",
+      "intent": "commercial",
+      "monthly_searches": [
+        {
+          "year": 2026,
+          "month": 6,
+          "search_volume": 260
+        },
+        {
+          "year": 2026,
+          "month": 5,
+          "search_volume": 320
+        },
+        {
+          "year": 2026,
+          "month": 4,
+          "search_volume": 480
+        },
+        {
+          "year": 2026,
+          "month": 3,
+          "search_volume": 210
+        },
+        {
+          "year": 2026,
+          "month": 2,
+          "search_volume": 50
+        },
+        {
+          "year": 2026,
+          "month": 1,
+          "search_volume": 50
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "search_volume": 70
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "search_volume": 110
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "search_volume": 110
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "search_volume": 210
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "search_volume": 110
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "search_volume": 30
+        }
+      ],
+      "serp_info": {
+        "se_type": "google",
+        "check_url": "https://www.google.com/search?q=water%20heater%20replacement%20sacramento%20ca&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "local_pack",
+          "organic",
+          "discussions_and_forums",
+          "people_also_search",
+          "people_also_ask",
+          "related_searches"
+        ],
+        "se_results_count": 1810000,
+        "last_updated_time": "2026-03-07 11:35:40 +00:00",
+        "previous_updated_time": "2026-01-02 11:32:35 +00:00"
+      }
+    },
+    {
+      "keyword": "water heater replacement cost sacramento",
+      "search_volume": 30,
+      "cpc": 14.09,
+      "competition": 0.72,
+      "competition_level": "HIGH",
+      "intent": "informational",
+      "monthly_searches": [
+        {
+          "year": 2026,
+          "month": 6,
+          "search_volume": 10
+        },
+        {
+          "year": 2026,
+          "month": 5,
+          "search_volume": 20
+        },
+        {
+          "year": 2026,
+          "month": 4,
+          "search_volume": 20
+        },
+        {
+          "year": 2026,
+          "month": 3,
+          "search_volume": 40
+        },
+        {
+          "year": 2026,
+          "month": 2,
+          "search_volume": 20
+        },
+        {
+          "year": 2026,
+          "month": 1,
+          "search_volume": 20
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "search_volume": 20
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "search_volume": 30
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "search_volume": 20
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "search_volume": 30
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "search_volume": 30
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "search_volume": 30
+        }
+      ],
+      "serp_info": {
+        "se_type": "google",
+        "check_url": "https://www.google.com/search?q=water%20heater%20replacement%20cost%20sacramento&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+        "serp_item_types": [
+          "ai_overview",
+          "organic",
+          "people_also_ask",
+          "discussions_and_forums",
+          "related_searches"
+        ],
+        "se_results_count": 112,
+        "last_updated_time": "2026-06-14 09:23:53 +00:00",
+        "previous_updated_time": "2026-03-10 12:24:27 +00:00"
+      }
+    },
+    {
+      "keyword": "hot water heater replacement sacramento",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": null,
+      "competition_level": null,
+      "intent": "commercial",
+      "monthly_searches": [
+        {
+          "year": 2026,
+          "month": 5,
+          "search_volume": 0
+        },
+        {
+          "year": 2026,
+          "month": 4,
+          "search_volume": 0
+        },
+        {
+          "year": 2026,
+          "month": 3,
+          "search_volume": 0
+        },
+        {
+          "year": 2026,
+          "month": 2,
+          "search_volume": 0
+        },
+        {
+          "year": 2026,
+          "month": 1,
+          "search_volume": 0
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "search_volume": 0
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "search_volume": 0
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "search_volume": 0
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "search_volume": 0
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "search_volume": 0
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "search_volume": 0
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "search_volume": 0
+        }
+      ],
+      "serp_info": null
+    }
+  ]
+}
