@@ -80,6 +80,7 @@ h1 { max-width: 680px; margin-bottom: 22px; color: var(--navy); font-size: clamp
 .intent-strip p { margin: 0; color: oklch(78% 0.08 250); font-size: 0.72rem; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; }
 .intent-strip strong { padding-left: 20px; border-left: 1px solid oklch(60% 0.05 255 / 0.45); font-size: 0.87rem; }
 
+.intent-strip, .section, .final-cta, .site-footer { content-visibility: auto; contain-intrinsic-size: auto 800px; }
 .section { padding-block: clamp(80px, 10vw, 140px); }
 .section-heading--split { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(300px, 0.65fr); gap: 8vw; align-items: end; margin-bottom: 58px; }
 .section-heading h2, .cost h2, .faq h2 { margin-bottom: 0; color: var(--navy); font-size: clamp(2rem, 3.8vw, 3.65rem); line-height: 1.07; letter-spacing: -0.008em; word-spacing: 0.17em; text-wrap: balance; }
