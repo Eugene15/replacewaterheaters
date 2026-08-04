@@ -16,7 +16,7 @@
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
-body { margin: 0; font-family: "Archivo", Arial, sans-serif; color: var(--ink); background: var(--paper); line-height: 1.6; }
+body { margin: 0; font-family: Arial, Helvetica, sans-serif; color: var(--ink); background: var(--paper); line-height: 1.6; }
 img { display: block; max-width: 100%; }
 a { color: inherit; }
 button, input, select, textarea { font: inherit; }
@@ -39,13 +39,14 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .header-call { flex: 0 0 auto; padding: 13px 17px; background: var(--blue); color: var(--white); text-decoration: none; font-weight: 700; font-size: 0.9rem; }
 
 .hero { min-height: 680px; position: relative; overflow: hidden; background: linear-gradient(90deg, var(--sky) 0 55%, transparent 55%); }
-.hero__image { position: absolute; inset: 0 0 0 50%; background: url('/assets/water-heater-hero.png') center / cover no-repeat; }
+.hero__image { position: absolute; inset: 0 0 0 50%; overflow: hidden; }
+.hero__image img { width: 100%; height: 100%; object-fit: cover; object-position: center; }
 .hero__image::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, var(--sky) 0%, transparent 30%); }
 .hero__grid { min-height: 680px; position: relative; display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(370px, 0.72fr); align-items: center; gap: clamp(40px, 7vw, 100px); padding-block: 70px; }
 .hero__copy { max-width: 650px; }
 .eyebrow { display: flex; align-items: center; gap: 10px; margin: 0 0 18px; color: var(--blue-dark); font-size: 0.73rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; }
 .eyebrow span { width: 26px; height: 2px; background: currentColor; }
-.eyebrow--light { color: oklch(80% 0.12 250); }
+.eyebrow--light { color: oklch(95% 0.025 250); }
 h1, h2, h3, p { margin-top: 0; }
 h1 { max-width: 680px; margin-bottom: 22px; color: var(--navy); font-size: clamp(2.4rem, 4.8vw, 4.3rem); line-height: 1; letter-spacing: -0.012em; word-spacing: 0.15em; font-weight: 800; text-wrap: balance; }
 .hero__lead { max-width: 610px; margin-bottom: 28px; color: oklch(35% 0.035 255); font-size: clamp(1.05rem, 1.7vw, 1.28rem); line-height: 1.55; }
@@ -93,7 +94,7 @@ h1 { max-width: 680px; margin-bottom: 22px; color: var(--navy); font-size: clamp
 .process { background: var(--navy-deep); color: var(--white); }
 .process__grid { display: grid; grid-template-columns: 0.8fr 1fr; gap: 9vw; }
 .process__intro h2, .service-area h2 { margin-bottom: 22px; font-size: clamp(2.1rem, 4vw, 3.8rem); line-height: 1.07; letter-spacing: -0.008em; word-spacing: 0.17em; color: var(--white); }
-.process__intro > p:not(.eyebrow), .service-area__copy > p:not(.eyebrow) { color: oklch(78% 0.025 255); max-width: 520px; }
+.process__intro > p:not(.eyebrow), .service-area__copy > p:not(.eyebrow) { color: oklch(95% 0.015 255); max-width: 520px; }
 .button--light { margin-top: 14px; background: var(--white); color: var(--navy); }
 .steps { margin: 0; padding: 0; list-style: none; }
 .steps li { display: grid; grid-template-columns: 54px 1fr; gap: 20px; padding: 28px 0; border-top: 1px solid oklch(55% 0.05 255 / 0.38); }
@@ -161,7 +162,8 @@ h1 { max-width: 680px; margin-bottom: 22px; color: var(--navy); font-size: clamp
   .header-call { padding: 10px 12px; font-size: 0; }
   .header-call span { font-size: 1.1rem; }
   .hero { min-height: auto; background: var(--sky); }
-  .hero__image { position: relative; inset: auto; height: 320px; opacity: 1; background-position: 63% center; }
+  .hero__image { position: relative; inset: auto; height: 320px; opacity: 1; }
+  .hero__image img { object-position: 63% center; }
   .hero__image::after { background: linear-gradient(0deg, var(--sky), transparent 35%); }
   .hero__grid { min-height: auto; display: flex; flex-direction: column; align-items: stretch; padding: 0 0 48px; margin-top: -38px; }
   .hero__copy { position: relative; z-index: 2; }
