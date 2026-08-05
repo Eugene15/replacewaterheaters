@@ -1,0 +1,111 @@
+{
+  "requested_at": "2026-08-05T15:49:06.433Z",
+  "keyword_count": 403,
+  "total_cost": 0.7800000000000002,
+  "tasks": [
+    {
+      "market": "Sacramento",
+      "location_name": "Sacramento,California,United States",
+      "id": "08051549-2186-0110-0000-805d7f7c1402",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "cost": 0.06
+    },
+    {
+      "market": "San Diego",
+      "location_name": "San Diego,California,United States",
+      "id": "08051549-2186-0110-0000-9094127149f5",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "cost": 0.06
+    },
+    {
+      "market": "San Jose",
+      "location_name": "San Jose,California,United States",
+      "id": "08051549-2186-0110-0000-c163a658ef66",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "cost": 0.06
+    },
+    {
+      "market": "Huntington Beach",
+      "location_name": "Huntington Beach,California,United States",
+      "id": "08051549-2186-0110-0000-1b3cbc85ae70",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "cost": 0.06
+    },
+    {
+      "market": "Orange County",
+      "location_name": "Orange County,California,United States",
+      "id": "08051549-2186-0110-0000-2f8f48350705",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "cost": 0.06
+    },
+    {
+      "market": "Livermore",
+      "location_name": "Livermore,California,United States",
+      "id": "08051549-2186-0110-0000-901d24f544e0",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "cost": 0.06
+    },
+    {
+      "market": "San Francisco",
+      "location_name": "San Francisco,California,United States",
+      "id": "08051549-2186-0110-0000-cdcd297b60d2",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "cost": 0.06
+    },
+    {
+      "market": "Fremont",
+      "location_name": "Fremont,California,United States",
+      "id": "08051549-2186-0110-0000-0d871b01a364",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "cost": 0.06
+    },
+    {
+      "market": "Los Angeles",
+      "location_name": "Los Angeles,California,United States",
+      "id": "08051549-2186-0110-0000-0c6166781ac7",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "cost": 0.06
+    },
+    {
+      "market": "Folsom",
+      "location_name": "Folsom,California,United States",
+      "id": "08051549-2186-0110-0000-361c4489dc97",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "cost": 0.06
+    },
+    {
+      "market": "Roseville",
+      "location_name": "Roseville,California,United States",
+      "id": "08051549-2186-0110-0000-dd4cd28d6fba",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "cost": 0.06
+    },
+    {
+      "market": "San Mateo",
+      "location_name": "San Mateo,California,United States",
+      "id": "08051549-2186-0110-0000-651c0f61c740",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "cost": 0.06
+    },
+    {
+      "market": "Sunnyvale",
+      "location_name": "Sunnyvale,California,United States",
+      "id": "08051549-2186-0110-0000-4ea4da2ddc74",
+      "status_code": 20100,
+      "status_message": "Task Created.",
+      "cost": 0.06
+    }
+  ]
+}

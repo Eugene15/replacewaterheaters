@@ -1,0 +1,18 @@
+rank,market,cluster_deduplicated_total,water_heater,painting_interior,painting_exterior,painting_general,wallpaper,floristry
+1,Los Angeles,73860,2380,360,660,1620,180,68660
+2,Orange County,41850,1690,230,370,1000,110,38450
+3,San Diego,24320,1330,150,170,980,100,21590
+4,San Francisco,15780,600,110,150,310,80,14530
+5,Sacramento,14700,680,90,130,280,50,13470
+6,San Jose,14270,830,230,350,540,60,12260
+7,Fremont,4090,300,50,140,270,40,3290
+8,Chula Vista,3130,180,50,60,70,40,2730
+9,Roseville,2950,280,50,150,500,40,1930
+10,Sunnyvale,2270,190,50,60,50,30,1890
+11,Huntington Beach,2220,160,50,60,70,30,1850
+12,Thousand Oaks,1890,120,50,60,50,40,1570
+13,San Mateo,1760,170,50,60,60,40,1380
+14,Santa Monica,1670,90,50,60,40,40,1390
+15,Folsom,1650,130,50,60,70,40,1300
+16,Carlsbad,1260,100,50,60,50,40,960
+17,Livermore,1130,130,50,60,70,40,780

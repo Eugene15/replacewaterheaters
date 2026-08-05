@@ -1,0 +1,5004 @@
+{
+  "keyword_count": 403,
+  "market_count": 17,
+  "summary": [
+    {
+      "market": "Los Angeles",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 2380,
+          "keywords_with_volume": 108,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 590,
+              "cpc": 27.34
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 390,
+              "cpc": 33.42
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 390,
+              "cpc": 13.54
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater installation",
+              "volume": 40,
+              "cpc": 0
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater installation",
+              "volume": 720,
+              "cpc": 16.49
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater installation",
+              "volume": 70,
+              "cpc": 0
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater installation",
+              "volume": 50,
+              "cpc": 0
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater installation",
+              "volume": 110,
+              "cpc": 7.44
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "tank to tankless water heater conversion",
+              "volume": 10,
+              "cpc": 2.07
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 360,
+          "keywords_with_volume": 55,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters near me",
+              "volume": 90,
+              "cpc": 7.92
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior wall painting",
+              "volume": 50,
+              "cpc": 0.08
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting contractor",
+              "volume": 140,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 70,
+              "cpc": 3.36
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "home interior wall painting",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 660,
+          "keywords_with_volume": 54,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters near me",
+              "volume": 70,
+              "cpc": 34.05
+            },
+            {
+              "cluster": "service",
+              "keyword": "painting services",
+              "volume": 210,
+              "cpc": 22.51
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting contractor",
+              "volume": 210,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior house painting cost",
+              "volume": 40,
+              "cpc": 10.35
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 110,
+              "cpc": 0.71
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 20,
+              "cpc": 0.97
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 1620,
+          "keywords_with_volume": 27,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 880,
+              "cpc": 18.21
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 210,
+              "cpc": 2.77
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company near me",
+              "volume": 480,
+              "cpc": 18.6
+            },
+            {
+              "cluster": "cost",
+              "keyword": "house painting cost",
+              "volume": 50,
+              "cpc": 6.64
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 180,
+          "keywords_with_volume": 33,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer",
+              "volume": 110,
+              "cpc": 24.13
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 20,
+              "cpc": 14.62
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 40,
+              "cpc": 13.25
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 68660,
+          "keywords_with_volume": 85,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 3600,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 5400,
+              "cpc": 10.19
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 40500,
+              "cpc": 4.63
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 50,
+              "cpc": 1.83
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 14800,
+              "cpc": 0.77
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "wedding flowers",
+              "volume": 480,
+              "cpc": 1.29
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "flower centerpieces",
+              "volume": 90,
+              "cpc": 1.29
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 70,
+              "cpc": 3.5
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 2400,
+              "cpc": 1.65
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 1000,
+              "cpc": 2.96
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "boutonniere wedding",
+              "volume": 260,
+              "cpc": 0.1
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 73860
+    },
+    {
+      "market": "Orange County",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 1690,
+          "keywords_with_volume": 109,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 590,
+              "cpc": 37.89
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 170,
+              "cpc": 15.15
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 320,
+              "cpc": 12.33
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "emergency water heater replacement",
+              "volume": 10,
+              "cpc": 40.82
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater replacement",
+              "volume": 30,
+              "cpc": 59.36
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater installation",
+              "volume": 390,
+              "cpc": 14.96
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater installation",
+              "volume": 50,
+              "cpc": 0
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater installation",
+              "volume": 30,
+              "cpc": 0
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater installation",
+              "volume": 90,
+              "cpc": 4.56
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "tank to tankless water heater conversion",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 230,
+          "keywords_with_volume": 55,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters near me",
+              "volume": 30,
+              "cpc": 18.19
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior painting services",
+              "volume": 40,
+              "cpc": 74.88
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting contractor",
+              "volume": 110,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 40,
+              "cpc": 4.89
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "whole house interior painting",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 370,
+          "keywords_with_volume": 54,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters near me",
+              "volume": 30,
+              "cpc": 25.06
+            },
+            {
+              "cluster": "service",
+              "keyword": "painting services",
+              "volume": 70,
+              "cpc": 61.51
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting contractor",
+              "volume": 170,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior house painting cost",
+              "volume": 30,
+              "cpc": 5.81
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 50,
+              "cpc": 1.51
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 20,
+              "cpc": 103.18
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 1000,
+          "keywords_with_volume": 27,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 480,
+              "cpc": 23.72
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 90,
+              "cpc": 6.91
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company near me",
+              "volume": 390,
+              "cpc": 8.95
+            },
+            {
+              "cluster": "cost",
+              "keyword": "house painting cost",
+              "volume": 40,
+              "cpc": 0
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 110,
+          "keywords_with_volume": 34,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer near me",
+              "volume": 70,
+              "cpc": 15.22
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 10,
+              "cpc": 3.3
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 20,
+              "cpc": 6.53
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 38450,
+          "keywords_with_volume": 85,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 1900,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 3600,
+              "cpc": 10.18
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 22200,
+              "cpc": 4.97
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 30,
+              "cpc": 1.33
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 8100,
+              "cpc": 1.24
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "wedding flowers",
+              "volume": 320,
+              "cpc": 2.35
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "floral centerpieces",
+              "volume": 70,
+              "cpc": 1.57
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 30,
+              "cpc": 0
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 1300,
+              "cpc": 1.56
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 720,
+              "cpc": 2.79
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "boutonniere wedding",
+              "volume": 170,
+              "cpc": 0.19
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 41850
+    },
+    {
+      "market": "San Diego",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 1330,
+          "keywords_with_volume": 111,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 320,
+              "cpc": 18.39
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 260,
+              "cpc": 27.52
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 260,
+              "cpc": 11.61
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater replacement",
+              "volume": 20,
+              "cpc": 74.51
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater installation",
+              "volume": 320,
+              "cpc": 25.32
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater installation",
+              "volume": 30,
+              "cpc": 61.7
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater installation",
+              "volume": 30,
+              "cpc": 0
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater installation",
+              "volume": 70,
+              "cpc": 0
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "tank to tankless water heater conversion",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 150,
+          "keywords_with_volume": 49,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters near me",
+              "volume": 20,
+              "cpc": 5.36
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior painting services",
+              "volume": 30,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting contractor",
+              "volume": 70,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 20,
+              "cpc": 42.64
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "whole house interior painting",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 170,
+          "keywords_with_volume": 49,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters",
+              "volume": 10,
+              "cpc": 42.25
+            },
+            {
+              "cluster": "service",
+              "keyword": "painting services",
+              "volume": 30,
+              "cpc": 5.85
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting contractor",
+              "volume": 70,
+              "cpc": 50.06
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior house painting cost",
+              "volume": 10,
+              "cpc": 26.54
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 40,
+              "cpc": 5.07
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 980,
+          "keywords_with_volume": 27,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 590,
+              "cpc": 22.92
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 50,
+              "cpc": 4.64
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company near me",
+              "volume": 320,
+              "cpc": 11.33
+            },
+            {
+              "cluster": "cost",
+              "keyword": "house painting cost",
+              "volume": 20,
+              "cpc": 24.45
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 100,
+          "keywords_with_volume": 29,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer",
+              "volume": 70,
+              "cpc": 12.78
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 10,
+              "cpc": 16.08
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 21590,
+          "keywords_with_volume": 85,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 1300,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 2400,
+              "cpc": 10.23
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 12100,
+              "cpc": 4.9
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 20,
+              "cpc": 1.82
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 4400,
+              "cpc": 0.91
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "wedding flowers",
+              "volume": 170,
+              "cpc": 0.97
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "floral centerpieces",
+              "volume": 20,
+              "cpc": 0.43
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 720,
+              "cpc": 1.18
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 320,
+              "cpc": 3.09
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "boutonniere wedding",
+              "volume": 110,
+              "cpc": 0.61
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 24320
+    },
+    {
+      "market": "San Francisco",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 600,
+          "keywords_with_volume": 103,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 90,
+              "cpc": 28.67
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 50,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 140,
+              "cpc": 23.14
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater installation",
+              "volume": 170,
+              "cpc": 1.26
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater installation",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater cost",
+              "volume": 10,
+              "cpc": 1.35
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater installation",
+              "volume": 90,
+              "cpc": 0
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "gas to electric water heater conversion",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 110,
+          "keywords_with_volume": 49,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior painting",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting contractor",
+              "volume": 40,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 20,
+              "cpc": 7.16
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "home interior wall painting",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 150,
+          "keywords_with_volume": 52,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters",
+              "volume": 10,
+              "cpc": 29.97
+            },
+            {
+              "cluster": "service",
+              "keyword": "painting services",
+              "volume": 50,
+              "cpc": 42.44
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting contractor",
+              "volume": 50,
+              "cpc": 20.66
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 310,
+          "keywords_with_volume": 27,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 110,
+              "cpc": 9.37
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 50,
+              "cpc": 2.34
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company near me",
+              "volume": 140,
+              "cpc": 10.36
+            },
+            {
+              "cluster": "cost",
+              "keyword": "house painting cost",
+              "volume": 10,
+              "cpc": 9.17
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 80,
+          "keywords_with_volume": 29,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer",
+              "volume": 50,
+              "cpc": 5.27
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 10.81
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 14530,
+          "keywords_with_volume": 85,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 880,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 1600,
+              "cpc": 10.46
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 8100,
+              "cpc": 5.02
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 10,
+              "cpc": 1.63
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 2900,
+              "cpc": 0.58
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "wedding flowers",
+              "volume": 170,
+              "cpc": 1.16
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "floral centerpieces",
+              "volume": 20,
+              "cpc": 0.34
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 480,
+              "cpc": 1.7
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 260,
+              "cpc": 2.94
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "boutonniere wedding",
+              "volume": 90,
+              "cpc": 0.58
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 15780
+    },
+    {
+      "market": "Sacramento",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 680,
+          "keywords_with_volume": 106,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 140,
+              "cpc": 26.76
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 110,
+              "cpc": 81.94
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 170,
+              "cpc": 15.1
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater installation",
+              "volume": 140,
+              "cpc": 0.23
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater replacement",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater installation",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater installation",
+              "volume": 50,
+              "cpc": 0
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "tank to tankless water heater conversion",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 90,
+          "keywords_with_volume": 43,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters",
+              "volume": 10,
+              "cpc": 39.01
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior painting",
+              "volume": 10,
+              "cpc": 39.01
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting contractor",
+              "volume": 40,
+              "cpc": 3.33
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "room painting services",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 130,
+          "keywords_with_volume": 53,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior house painters",
+              "volume": 10,
+              "cpc": 45.49
+            },
+            {
+              "cluster": "service",
+              "keyword": "painting services",
+              "volume": 20,
+              "cpc": 19.41
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting contractor",
+              "volume": 70,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior house painting cost",
+              "volume": 10,
+              "cpc": 12.89
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 280,
+          "keywords_with_volume": 27,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 90,
+              "cpc": 10.89
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 40,
+              "cpc": 1.41
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company near me",
+              "volume": 140,
+              "cpc": 12.78
+            },
+            {
+              "cluster": "cost",
+              "keyword": "painting estimate",
+              "volume": 10,
+              "cpc": 27.51
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 29,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer near me",
+              "volume": 20,
+              "cpc": 4.64
+            },
+            {
+              "cluster": "provider",
+              "keyword": "hire wallpaper installer",
+              "volume": 10,
+              "cpc": 3.6
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "type",
+              "keyword": "vinyl wallpaper installation",
+              "volume": 10,
+              "cpc": 1.08
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 13470,
+          "keywords_with_volume": 85,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 720,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 880,
+              "cpc": 9.61
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 8100,
+              "cpc": 3.25
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 2900,
+              "cpc": 0.27
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "wedding flowers",
+              "volume": 90,
+              "cpc": 0.96
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "floral centerpieces",
+              "volume": 10,
+              "cpc": 0.64
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 10,
+              "cpc": 3.14
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 480,
+              "cpc": 1.22
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 210,
+              "cpc": 2.9
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "boutonniere wedding",
+              "volume": 50,
+              "cpc": 0
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 14700
+    },
+    {
+      "market": "San Jose",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 830,
+          "keywords_with_volume": 106,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 170,
+              "cpc": 26.37
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 110,
+              "cpc": 85.26
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 210,
+              "cpc": 20.39
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater replacement",
+              "volume": 10,
+              "cpc": 14.19
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater installation",
+              "volume": 170,
+              "cpc": 28.55
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater replacement",
+              "volume": 20,
+              "cpc": 7.89
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater installation",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater installation",
+              "volume": 90,
+              "cpc": 0
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "tank to tankless water heater conversion",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "broken water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 230,
+          "keywords_with_volume": 49,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters near me",
+              "volume": 90,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior painting",
+              "volume": 70,
+              "cpc": 11.98
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting contractor",
+              "volume": 40,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "kitchen painters",
+              "volume": 10,
+              "cpc": 21.5
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 350,
+          "keywords_with_volume": 47,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters near me",
+              "volume": 110,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "painting services",
+              "volume": 70,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting company near me",
+              "volume": 110,
+              "cpc": 11.38
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior painting estimate",
+              "volume": 10,
+              "cpc": 12.83
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 30,
+              "cpc": 0.3
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 20,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 540,
+          "keywords_with_volume": 27,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 260,
+              "cpc": 7.86
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 50,
+              "cpc": 6.94
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company near me",
+              "volume": 210,
+              "cpc": 26.61
+            },
+            {
+              "cluster": "cost",
+              "keyword": "house painting cost",
+              "volume": 20,
+              "cpc": 0
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 60,
+          "keywords_with_volume": 27,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer",
+              "volume": 30,
+              "cpc": 11.52
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 12260,
+          "keywords_with_volume": 85,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 720,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 1000,
+              "cpc": 8.92
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 6600,
+              "cpc": 4.64
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 20,
+              "cpc": 3.64
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 2900,
+              "cpc": 0.91
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "wedding flowers",
+              "volume": 140,
+              "cpc": 0.97
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "floral centerpieces",
+              "volume": 50,
+              "cpc": 7.45
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 480,
+              "cpc": 1.12
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 260,
+              "cpc": 3.33
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "boutonniere wedding",
+              "volume": 70,
+              "cpc": 0.13
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 14270
+    },
+    {
+      "market": "Fremont",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 300,
+          "keywords_with_volume": 95,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 70,
+              "cpc": 40.47
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 50,
+              "cpc": 5
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 70,
+              "cpc": 26.69
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater installation",
+              "volume": 40,
+              "cpc": 10.88
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater replacement",
+              "volume": 10,
+              "cpc": 17.18
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater installation",
+              "volume": 10,
+              "cpc": 17.07
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater installation",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "gas to electric water heater conversion",
+              "volume": 10,
+              "cpc": 13.83
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 37,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior painting services",
+              "volume": 10,
+              "cpc": 68.99
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior house painting cost",
+              "volume": 10,
+              "cpc": 0.74
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "bedroom painters",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 140,
+          "keywords_with_volume": 45,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "exterior painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting company near me",
+              "volume": 90,
+              "cpc": 34.63
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior house painting cost",
+              "volume": 10,
+              "cpc": 17.69
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 10,
+              "cpc": 0.01
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 270,
+          "keywords_with_volume": 25,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 70,
+              "cpc": 1.79
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company near me",
+              "volume": 170,
+              "cpc": 8.27
+            },
+            {
+              "cluster": "cost",
+              "keyword": "house painting cost",
+              "volume": 10,
+              "cpc": 3.46
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 40,
+          "keywords_with_volume": 22,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer near me",
+              "volume": 10,
+              "cpc": 81.01
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "type",
+              "keyword": "wall mural installation",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 3290,
+          "keywords_with_volume": 83,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 210,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 260,
+              "cpc": 8.16
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 1600,
+              "cpc": 2.52
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 10,
+              "cpc": 0.77
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 880,
+              "cpc": 0.81
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "wedding flowers",
+              "volume": 30,
+              "cpc": 1.47
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "floral centerpieces",
+              "volume": 20,
+              "cpc": 0.16
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 170,
+              "cpc": 0.87
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 70,
+              "cpc": 4.18
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "boutonniere wedding",
+              "volume": 20,
+              "cpc": 0
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 4090
+    },
+    {
+      "market": "Chula Vista",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 180,
+          "keywords_with_volume": 87,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 50,
+              "cpc": 43.41
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 10,
+              "cpc": 7.71
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 40,
+              "cpc": 8.9
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater installation",
+              "volume": 10,
+              "cpc": 48.29
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater installation",
+              "volume": 30,
+              "cpc": 32.5
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater installation cost",
+              "volume": 10,
+              "cpc": 4.92
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater installation",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "tank to tankless water heater conversion",
+              "volume": 0,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 33,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters",
+              "volume": 10,
+              "cpc": 17.17
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior painting",
+              "volume": 10,
+              "cpc": 17.17
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "kitchen painters",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 60,
+          "keywords_with_volume": 41,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "exterior painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "surface",
+              "keyword": "brick house painting",
+              "volume": 10,
+              "cpc": 13.76
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 70,
+          "keywords_with_volume": 27,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 30,
+              "cpc": 5.44
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company near me",
+              "volume": 20,
+              "cpc": 4.54
+            },
+            {
+              "cluster": "cost",
+              "keyword": "painting quote",
+              "volume": 10,
+              "cpc": 23.22
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 40,
+          "keywords_with_volume": 22,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "professional wallpaper installer",
+              "volume": 10,
+              "cpc": 9.39
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 2730,
+          "keywords_with_volume": 76,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 110,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 210,
+              "cpc": 9.74
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 1600,
+              "cpc": 5
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 10,
+              "cpc": 0.26
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 590,
+              "cpc": 1.1
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "bridal bouquets",
+              "volume": 20,
+              "cpc": 0.85
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 0,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "event flower arrangements",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 110,
+              "cpc": 0.89
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 50,
+              "cpc": 4.57
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "wedding flowers delivery",
+              "volume": 10,
+              "cpc": 1.34
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 3130
+    },
+    {
+      "market": "Roseville",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 280,
+          "keywords_with_volume": 86,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 70,
+              "cpc": 19.36
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 70,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 40,
+              "cpc": 10.52
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater installation",
+              "volume": 40,
+              "cpc": 0
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater installation",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "gas to electric water heater conversion",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 34,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "inside house painters",
+              "volume": 10,
+              "cpc": 18.04
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior wall painting",
+              "volume": 10,
+              "cpc": 32.97
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "cabinet painting services",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 150,
+          "keywords_with_volume": 44,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "painting services",
+              "volume": 90,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting contractor",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 500,
+          "keywords_with_volume": 27,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 90,
+              "cpc": 2.31
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company near me",
+              "volume": 390,
+              "cpc": 0.13
+            },
+            {
+              "cluster": "cost",
+              "keyword": "house painting estimate",
+              "volume": 10,
+              "cpc": 38.23
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 40,
+          "keywords_with_volume": 23,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper hanging near me",
+              "volume": 10,
+              "cpc": 8.73
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 1930,
+          "keywords_with_volume": 79,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 90,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 210,
+              "cpc": 9.33
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 1000,
+              "cpc": 4.6
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 480,
+              "cpc": 0.51
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "wedding flowers",
+              "volume": 20,
+              "cpc": 1.16
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "event flower arrangements",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 50,
+              "cpc": 0.65
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 30,
+              "cpc": 4.5
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "boutonniere wedding",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 2950
+    },
+    {
+      "market": "Sunnyvale",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 190,
+          "keywords_with_volume": 88,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 30,
+              "cpc": 7.81
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 30,
+              "cpc": 16.68
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater installation",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater installation",
+              "volume": 30,
+              "cpc": 0
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater cost",
+              "volume": 10,
+              "cpc": 4.24
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater installation",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "gas to electric water heater conversion",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 34,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 10,
+              "cpc": 1.37
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "cabinet painting services",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 60,
+          "keywords_with_volume": 39,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "exterior painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 23,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 10,
+              "cpc": 0.58
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company",
+              "volume": 10,
+              "cpc": 12.28
+            },
+            {
+              "cluster": "cost",
+              "keyword": "house painting cost",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 30,
+          "keywords_with_volume": 19,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 1890,
+          "keywords_with_volume": 80,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 140,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 170,
+              "cpc": 10.38
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 1000,
+              "cpc": 5.84
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 390,
+              "cpc": 1.49
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "wedding flowers",
+              "volume": 20,
+              "cpc": 1.18
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "event flower arrangements",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 90,
+              "cpc": 1.05
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 30,
+              "cpc": 5.28
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "wedding flower bouquets",
+              "volume": 10,
+              "cpc": 1.74
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 2270
+    },
+    {
+      "market": "Huntington Beach",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 160,
+          "keywords_with_volume": 86,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 40,
+              "cpc": 8.18
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 20,
+              "cpc": 15.42
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater installation near me",
+              "volume": 40,
+              "cpc": 0
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "tank to tankless water heater conversion",
+              "volume": 0,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 33,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior house painter",
+              "volume": 10,
+              "cpc": 28.67
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior house painting",
+              "volume": 10,
+              "cpc": 28.67
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting contractors near me",
+              "volume": 10,
+              "cpc": 79.2
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "kitchen painters",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 60,
+          "keywords_with_volume": 44,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior house painters",
+              "volume": 10,
+              "cpc": 61.52
+            },
+            {
+              "cluster": "service",
+              "keyword": "exterior house painting",
+              "volume": 10,
+              "cpc": 61.52
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting company near me",
+              "volume": 10,
+              "cpc": 1.01
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior painting quote",
+              "volume": 10,
+              "cpc": 10.67
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 70,
+          "keywords_with_volume": 25,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 30,
+              "cpc": 62.94
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "house painting cost",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 30,
+          "keywords_with_volume": 22,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer near me",
+              "volume": 10,
+              "cpc": 63.74
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 1850,
+          "keywords_with_volume": 82,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 90,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 210,
+              "cpc": 12.73
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 1000,
+              "cpc": 5.08
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 390,
+              "cpc": 1.49
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "wedding flowers",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "flower centerpieces",
+              "volume": 10,
+              "cpc": 1.54
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 50,
+              "cpc": 0.25
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 40,
+              "cpc": 5.49
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "boutonniere wedding",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 2220
+    },
+    {
+      "market": "Thousand Oaks",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 120,
+          "keywords_with_volume": 81,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 20,
+              "cpc": 89.78
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 10,
+              "cpc": 67.78
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 10,
+              "cpc": 21.69
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater installation",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater installation cost",
+              "volume": 20,
+              "cpc": 8.62
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater installation",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "tank to tankless water heater conversion",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 33,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "bedroom painters",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 60,
+          "keywords_with_volume": 42,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "exterior painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting company near me",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "surface",
+              "keyword": "house trim painting",
+              "volume": 10,
+              "cpc": 12.58
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 26,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 20,
+              "cpc": 9.87
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company near me",
+              "volume": 10,
+              "cpc": 12.46
+            },
+            {
+              "cluster": "cost",
+              "keyword": "house painting cost",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 40,
+          "keywords_with_volume": 23,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 1570,
+          "keywords_with_volume": 77,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 90,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 170,
+              "cpc": 12.83
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 880,
+              "cpc": 7.65
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 320,
+              "cpc": 0.1
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "wedding flowers",
+              "volume": 10,
+              "cpc": 0.91
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 0,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "event flower arrangements",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 40,
+              "cpc": 1.1
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 20,
+              "cpc": 6.49
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "boutonniere wedding",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 1890
+    },
+    {
+      "market": "San Mateo",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 170,
+          "keywords_with_volume": 89,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 30,
+              "cpc": 37.62
+            },
+            {
+              "cluster": "installation",
+              "keyword": "tank water heater install",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 20,
+              "cpc": 21.82
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater installation",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater installation",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater replacement",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "gas to electric water heater conversion",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 33,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 10,
+              "cpc": 9.74
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "kitchen painters",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 60,
+          "keywords_with_volume": 41,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters near me",
+              "volume": 10,
+              "cpc": 10.11
+            },
+            {
+              "cluster": "service",
+              "keyword": "painting services",
+              "volume": 10,
+              "cpc": 41.72
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting contractor",
+              "volume": 10,
+              "cpc": 1.31
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior painting quote",
+              "volume": 10,
+              "cpc": 16.08
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 60,
+          "keywords_with_volume": 25,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 20,
+              "cpc": 3.21
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 10,
+              "cpc": 0.01
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company",
+              "volume": 20,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "house painting cost",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 40,
+          "keywords_with_volume": 23,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 1380,
+          "keywords_with_volume": 77,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 70,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 140,
+              "cpc": 11.87
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 720,
+              "cpc": 5.57
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 320,
+              "cpc": 0.19
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "bridal bouquets",
+              "volume": 10,
+              "cpc": 1.42
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "event flower arrangements",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 50,
+              "cpc": 0.53
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 20,
+              "cpc": 4.43
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "wedding flowers delivery",
+              "volume": 10,
+              "cpc": 11.69
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 1760
+    },
+    {
+      "market": "Santa Monica",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 90,
+          "keywords_with_volume": 70,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 10,
+              "cpc": 29.28
+            },
+            {
+              "cluster": "cost",
+              "keyword": "hot water heater cost",
+              "volume": 10,
+              "cpc": 9.41
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater installation",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "tank to tankless water heater conversion",
+              "volume": 0,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 21,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "cabinet painting services",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 60,
+          "keywords_with_volume": 37,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "exterior painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 40,
+          "keywords_with_volume": 23,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "house painting cost",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 40,
+          "keywords_with_volume": 20,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 1390,
+          "keywords_with_volume": 77,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 90,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 210,
+              "cpc": 12.84
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 720,
+              "cpc": 7.08
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 260,
+              "cpc": 2.95
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "bridal bouquets",
+              "volume": 10,
+              "cpc": 0.67
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "event flower arrangements",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 30,
+              "cpc": 0
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 20,
+              "cpc": 7.5
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "boutonniere wedding",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 1670
+    },
+    {
+      "market": "Folsom",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 130,
+          "keywords_with_volume": 87,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 20,
+              "cpc": 0.06
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation near me",
+              "volume": 10,
+              "cpc": 151.96
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 20,
+              "cpc": 2.97
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater cost",
+              "volume": 20,
+              "cpc": 21.37
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater installation",
+              "volume": 10,
+              "cpc": 22.07
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater installation",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "gas to electric water heater conversion",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 29,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters near me",
+              "volume": 10,
+              "cpc": 9.53
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "cabinet painting services",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 60,
+          "keywords_with_volume": 43,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "exterior painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 70,
+          "keywords_with_volume": 25,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 30,
+              "cpc": 13.18
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 10,
+              "cpc": 20.16
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company near me",
+              "volume": 20,
+              "cpc": 8.36
+            },
+            {
+              "cluster": "cost",
+              "keyword": "painting estimate",
+              "volume": 10,
+              "cpc": 0.99
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 40,
+          "keywords_with_volume": 21,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 1300,
+          "keywords_with_volume": 76,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 70,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 140,
+              "cpc": 10.02
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 720,
+              "cpc": 6.33
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 10,
+              "cpc": 1.94
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 260,
+              "cpc": 0.2
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "bridal bouquets",
+              "volume": 10,
+              "cpc": 0.96
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 0,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "event flower arrangements",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 10,
+              "cpc": 4.32
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 40,
+              "cpc": 0.24
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 20,
+              "cpc": 2.85
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "boutonniere wedding",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 1650
+    },
+    {
+      "market": "Carlsbad",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 100,
+          "keywords_with_volume": 86,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 20,
+              "cpc": 9.34
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater installation cost",
+              "volume": 10,
+              "cpc": 14.53
+            },
+            {
+              "cluster": "gas",
+              "keyword": "cost to replace gas water heater",
+              "volume": 10,
+              "cpc": 10.13
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater installation",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater cost",
+              "volume": 10,
+              "cpc": 2.2
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "tank to tankless water heater conversion",
+              "volume": 0,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 29,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters near me",
+              "volume": 10,
+              "cpc": 41.59
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior painting",
+              "volume": 10,
+              "cpc": 35.62
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "cabinet painting services",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 60,
+          "keywords_with_volume": 42,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters near me",
+              "volume": 10,
+              "cpc": 78.68
+            },
+            {
+              "cluster": "service",
+              "keyword": "exterior painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting company near me",
+              "volume": 10,
+              "cpc": 41.86
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 24,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 20,
+              "cpc": 3.57
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "house painting cost",
+              "volume": 10,
+              "cpc": 43.67
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 40,
+          "keywords_with_volume": 22,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer",
+              "volume": 10,
+              "cpc": 22.42
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 10,
+              "cpc": 2.63
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 960,
+          "keywords_with_volume": 77,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 50,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 170,
+              "cpc": 12.23
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 480,
+              "cpc": 5.3
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 170,
+              "cpc": 0.24
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "wedding flowers",
+              "volume": 10,
+              "cpc": 5.58
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 0,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "event flower arrangements",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 30,
+              "cpc": 1.11
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "funeral flowers",
+              "volume": 10,
+              "cpc": 4.57
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "boutonniere wedding",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 1260
+    },
+    {
+      "market": "Livermore",
+      "categories": {
+        "water_heater": {
+          "cluster_deduplicated_volume": 130,
+          "keywords_with_volume": 89,
+          "clusters": [
+            {
+              "cluster": "replacement",
+              "keyword": "water heater replacement",
+              "volume": 20,
+              "cpc": 4.43
+            },
+            {
+              "cluster": "installation",
+              "keyword": "water heater installation",
+              "volume": 20,
+              "cpc": 146.74
+            },
+            {
+              "cluster": "cost",
+              "keyword": "water heater replacement cost",
+              "volume": 20,
+              "cpc": 10.03
+            },
+            {
+              "cluster": "same_day",
+              "keyword": "same day water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tank",
+              "keyword": "tank water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "tankless",
+              "keyword": "tankless water heater price",
+              "volume": 10,
+              "cpc": 5.52
+            },
+            {
+              "cluster": "gas",
+              "keyword": "gas water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "electric",
+              "keyword": "electric water heater replacement",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "heat_pump",
+              "keyword": "heat pump water heater installation",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "conversion",
+              "keyword": "gas to electric water heater conversion",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "problem",
+              "keyword": "replace leaking water heater",
+              "volume": 0,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_interior": {
+          "cluster_deduplicated_volume": 50,
+          "keywords_with_volume": 27,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "interior painters near me",
+              "volume": 10,
+              "cpc": 10.21
+            },
+            {
+              "cluster": "service",
+              "keyword": "interior painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "interior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "interior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "rooms",
+              "keyword": "cabinet painting services",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_exterior": {
+          "cluster_deduplicated_volume": 60,
+          "keywords_with_volume": 39,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "exterior painters",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "service",
+              "keyword": "exterior painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "exterior painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "exterior painting cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "surface",
+              "keyword": "stucco painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "residential",
+              "keyword": "professional house painter",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "painting_general": {
+          "cluster_deduplicated_volume": 70,
+          "keywords_with_volume": 24,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "house painters near me",
+              "volume": 40,
+              "cpc": 16.87
+            },
+            {
+              "cluster": "service",
+              "keyword": "house painting",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "provider",
+              "keyword": "painting company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "painting estimate",
+              "volume": 10,
+              "cpc": 19.13
+            }
+          ]
+        },
+        "wallpaper": {
+          "cluster_deduplicated_volume": 40,
+          "keywords_with_volume": 19,
+          "clusters": [
+            {
+              "cluster": "core",
+              "keyword": "wallpaper installer near me",
+              "volume": 10,
+              "cpc": 15.29
+            },
+            {
+              "cluster": "provider",
+              "keyword": "wallpaper installation company",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "cost",
+              "keyword": "wallpaper installer cost",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "type",
+              "keyword": "peel and stick wallpaper installer",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        },
+        "floristry": {
+          "cluster_deduplicated_volume": 780,
+          "keywords_with_volume": 75,
+          "clusters": [
+            {
+              "cluster": "occasion",
+              "keyword": "valentines flowers",
+              "volume": 40,
+              "cpc": 0
+            },
+            {
+              "cluster": "delivery",
+              "keyword": "flower delivery",
+              "volume": 90,
+              "cpc": 11.63
+            },
+            {
+              "cluster": "core",
+              "keyword": "flowers",
+              "volume": 390,
+              "cpc": 8.37
+            },
+            {
+              "cluster": "custom",
+              "keyword": "custom bouquets",
+              "volume": 10,
+              "cpc": 1.41
+            },
+            {
+              "cluster": "roses",
+              "keyword": "roses",
+              "volume": 170,
+              "cpc": 0.41
+            },
+            {
+              "cluster": "wedding",
+              "keyword": "bridal bouquets",
+              "volume": 10,
+              "cpc": 0.56
+            },
+            {
+              "cluster": "corporate",
+              "keyword": "corporate flowers",
+              "volume": 0,
+              "cpc": 0
+            },
+            {
+              "cluster": "event",
+              "keyword": "floral centerpieces",
+              "volume": 10,
+              "cpc": 0.1
+            },
+            {
+              "cluster": "luxury",
+              "keyword": "luxury bouquets",
+              "volume": 10,
+              "cpc": 0
+            },
+            {
+              "cluster": "arrangements",
+              "keyword": "flower bouquet",
+              "volume": 30,
+              "cpc": 0
+            },
+            {
+              "cluster": "sympathy",
+              "keyword": "sympathy flower arrangements",
+              "volume": 10,
+              "cpc": 11.19
+            },
+            {
+              "cluster": "wedding_event",
+              "keyword": "boutonniere wedding",
+              "volume": 10,
+              "cpc": 0
+            }
+          ]
+        }
+      },
+      "cluster_deduplicated_total": 1130
+    }
+  ]
+}

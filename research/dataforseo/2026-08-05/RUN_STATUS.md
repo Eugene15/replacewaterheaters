@@ -22,10 +22,23 @@ A second checkpointed run saved the last four markets. It unnecessarily repeated
 
 The saved four-market file is `all-services-geo-volume-from-13.json`. Complete results for the first 13 unique markets remain unavailable.
 
-## Cheapest completion path
+## Completion
 
-Run the first 13 markets through Google Ads Search Volume Standard Queue:
+The user authorized the recovery run. The first 13 markets were completed through Google Ads Search Volume Standard Queue:
 
 - 13 tasks × $0.06 = **$0.78 additional cost**.
+- All 13 task results were collected successfully.
+- The results were merged with Santa Monica, Chula Vista, Carlsbad, and Thousand Oaks from the checkpointed Live run.
+- Final coverage: **403 keywords × 17 markets = 6,851 measurements**.
+- Final combined files:
+  - `all-services-17-market-geo-volume-complete.json`
+  - `all-services-17-market-keyword-volume.csv`
+  - `all-services-17-market-volume-matrix.csv`
+  - `all-services-17-market-summary.csv`
 
-Do not execute this paid completion step without telling the user the cost and obtaining authorization.
+Total DataForSEO spend for this workflow:
+
+- Keyword Ideas: **$0.66**.
+- Original and checkpointed Live geo calls: **$1.62**.
+- Standard Queue recovery: **$0.78**.
+- **Grand total: $3.06**.
