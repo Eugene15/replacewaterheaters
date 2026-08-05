@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-08-05T15:38:39.639Z",
+  "source": "C:\\Users\\eugen\\Documents\\waterh\\research\\dataforseo\\2026-08-05\\all-services-keyword-ideas.json",
+  "existing_master_keywords": 298,
+  "new_candidates": 105,
+  "projected_total": 403,
+  "stats": [
+    {
+      "category": "water_heater",
+      "accepted": 31
+    },
+    {
+      "category": "painting_interior",
+      "accepted": 11
+    },
+    {
+      "category": "painting_exterior",
+      "accepted": 13
+    },
+    {
+      "category": "wallpaper",
+      "accepted": 0
+    },
+    {
+      "category": "floristry",
+      "accepted": 50
+    }
+  ]
+}

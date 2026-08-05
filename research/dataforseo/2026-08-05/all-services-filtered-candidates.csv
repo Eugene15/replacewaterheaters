@@ -1,0 +1,106 @@
+category,cluster,keyword,us_volume,cpc,intent
+water_heater,tankless,tankless water heater cost,33100,5.49,commercial
+water_heater,cost,water heater cost,12100,5.15,informational
+water_heater,cost,hot water heater replacement cost,8100,11.5,informational
+water_heater,cost,hot water heater cost,8100,5.38,informational
+water_heater,tankless,tankless water heater installation gas,4400,18.48,transactional
+water_heater,installation,tank water heater install,4400,0.08,commercial
+water_heater,replacement,water heater service,3600,48.73,commercial
+water_heater,tankless,tankless electric water heater installation,3600,17.07,transactional
+water_heater,tankless,tankless water heater replacement cost,3600,12.8,informational
+water_heater,tankless,tankless water heater price,2900,4.57,commercial
+water_heater,tankless,electric tankless water heater cost,2900,3.2,informational
+water_heater,tankless,tankless water heater service,2400,40.79,commercial
+water_heater,tankless,replace tankless water heater,2400,16.68,transactional
+water_heater,cost,hot water heater installation cost,2400,14.23,informational
+water_heater,electric,electric water heater cost,1900,4.16,informational
+water_heater,electric,electric water heater replacement cost,1600,14.28,informational
+water_heater,gas,gas water heater cost,1600,4.91,informational
+water_heater,heat_pump,heat pump water heater cost,1300,3.58,informational
+water_heater,tankless,propane tankless water heater installation,1000,1.53,commercial
+water_heater,tankless,tankless water heater installation services,880,47.12,commercial
+water_heater,tankless,tankless gas water heater cost,880,4.16,informational
+water_heater,tankless,gas tankless water heater cost,880,4.12,informational
+water_heater,gas,gas hot water heater cost,590,3.69,informational
+water_heater,electric,electric hot water heater installation cost,480,9.08,informational
+water_heater,gas,gas hot water heater installation,320,23.6,commercial
+water_heater,electric,electric hot water heater installation,320,16.46,commercial
+water_heater,tankless,natural gas tankless water heater installation,260,13.89,commercial
+water_heater,tankless,gas tankless hot water heater installation,170,34.52,commercial
+water_heater,electric,hot water heater installation electric,140,7.4,transactional
+water_heater,tankless,tankless water heater company,110,63.76,commercial
+water_heater,tankless,cost to install electric tankless hot water heater,40,0,informational
+painting_interior,service,interior door painting services,140,2.91,commercial
+painting_interior,provider,house interior painting contractors,140,0,commercial
+painting_interior,provider,interior home painting company,110,31.61,navigational
+painting_interior,provider,interior house painting companies,110,31.61,commercial
+painting_interior,cost,interior house painting estimates,70,13.96,informational
+painting_interior,service,cheap interior painters,50,21.48,commercial
+painting_interior,provider,interior home painting contractors,40,0,commercial
+painting_interior,cost,interior home painting estimate,30,15.14,commercial
+painting_interior,service,home interior painting services,20,57.03,commercial
+painting_interior,cost,interior painters quotes,10,0,informational
+painting_interior,service,residential house interior painting,10,0,informational
+painting_exterior,service,painting services,14800,14.04,commercial
+painting_exterior,service,local painting services,1900,30.28,commercial
+painting_exterior,residential,professional house painter,1900,15.64,commercial
+painting_exterior,provider,house painting contractors,1900,8,commercial
+painting_exterior,provider,professional painting contractors,1600,16.49,commercial
+painting_exterior,provider,local painting contractors,1000,6.38,navigational
+painting_exterior,provider,house exterior painting contractor,880,0,commercial
+painting_exterior,service,exterior painting professional,390,8.75,commercial
+painting_exterior,provider,professional house painting contractor,390,0,commercial
+painting_exterior,provider,professional house painting contractors,390,0,commercial
+painting_exterior,residential,professional exterior house painters,110,30.9,commercial
+painting_exterior,residential,professional home painters,50,9.34,commercial
+painting_exterior,residential,professional residential painters,30,19.19,commercial
+floristry,occasion,valentines flowers,201000,1.75,transactional
+floristry,arrangements,flower bouquet,110000,1.41,transactional
+floristry,sympathy,funeral flowers,49500,3.5,transactional
+floristry,sympathy,funeral flower arrangements,27100,2.64,transactional
+floristry,arrangements,flower bouquet near me,22200,1.36,transactional
+floristry,delivery,flower delivery service,14800,8.4,commercial
+floristry,wedding_event,boutonniere wedding,14800,0.49,transactional
+floristry,delivery,flower delivery services online,12100,8.15,commercial
+floristry,delivery,online flower delivery,9900,8.03,transactional
+floristry,delivery,cheap flower delivery,9900,4.47,transactional
+floristry,core,same day flowers,8100,12.18,transactional
+floristry,delivery,deliver flowers,8100,8.45,commercial
+floristry,delivery,send flowers online,8100,8.38,transactional
+floristry,sympathy,funeral flowers delivery,8100,6.66,transactional
+floristry,wedding_event,corsage flower,8100,0.51,transactional
+floristry,occasion,mother's day flower delivery,6600,12.53,transactional
+floristry,delivery,best flower delivery,6600,8.66,commercial
+floristry,delivery,flower bouquet delivery,6600,5.16,transactional
+floristry,wedding_event,wedding flower bouquets,6600,0.85,transactional
+floristry,delivery,flower delivery today,5400,13.07,transactional
+floristry,delivery,local flower delivery,5400,8.35,transactional
+floristry,delivery,fresh flower delivery,5400,5.18,transactional
+floristry,sympathy,sympathy flowers delivery,4400,7.8,transactional
+floristry,delivery,best online flower delivery,4400,6.04,commercial
+floristry,occasion,valentines flower bouquet,4400,0.69,transactional
+floristry,occasion,mother's day flowers delivery,3600,6.32,transactional
+floristry,arrangements,fresh flower bouquet,3600,1.09,transactional
+floristry,wedding_event,rose bridal bouquet,3600,0.41,transactional
+floristry,delivery,flower delivery same day,2900,10.79,transactional
+floristry,delivery,best flower delivery services,2900,8.24,commercial
+floristry,arrangements,custom flower bouquet,2900,1.55,transactional
+floristry,sympathy,sympathy flower arrangements,2400,3.79,informational
+floristry,core,florist flowers,1900,2.39,commercial
+floristry,wedding_event,bridal bouquet fresh flowers,1600,0.74,transactional
+floristry,wedding_event,wedding flowers delivery,1300,2.9,transactional
+floristry,delivery,same day flower delivery service,1000,10.89,transactional
+floristry,delivery,same day flower delivery services,1000,10.89,transactional
+floristry,delivery,cheap same day flower delivery,590,4.64,transactional
+floristry,wedding_event,bridal bouquet flowers,590,0.85,transactional
+floristry,wedding_event,wedding bridal bouquet,390,0.49,transactional
+floristry,delivery,best same day flower delivery,320,9.6,commercial
+floristry,sympathy,sympathy flowers same day delivery,210,10.38,transactional
+floristry,sympathy,funeral flowers same day delivery,170,8.59,transactional
+floristry,delivery,flower bouquet delivery same day,170,6.13,transactional
+floristry,delivery,same day delivery flower bouquet,170,6.13,transactional
+floristry,delivery,local flower delivery same day,170,6.07,transactional
+floristry,delivery,florist flower delivery,140,4.32,commercial
+floristry,delivery,online flower bouquet delivery,110,3.42,transactional
+floristry,delivery,send flowers online same day,90,8.21,transactional
+floristry,delivery,flower bouquet same day delivery,90,3.87,transactional
