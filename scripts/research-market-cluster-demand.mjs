@@ -15,7 +15,7 @@ const clusters = [
   { id: "replacement", stem: "water heater replacement" },
   { id: "installation", stem: "water heater installation" },
   { id: "cost", stem: "water heater replacement cost" },
-  { id: "tankless", stem: "tankless water heater" },
+  { id: "tankless", stem: "tankless water heater replacement" },
   { id: "same_day", stem: "same day water heater replacement" },
   { id: "gas", stem: "gas water heater replacement" },
   { id: "electric", stem: "electric water heater replacement" },

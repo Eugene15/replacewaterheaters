@@ -6,7 +6,7 @@ const password = process.env.DATAFORSEO_PASSWORD;
 const baseUrl = process.env.DATAFORSEO_BASE_URL || "https://api.dataforseo.com/v3";
 if (!username || !password) throw new Error("DataForSEO credentials are required.");
 
-const seed = "water heater Sacramento";
+const seed = "water heater replacement Sacramento";
 const location = "United States";
 const response = await fetch(`${baseUrl}/dataforseo_labs/google/keyword_ideas/live`, {
   method: "POST",

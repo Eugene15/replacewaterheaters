@@ -38,7 +38,7 @@ const stems = [
   "water heater installer",
   "replace water heater",
   "water heater replacement cost",
-  "new water heater",
+  "new water heater installation",
 ];
 
 const keywordMeta = cities.flatMap(({ city, county }) =>

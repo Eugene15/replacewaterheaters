@@ -54,6 +54,8 @@ GitHub: https://github.com/Eugene15/replacewaterheaters
 
 Не создавать страницы по объёму бака, сроку службы или отдельным брендам без нового решения пользователя. Не смешивать e-commerce/product intent с локальной услугой replacement.
 
+Каноническое рабочее ядро: `DATAFORSEO_LIVE_KEYWORDS_STRICT.csv`. В SEO-таргетинг, структуру посадочных и суммы спроса включать только запросы с явным интентом replacement, installation, installer, changeout, swap или conversion. Широкие запросы вроде `water heater`, `tankless water heater` и `gas water heater` не являются целевыми и не учитываются как спрос на замену. Их допустимо употреблять только естественно в тексте при описании типов оборудования, которые компания заменяет.
+
 ## 4. Правило стоимости DataForSEO
 
 **Перед каждым новым платным запросом DataForSEO обязательно сначала сообщить пользователю точную или максимально близкую оценку стоимости и только затем выполнять запрос.**
@@ -342,7 +344,7 @@ Homepage — Sacramento water heater replacement (/)
 | Primary keyword | `water heater replacement {city}` |
 | Secondary keyword | `water heater installation {city}` |
 | Supporting cluster | `water heater replacement cost {city}` |
-| Supporting cluster | `tankless water heater {city}` |
+| Supporting cluster | `tankless water heater replacement {city}` |
 | Supporting phrases | same-day, gas, electric, heat pump |
 | Title | `Water Heater Replacement in {City}, CA | Wellmade` |
 | H1 | `Water heater replacement in {City}` |

@@ -14,6 +14,8 @@ This file is the source of truth for the approved organic-search structure and t
 - Same-day availability can be mentioned, but it is not a separate SEO page at this stage.
 - Do not publish claims about licensing, warranties, reviews, ratings, or years in business until verified business information is supplied.
 - Do not target product-shopping or informational intent such as capacities, lifespan, or brand-only searches.
+- The canonical active keyword set is `DATAFORSEO_LIVE_KEYWORDS_STRICT.csv`. Only queries with explicit replacement, installation, installer, changeout, swap, or conversion intent belong in targeting, landing-page planning, and demand totals.
+- Broad equipment queries such as `water heater`, `tankless water heater`, or `gas water heater` may appear naturally when describing equipment we replace, but they are not SEO targets and are not counted as replacement demand.
 - Specifically excluded from the commercial SEO structure:
   - `40 gallon water heater`
   - `50 gallon water heater`
@@ -162,7 +164,7 @@ Each city gets one primary commercial page.
 | Primary keyword | `water heater replacement {city}` |
 | Secondary keyword | `water heater installation {city}` |
 | Supporting cluster | `water heater replacement cost {city}` |
-| Supporting cluster | `tankless water heater {city}` |
+| Supporting cluster | `tankless water heater replacement {city}` |
 | Supporting phrases | same-day availability, gas, electric, heat pump |
 | Title | `Water Heater Replacement in {City}, CA | Wellmade` |
 | H1 | `Water heater replacement in {City}` |
