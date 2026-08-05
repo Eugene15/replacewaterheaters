@@ -1,0 +1,2400 @@
+{
+  "requested_at": "2026-08-05T16:33:33.100Z",
+  "provider": "DataForSEO Google Organic Live Advanced",
+  "location_name": "San Diego,California,United States",
+  "device": "mobile",
+  "depth": 20,
+  "cost": 0.032,
+  "results": [
+    {
+      "category": "floristry",
+      "keyword": "flowers",
+      "cost": 0.004,
+      "check_url": "https://www.google.com/search?q=flowers&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCUsekq0PU9mAEXnfFf39IToN",
+      "item_type_counts": {
+        "local_pack": 3,
+        "knowledge_graph": 1,
+        "people_also_ask": 1,
+        "organic": 18,
+        "video": 1,
+        "people_also_search": 2,
+        "images": 1
+      },
+      "local_pack": [
+        {
+          "type": "local_pack",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/c-wiz[1]",
+          "title": "Allen's Flowers & Plants - Downtown San Diego",
+          "description": "Open · 620 Market St",
+          "domain": "www.allensflowers.com",
+          "phone": "+16192337673",
+          "booking_url": null,
+          "url": "https://www.allensflowers.com/?utm_source=google&utm_medium=organic&utm_campaign=gmbdowntown",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.7,
+            "votes_count": 555,
+            "rating_max": 5
+          },
+          "cid": "772976497302362588",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 2,
+          "rank_absolute": 2,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/c-wiz[2]",
+          "title": "luzneys flowers",
+          "description": "Open · 1150 Seventh Ave STE. #2",
+          "domain": "www.luzneysflowers.com",
+          "phone": "+16192281529",
+          "booking_url": null,
+          "url": "https://www.luzneysflowers.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.9,
+            "votes_count": 46,
+            "rating_max": 5
+          },
+          "cid": "5308651469011887022",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 3,
+          "rank_absolute": 3,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/c-wiz[3]",
+          "title": "Nostalgia Flowers and Gifts",
+          "description": "Open · 1425 Market St",
+          "domain": "www.nostalgiaflowersandgifts.com",
+          "phone": "+16196966208",
+          "booking_url": null,
+          "url": "https://www.nostalgiaflowersandgifts.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 5,
+            "votes_count": 89,
+            "rating_max": 5
+          },
+          "cid": "11840070542991045138",
+          "rectangle": null
+        }
+      ],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 6,
+          "domain": "www.1800flowers.com",
+          "url": "https://www.1800flowers.com/",
+          "title": "Flowers, Flower Delivery, Fresh Flowers Online – 1-800-Flowers.com",
+          "description": "There's no better place to order flowers online than 1-800-Flowers.com. Whether you're looking to buy flowers and gifts like roses, orchids, gift baskets, ...",
+          "breadcrumb": "https://www.1800flowers.com"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 7,
+          "domain": "www.allensflowers.com",
+          "url": "https://www.allensflowers.com/?srsltid=AfmBOorDV3aE5K_LfQta1U0-JAxBgh1Qi-df7vthiOfBvQgf9vcvQab1",
+          "title": "Allen's Flowers & Plants | San Diego's Best Florist (13x) | Same-Day Delivery",
+          "description": "Allen's Flowers & Plants is a family-owned San Diego florist established in 1980. Voted \"Best Florist\" Same-day flower delivery is available throughout San ...",
+          "breadcrumb": "https://www.allensflowers.com"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 8,
+          "domain": "www.4seasonsflowers.com",
+          "url": "https://www.4seasonsflowers.com/?srsltid=AfmBOoor10SiZZSTNifpCK-cXTUPmvtCEBRGsXBIOVVvU7lxdEdISeRT",
+          "title": "Four Seasons Flowers: San Diego Flower Delivery & Florist",
+          "description": "Four Seasons Flowers is a San Diego-based florist offering same-day delivery of a wide variety of flowers and gifts for various occasions.",
+          "breadcrumb": "https://www.4seasonsflowers.com"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 9,
+          "domain": "www.nativepoppy.com",
+          "url": "https://www.nativepoppy.com/?srsltid=AfmBOoo6ozLCvZZ-SDAmNAexMkSxf_IZZbifVgA13yxQ87-NQCubxPBV",
+          "title": "Flower Shop San Diego | Native Poppy in San Diego",
+          "description": "Order pretty wild flowers wrapped in paper or arranged in a vase for pick up or local delivery in sunny San Diego.",
+          "breadcrumb": "https://www.nativepoppy.com"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "domain": "m.yelp.com",
+          "url": "https://m.yelp.com/biz/flowers-a-la-carte-san-diego",
+          "title": "Flowers 'a La Carte Photos",
+          "description": "this is a full service florist! 11676 Carmel Mountain Rd San Diego, CA 92128 Directions (858) 487-5522 … opens at 10:00 AM on Monday, Tuesday, Wednesday :00 AM ...",
+          "breadcrumb": "https://m.yelp.com"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "domain": "thesdflowershop.com",
+          "url": "https://thesdflowershop.com/",
+          "title": "SD Flower Shop | San Diego's Favorite Flowers",
+          "description": "Every bloom tells a story, every arrangement says it perfectly. Delivery all over San Diego. Open 7 Days a Week. We Work with Your Budget. Delivery and Pickup.",
+          "breadcrumb": "https://thesdflowershop.com"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 12,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=G7KNmW9a75Y",
+          "title": "Miley Cyrus - Flowers (Official Video)",
+          "description": "Official Video for “Flowers” by Miley Cyrus Listen to & Download “Flowers” out now: https://mileycyrus.lnk.to/Flowers Pre-Order “Endless ...",
+          "breadcrumb": "1.3B+ views"
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 13,
+          "domain": "www.davesflowerbox.com",
+          "url": "https://www.davesflowerbox.com/",
+          "title": "San Diego Florist - Flower Delivery by Dave's Flower Box",
+          "description": "Order flowers online from your florist in San Diego, CA. fresh flowers and hand delivery right to your door in San Diego. (619) 298-7247 (800) 690-3283 (619) ...",
+          "breadcrumb": "https://www.davesflowerbox.com"
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 15,
+          "domain": "www.littlehouseofflowerssd.com",
+          "url": "https://www.littlehouseofflowerssd.com/",
+          "title": "Little House Of Flowers: San Diego Florist | San Diego CA Flower Shop",
+          "description": "Let us create a custom flower arrangement for you. Buy Now. Serving all San Diego and The Nation. Located at 1017 Rosecrans St. Flower Delivery To San Diego ...",
+          "breadcrumb": "https://www.littlehouseofflowerssd.com"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 17,
+          "domain": "www.1800flowers.com",
+          "url": "https://www.1800flowers.com/articles/flower-facts/flower-types",
+          "title": "Types of Flowers, 60 Different Kinds of Common Flowers | Petal Talk",
+          "description": "60 Popular Types of Flowers in the US · 1. Rose · 2. Sunflower · 3. Hydrangea · 4. Lavender · 5. Peony · 6. Daisy · 7. Orchid · 8. Tulip. There ...",
+          "breadcrumb": "https://www.1800flowers.com"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 18,
+          "domain": "lizsflowers.com",
+          "url": "https://lizsflowers.com/?srsltid=AfmBOoqXfLT23LwUoHjXpBPJeWkUThPs_YKD8BtXVG-GEHJs_KS9UNH_",
+          "title": "San Diego Florist | Flower Delivery by Liz's Flowers",
+          "description": "Best San Diego florist. Liz's Flowers offers fresh flower delivery San Diego. Save money by sending flowers directly with a Local Florist.",
+          "breadcrumb": "https://lizsflowers.com"
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 19,
+          "domain": "www.edenflowersandgifts.com",
+          "url": "https://www.edenflowersandgifts.com/?srsltid=AfmBOooW8Jqit6Sc-vE6pgtu6wWimdIVVpYSx5mqg_d4XTcko6_Y44Al",
+          "title": "San Diego Florist - Flower Delivery by Eden Flowers & Gifts Inc.",
+          "description": "Eden Flowers & Gifts Inc. delivers flower arrangements and custom bouquets throughout San Diego and offers same-day flower delivery for last-minute gift needs!",
+          "breadcrumb": "https://www.edenflowersandgifts.com"
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 21,
+          "domain": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/Flower",
+          "title": "Flower",
+          "description": "Flowers, also known as blossoms and blooms, are the reproductive structures of flowering plants. Typically, they are structured in four circular levels around ...",
+          "breadcrumb": "https://en.wikipedia.org"
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 22,
+          "domain": "deluxeflorist.com",
+          "url": "https://deluxeflorist.com/?srsltid=AfmBOoqJzz7pr4WYxRDIRWhE6VMYYeJUfv-83LC2isk_Ikax9dwpzUQF",
+          "title": "San Diego Florist | Flower Delivery by House of Stemms",
+          "description": "Best San Diego florist. House of Stemms offers fresh flower delivery San Diego. Save money by sending flowers directly with a Local Florist.",
+          "breadcrumb": "https://deluxeflorist.com"
+        },
+        {
+          "rank_group": 15,
+          "rank_absolute": 23,
+          "domain": "thelittleflowersandiego.com",
+          "url": "https://thelittleflowersandiego.com/",
+          "title": "San Diego Florist: The Little Flower | Local Flower Delivery San Diego ...",
+          "description": "Same Day Flower Delivery To San Diego, CA, And Surrounding Areas. The Little Flower 5547 El Cajon Blvd San Diego, CA 92115 6192692692",
+          "breadcrumb": "https://thelittleflowersandiego.com"
+        },
+        {
+          "rank_group": 16,
+          "rank_absolute": 24,
+          "domain": "www.bloomavenue.shop",
+          "url": "https://www.bloomavenue.shop/",
+          "title": "Home | BLOOM AVENUE",
+          "description": "Bloom Avenue is a boutique flower shop in San Diego, specializing in luxury floral arrangements for all occasions. From everyday bouquets to weddings and ...",
+          "breadcrumb": "https://www.bloomavenue.shop"
+        },
+        {
+          "rank_group": 17,
+          "rank_absolute": 25,
+          "domain": "farmgirlflowers.com",
+          "url": "https://farmgirlflowers.com/?srsltid=AfmBOorNyD0mCd_ue9615Ju302Jlw59mjGDxQo7QetpodWk9gkkBENgl",
+          "title": "Farmgirl Flowers: Flower Delivery | Send Flowers",
+          "description": "Order fresh flowers online for delivery. We ship our signature burlap-wrapped flower bouquets, plants and more to recipients (like you!) coast to coast.",
+          "breadcrumb": "https://farmgirlflowers.com"
+        },
+        {
+          "rank_group": 18,
+          "rank_absolute": 26,
+          "domain": "www.yelp.com",
+          "url": "https://www.yelp.com/search?find_desc=Florists&find_loc=San+Diego+County%2C+CA",
+          "title": "TOP 10 BEST Florists in San Diego County, CA - Updated 2026",
+          "description": "Top 10 Best Florists Near San Diego County, California ; 1. Sun Valley Florist · (31 reviews) · 2.5 mi ; 2. I Am Clover · (28 reviews) · 2.6 mi ; 3. Gonzalez Flowers.",
+          "breadcrumb": "https://www.yelp.com"
+        }
+      ],
+      "paid": [],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 5,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[6]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "What are the top 10 flowers?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[6]/div[1]/div[2]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What are the names of the 20 flowers?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[6]/div[1]/div[2]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Which are the prettiest flowers?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[6]/div[1]/div[2]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the cheapest flower to buy?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[6]/div[1]/div[2]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    },
+    {
+      "category": "water_heater",
+      "keyword": "water heater",
+      "cost": 0.004,
+      "check_url": "https://www.google.com/search?q=water%20heater&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCUsekq0PU9mAEXnfFf39IToN",
+      "item_type_counts": {
+        "popular_products": 1,
+        "local_pack": 2,
+        "people_also_ask": 1,
+        "organic": 16,
+        "short_videos": 1,
+        "images": 2,
+        "video": 1,
+        "people_also_search": 2
+      },
+      "local_pack": [
+        {
+          "type": "local_pack",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/c-wiz[1]",
+          "title": "SoCal Plumber San Diego",
+          "description": "Open · Closes 11 PM · 320 W Ash St",
+          "domain": "www.google.com",
+          "phone": "+16194865672",
+          "booking_url": null,
+          "url": "https://www.google.com/searchviewer/10?sca_esv=64cf5a5637c3d606&hl=en&gl=US&output=search&svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhwamVHdDBlVGxvGAo",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 5,
+            "votes_count": 25,
+            "rating_max": 5
+          },
+          "cid": "17476293340955492726",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/c-wiz[2]",
+          "title": "Hassle Free Plumbing",
+          "description": "Open 24 hours",
+          "domain": "www.google.com",
+          "phone": "+18582231000",
+          "booking_url": null,
+          "url": "https://www.google.com/searchviewer/10?sca_esv=64cf5a5637c3d606&hl=en&gl=US&output=search&svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhsb2JEWm1kM3A0GAo",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 5,
+            "votes_count": 68,
+            "rating_max": 5
+          },
+          "cid": "5861113079875067891",
+          "rectangle": null
+        }
+      ],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 5,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/b/Plumbing-Water-Heaters/N-5yc1vZbqly",
+          "title": "Water Heaters",
+          "description": "There are several factors to consider when choosing a water heater – gas or electric, tank or tankless. Tank sizes range from 20- to 80-gallon capacities ...",
+          "breadcrumb": "https://www.homedepot.com"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 6,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/c/Water-heaters-Plumbing",
+          "title": "Water Heaters for Reliable Hot Water Supply",
+          "description": "We have a full selection of electric water heaters, gas water heaters, tankless water heaters, hybrid heat pump water heaters and water heater accessories.",
+          "breadcrumb": "https://www.lowes.com"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 9,
+          "domain": "www.consumerreports.org",
+          "url": "https://www.consumerreports.org/appliances/water-heaters/buying-guide/",
+          "title": "Water Heater Buying Guide",
+          "description": "Shopping for a water heater? Read about features, types, and other must-know topics in our water heater buying guide to make an informed ...",
+          "breadcrumb": "https://www.consumerreports.org"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 10,
+          "domain": "www.statewaterheaters.com",
+          "url": "https://www.statewaterheaters.com/",
+          "title": "State Water Heaters: Gas & Electric Water Heaters & Tankless Models",
+          "description": "Discover our diverse selection of residential and commercial tankless water heaters, hybrid heat pumps, storage tanks, alongside gas and electric units.",
+          "breadcrumb": "https://www.statewaterheaters.com"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 11,
+          "domain": "www.thumbtack.com",
+          "url": "https://www.thumbtack.com/ca/san-diego/water-heaters",
+          "title": "The Best Water Heaters in San Diego, CA",
+          "description": "There are 122 five star Water Heater Professionals in San Diego, Get cost estimates, contact pros, and even book the job—all for no cost.",
+          "breadcrumb": "https://www.thumbtack.com"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 13,
+          "domain": "www.amazon.com",
+          "url": "https://www.amazon.com/Water-Heaters/b?ie=UTF8&node=3754791",
+          "title": "Water Heaters",
+          "description": "Shop through a wide selection of Water Heaters at Amazon.com. Free shipping and free returns. Heats 5 Gallons in Minutes … $18.89 25% off coupon",
+          "breadcrumb": "https://www.amazon.com"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 14,
+          "domain": "www.stinehome.com",
+          "url": "https://www.stinehome.com/home-improvement/plumbing/water-heaters/?srsltid=AfmBOopQetbLoMNg6wnhph9rTU75AaEA1E58nztlDyGC8Apd3wECmi5N",
+          "title": "Water Heaters | Stine Home + Yard : The Family You Can Build Around™",
+          "description": "Water Heater Electric 40 Gallon SKU: 404671 $449.99 ・ $729.99 Water Heater Natural Gas 50 Gallon ・ $679.99 Tankless Electric Water Heater",
+          "breadcrumb": "https://www.stinehome.com"
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 16,
+          "domain": "www.stinehome.com",
+          "url": "https://www.stinehome.com/home-improvement/plumbing/water-heaters/?srsltid=AfmBOopWhfWK0LPCOCiJgHV9p4ijm64u1CCOyoBQ7JbPC8fRyf4pnxiX",
+          "title": "Water Heaters | Stine Home + Yard : The Family You Can Build Around™",
+          "description": "Water Heater Electric 40 Gallon SKU: 404671 $449.99 ・ $729.99 Water Heater Natural Gas 50 Gallon ・ $679.99 Tankless Electric Water Heater",
+          "breadcrumb": "https://www.stinehome.com"
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 17,
+          "domain": "www.inlandaction.com",
+          "url": "https://www.inlandaction.com/?v=24059924011310",
+          "title": "Plumbing The Best Water Heater To Buy Best Whole House Tankless",
+          "description": "Best Whole House Tankless – Plumbing Deals, RUUD Professional Achiever Water Heater Recommendation Instant ...",
+          "breadcrumb": "https://www.inlandaction.com"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 19,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=U4mfaFnrzRU",
+          "title": "Water Heater Comparison | Plumbing 101",
+          "description": "Water Heater Comparison | Plumbing 101 Exploring water heater options? This your concise guide to the major types: gas tank, electric tank, ...",
+          "breadcrumb": "83.4K+ views"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 20,
+          "domain": "www.acehardware.com",
+          "url": "https://www.acehardware.com/departments/plumbing/water-heaters",
+          "title": "Water Heaters & Hot Water Tanks",
+          "description": "Keep your water hot with Ace's selection of natural gas, propane, electric and tankless water heaters. Shop brands like Reliance, Ecosmart and ...",
+          "breadcrumb": "https://www.acehardware.com"
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 21,
+          "domain": "m.yelp.com",
+          "url": "https://m.yelp.com/search?find_desc=Hot+Water+Heaters+For+Sale&find_loc=San+Diego%2C+CA",
+          "title": "TOP 10 BEST Hot Water Heaters for Sale in San Diego, CA - Updated 2026",
+          "description": "Professional high quality water heater and install. Called Jacob around 11:30am and by 3pm I had a new fully installed water heater.",
+          "breadcrumb": "https://m.yelp.com"
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 22,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=DLfCFfvjlCs",
+          "title": "DIY Water Heater Installation - No Plumber Needed!",
+          "description": "Watch as we install the Thermomate instant water heater in this step-by-step guide, perfect for those looking to learn basic plumbing for ...",
+          "breadcrumb": "130+ views"
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 23,
+          "domain": "www.doitbest.com",
+          "url": "https://www.doitbest.com/category/plumbing-supplies/water-heaters-parts-accessories/water-heaters/?srsltid=AfmBOooNvQlW80iecvciJJxUYmp1ogKmegIqkmi_O8qYA-VwzyW1BIC5",
+          "title": "Shop Water Heaters: Gas, Electric, Hybrid, & Tankless",
+          "description": "Shop a wide selection of premium water heaters at Do it Best, including electric, gas, hybrid, and tankless options. Get same day pick-up or home delivery.",
+          "breadcrumb": "https://www.doitbest.com"
+        },
+        {
+          "rank_group": 15,
+          "rank_absolute": 24,
+          "domain": "www.hotwater.com",
+          "url": "https://www.hotwater.com/",
+          "title": "A. O. Smith: Gas & Electric Water Heaters & Tankless Models",
+          "description": "Find residential and commercial tankless models, hybrid heat pumps and storage tanks. Explore A. O. Smith's line of gas and electric water heaters.",
+          "breadcrumb": "https://www.hotwater.com"
+        },
+        {
+          "rank_group": 16,
+          "rank_absolute": 25,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/n/video/rough-plumbing/choose-right-water-heater-video/84613589",
+          "title": "How to Choose the Right Water Heater: Video Guide",
+          "description": "Learn about choosing the right water heater, including storage tank and tankless options, fuel types and sizing considerations for your ...",
+          "breadcrumb": "https://www.lowes.com"
+        }
+      ],
+      "paid": [],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 4,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[5]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "How long do hot water heaters typically last?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[5]/div[1]/div[2]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the average cost of putting in a water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[5]/div[1]/div[2]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the best water heater for a home?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[5]/div[1]/div[2]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What are signs I need a new water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[5]/div[1]/div[2]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_expanded_element",
+                  "featured_title": null,
+                  "url": "https://wgsmartsavings.com/spotlights/6676",
+                  "domain": "wgsmartsavings.com",
+                  "title": "Five Signs That It May Be Time to Replace Your Water Heater",
+                  "description": "Leaks or Pools of Water Around the Water Heater Tank. Water puddles can be a sign that a valve needs to be tightened or replaced. ...\nLukewarm Water Even at the Hottest Temperature Setting. ...\nContaminated Water Coming Out of the Faucet. ...\nRepairs Keep Adding Up. ...\nWater Heater Is More Than 10 Years Old.",
+                  "images": null,
+                  "timestamp": null,
+                  "table": null
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    },
+    {
+      "category": "water_heater",
+      "keyword": "water heaters",
+      "cost": 0.004,
+      "check_url": "https://www.google.com/search?q=water%20heaters&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCUsekq0PU9mAEXnfFf39IToN",
+      "item_type_counts": {
+        "popular_products": 1,
+        "local_pack": 3,
+        "people_also_ask": 1,
+        "organic": 18,
+        "images": 2,
+        "video": 1,
+        "people_also_search": 2
+      },
+      "local_pack": [
+        {
+          "type": "local_pack",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/c-wiz[1]",
+          "title": "JG Water Heaters, Filtration and Plumbing",
+          "description": "Open 24 hours · 7933 Silverton Ave Suite# 712",
+          "domain": "jgwaterheaters.com",
+          "phone": "+18582951005",
+          "booking_url": "https://book.housecallpro.com/book/JG-Water-Heaters-Filtration--Plumbing/92b13e8256564ac1a8ea18b5bcbcd444?v2=true&lead_source=google&merchant_id=cc602ee7-0f82-4d9f-a9a9-a4acea3e1b88&rwg_token=AE37R_iH7YPs_iLbDtoN1jn9x3IU84rsiBm2PyMdSpiFnoN1Zhn_SQlNtT0lPH9O-dmDmYIyQauAcoYrniWnm3CEPIeL5B3a9A%3D%3D",
+          "url": "https://jgwaterheaters.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 5,
+            "votes_count": 259,
+            "rating_max": 5
+          },
+          "cid": "5035791532628496676",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/c-wiz[2]",
+          "title": "Payless Water Heaters & Plumbing",
+          "description": "Open 24 hours · 7929 Silverton Ave #617",
+          "domain": "paylesswaterheaters.com",
+          "phone": "+16193762295",
+          "booking_url": null,
+          "url": "https://paylesswaterheaters.com/service-area/san-diego-water-heater-repair-installation/?utm_source=organic&utm_medium=gbp&utm_campaign=san_diego",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.8,
+            "votes_count": 545,
+            "rating_max": 5
+          },
+          "cid": "2922185218552400726",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 3,
+          "rank_absolute": 4,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/c-wiz[3]",
+          "title": "Quick Water Heater & Filtration Company",
+          "description": "Open 24 hours · 4901 Morena Blvd #812",
+          "domain": "quickwaterheater.com",
+          "phone": "+16196634328",
+          "booking_url": "https://book.housecallpro.com/book/Quick-Water-Heater-and-Filtration/0a91e0c5d39145e19732e27c9935e1d8?v2=true&lead_source=google&merchant_id=3b25459a-03af-4d15-8e9a-34d94899a21e&rwg_token=AE37R_hmUAvVKhgOLa3sTXnbkT23rubCOgpecAjEkMx_Ib7jqNBSpKtoYopcPjh3dSCy89QID2b6XbEvV6JsZQK2ea6eHEKl4g%3D%3D",
+          "url": "https://quickwaterheater.com/?utm_campaign=gmb",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 5,
+            "votes_count": 360,
+            "rating_max": 5
+          },
+          "cid": "8750982921220964473",
+          "rectangle": null
+        }
+      ],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 6,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/b/Plumbing-Water-Heaters/N-5yc1vZbqly",
+          "title": "Water Heaters",
+          "description": "There are several factors to consider when choosing a water heater – gas or electric, tank or tankless. Tank sizes range from 20- to 80-gallon capacities ...",
+          "breadcrumb": "https://www.homedepot.com"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 7,
+          "domain": "www.consumerreports.org",
+          "url": "https://www.consumerreports.org/appliances/water-heaters/buying-guide/",
+          "title": "Water Heater Buying Guide",
+          "description": "Shopping for a water heater? Read about features, types, and other must-know topics in our water heater buying guide to make an informed ...",
+          "breadcrumb": "https://www.consumerreports.org"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 8,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/c/Water-heaters-Plumbing",
+          "title": "Water Heaters for Reliable Hot Water Supply",
+          "description": "We have a full selection of electric water heaters, gas water heaters, tankless water heaters, hybrid heat pump water heaters and water heater accessories.",
+          "breadcrumb": "https://www.lowes.com"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 9,
+          "domain": "www.statewaterheaters.com",
+          "url": "https://www.statewaterheaters.com/",
+          "title": "State Water Heaters: Gas & Electric Water Heaters & Tankless Models",
+          "description": "Discover our diverse selection of residential and commercial tankless water heaters, hybrid heat pumps, storage tanks, alongside gas and electric units.",
+          "breadcrumb": "https://www.statewaterheaters.com"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "domain": "www.thumbtack.com",
+          "url": "https://www.thumbtack.com/ca/san-diego/water-heaters",
+          "title": "The Best Water Heaters in San Diego, CA",
+          "description": "There are 122 five star Water Heater Professionals in San Diego, CA. Get cost estimates, contact pros, and even book the job—all for no cost.",
+          "breadcrumb": "https://www.thumbtack.com"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 12,
+          "domain": "www.menards.com",
+          "url": "https://www.menards.com/main/plumbing/water-heaters/c-8686.htm?srsltid=AfmBOooTNNdEmP8jFN7wvrn9P_T6Gl5A_0l_SU581iU1jIYR8XFVsCWY",
+          "title": "Water Heaters at Menards®",
+          "description": "Menards® offers a variety of water heaters for your home or commercial building. Our natural gas, propane, and electric tank-type residential water heaters",
+          "breadcrumb": "https://www.menards.com"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "domain": "www.acehardware.com",
+          "url": "https://www.acehardware.com/departments/plumbing/water-heaters",
+          "title": "Water Heaters & Hot Water Tanks",
+          "description": "Keep your water hot with Ace's selection of natural gas, propane, electric and tankless water heaters. Shop brands like Reliance, Ecosmart and ...",
+          "breadcrumb": "https://www.acehardware.com"
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 14,
+          "domain": "www.wholesalewaterheater.com",
+          "url": "https://www.wholesalewaterheater.com/collections/residential-water-heaters?srsltid=AfmBOoqxl84iG8sJpZq0cZo4pcXFo6P5R79mttRMQdNga8E0AJGTw2TV",
+          "title": "Residential Water Heaters",
+          "description": "We are a water heater wholesaler that focuses on selling commercial water heaters and accessories to fit your water heating needs.",
+          "breadcrumb": "https://www.wholesalewaterheater.com"
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 16,
+          "domain": "www.amazon.com",
+          "url": "https://www.amazon.com/Water-Heaters/b?ie=UTF8&node=3754791",
+          "title": "Water Heaters",
+          "description": "Shop through a wide selection of Water Heaters at Amazon.com. Free shipping and free returns on Prime eligible items.",
+          "breadcrumb": "https://www.amazon.com"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 18,
+          "domain": "www.amazon.com",
+          "url": "https://www.amazon.com/Water-Heaters/b?ie=UTF8&node=3754791",
+          "title": "Water Heaters",
+          "description": "Shop through a wide selection of Water Heaters at Amazon.com. Free shipping and free returns on Prime eligible items.",
+          "breadcrumb": "https://www.amazon.com"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 19,
+          "domain": "m.yelp.com",
+          "url": "https://m.yelp.com/biz/water-heater-online-san-diego",
+          "title": "WATER HEATER ONLINE - Updated July 2026 - 66 Photos & 160 Reviews",
+          "description": "WATER HEATER ONLINE, 9420 Activity Rd, San Diego, CA 92126, 66 Photos, (858) 225-9849, Mon - Open 24 hours, Tue - Open 24 hours, Wed - Open 24 hours, ...",
+          "breadcrumb": "https://m.yelp.com"
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 20,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=0JudmBa4zao",
+          "title": "What water heater should I buy? - Pro Grade vs. Box Store",
+          "description": "In this video, we delve into the age-old debate: Are water heaters from box stores truly the same as those from professional plumbing supply ...",
+          "breadcrumb": "963.4K+ views"
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 21,
+          "domain": "www.geappliances.com",
+          "url": "https://www.geappliances.com/ge-appliances/air-water/water-heaters/",
+          "title": "Water Heaters",
+          "description": "Optimize performance and minimize effort with our electric hot water heaters. Ranging from 2.5-gallon to 50-gallon capacities, electric water heaters by GE ...",
+          "breadcrumb": "https://www.geappliances.com"
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 22,
+          "domain": "www.hotwater.com",
+          "url": "https://www.hotwater.com/",
+          "title": "A. O. Smith: Gas & Electric Water Heaters & Tankless Models",
+          "description": "Find residential and commercial tankless models, hybrid heat pumps and storage tanks. Explore A. O. Smith's line of gas and electric water heaters.",
+          "breadcrumb": "https://www.hotwater.com"
+        },
+        {
+          "rank_group": 15,
+          "rank_absolute": 23,
+          "domain": "www.txappliance.com",
+          "url": "https://www.txappliance.com/catalog/water-heater",
+          "title": "Hot Water Heaters | Texas Appliance | Arlington & Fort Worth, TX",
+          "description": "100 Results · GE RealMAX® Choice 30 Gallon Short Liquid Propane Atmospheric Water Heater · GE RealMAX® Choice 40 Gallon Short Liquid Propane Atmospheric Water ...",
+          "breadcrumb": "https://www.txappliance.com"
+        },
+        {
+          "rank_group": 16,
+          "rank_absolute": 24,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/n/video/rough-plumbing/choose-right-water-heater-video/84613589",
+          "title": "How to Choose the Right Water Heater: Video Guide",
+          "description": "Learn about choosing the right water heater, including storage tank and tankless options, fuel types and sizing considerations for your ...",
+          "breadcrumb": "https://www.lowes.com"
+        },
+        {
+          "rank_group": 17,
+          "rank_absolute": 25,
+          "domain": "jgwaterheaters.com",
+          "url": "https://jgwaterheaters.com/",
+          "title": "Home - JG Water Heater - Plumbing Repair - jgwaterheaters.com",
+          "description": "JG Water Heaters: Your local San Diego, CA experts for fast water heater repair, replacement & installation. 24/7 emergency service & free estimates!",
+          "breadcrumb": "https://jgwaterheaters.com"
+        },
+        {
+          "rank_group": 18,
+          "rank_absolute": 27,
+          "domain": "www.americanwaterheater.com",
+          "url": "https://www.americanwaterheater.com/",
+          "title": "American Water Heaters: Gas & Electric Water Heaters & Tankless ...",
+          "description": "Find residential and commercial tankless models, hybrid heat pumps and storage tanks. Explore American Water Heaters' line of gas and electric water ...",
+          "breadcrumb": "https://www.americanwaterheater.com"
+        }
+      ],
+      "paid": [],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 5,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[5]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the best water heater to buy?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[5]/div[1]/div[2]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the life expectancy of a water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[5]/div[1]/div[2]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the best place to buy a water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[5]/div[1]/div[2]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "How much should a new 40 gallon water heater cost?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[5]/div[1]/div[2]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    },
+    {
+      "category": "water_heater",
+      "keyword": "hot water heater",
+      "cost": 0.004,
+      "check_url": "https://www.google.com/search?q=hot%20water%20heater&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCUsekq0PU9mAEXnfFf39IToN",
+      "item_type_counts": {
+        "popular_products": 1,
+        "people_also_ask": 1,
+        "local_pack": 3,
+        "organic": 17,
+        "video": 1,
+        "knowledge_graph_expanded_item": 2,
+        "people_also_search": 2,
+        "images": 1
+      },
+      "local_pack": [
+        {
+          "type": "local_pack",
+          "rank_group": 1,
+          "rank_absolute": 3,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/c-wiz[1]",
+          "title": "Ferguson Plumbing Supply",
+          "description": "Open · Closes 5 PM · 3280 Market St",
+          "domain": "www.ferguson.com",
+          "phone": "+16195150300",
+          "booking_url": null,
+          "url": "https://www.ferguson.com/store/ca/san+diego/plumbingpvf-0667?utm_source=google&utm_medium=organic&utm_campaign=rt_lis_listingtraffic&utm_content=listing",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.1,
+            "votes_count": 120,
+            "rating_max": 5
+          },
+          "cid": "16365685393179720655",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/c-wiz[2]",
+          "title": "Payless Water Heaters & Plumbing",
+          "description": "Open 24 hours · 7929 Silverton Ave #617",
+          "domain": "paylesswaterheaters.com",
+          "phone": "+16193762295",
+          "booking_url": null,
+          "url": "https://paylesswaterheaters.com/service-area/san-diego-water-heater-repair-installation/?utm_source=organic&utm_medium=gbp&utm_campaign=san_diego",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.8,
+            "votes_count": 545,
+            "rating_max": 5
+          },
+          "cid": "2922185218552400726",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/c-wiz[3]",
+          "title": "Downtown San Diego Plumber, Drain Cleaning, Water Heater Services",
+          "description": "Open 24 hours · 185 F St #100U",
+          "domain": "sandiegoplumber.biz",
+          "phone": "+16194734088",
+          "booking_url": null,
+          "url": "https://sandiegoplumber.biz/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 5,
+            "votes_count": 19,
+            "rating_max": 5
+          },
+          "cid": "17471499456547800303",
+          "rectangle": null
+        }
+      ],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 6,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/b/Plumbing-Water-Heaters/N-5yc1vZbqly",
+          "title": "Water Heaters",
+          "description": "There are several factors to consider when choosing a water heater – gas or electric, tank or tankless. Tank sizes range from 20- to 80-gallon capacities ...",
+          "breadcrumb": "https://www.homedepot.com"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 7,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/c/Water-heaters-Plumbing",
+          "title": "Water Heaters for Reliable Hot Water Supply",
+          "description": "Ensure consistent hot water with water heaters, including tank and tankless systems. Browse sizes and fuel types at Lowe's. Shop now.",
+          "breadcrumb": "https://www.lowes.com"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 8,
+          "domain": "www.consumerreports.org",
+          "url": "https://www.consumerreports.org/appliances/water-heaters/buying-guide/",
+          "title": "Water Heater Buying Guide",
+          "description": "Shopping for a water heater? Read about features, types, and other must-know topics in our water heater buying guide to make an informed ...",
+          "breadcrumb": "https://www.consumerreports.org"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 9,
+          "domain": "www.menards.com",
+          "url": "https://www.menards.com/main/plumbing/water-heaters/c-8686.htm?srsltid=AfmBOorKoYYppGfSx1N_KhP9mejWelMB1YRF89tG30W52XVPvVwm98Zl",
+          "title": "Water Heaters at Menards®",
+          "description": "Shop our outstanding selection of residential & commercial water heaters: electric, gas, or tankless water heaters from all of your favorite brands at ...",
+          "breadcrumb": "https://www.menards.com"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "domain": "www.statewaterheaters.com",
+          "url": "https://www.statewaterheaters.com/",
+          "title": "State Water Heaters: Gas & Electric Water Heaters & Tankless Models",
+          "description": "Discover our diverse selection of residential and commercial tankless water heaters, hybrid heat pumps, storage tanks, alongside gas and electric units.",
+          "breadcrumb": "https://www.statewaterheaters.com"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 14,
+          "domain": "www.acehardware.com",
+          "url": "https://www.acehardware.com/departments/plumbing/water-heaters",
+          "title": "Water Heaters & Hot Water Tanks",
+          "description": "Keep your water hot with Ace's selection of natural gas, propane, electric and tankless water heaters. Shop brands like Reliance, Ecosmart and ...",
+          "breadcrumb": "https://www.acehardware.com"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 15,
+          "domain": "www.amazon.com",
+          "url": "https://www.amazon.com/Water-Heaters/b?ie=UTF8&node=3754791",
+          "title": "Water Heaters",
+          "description": "Shop through a wide selection of Water Heaters. Fast Heating Portable Water Heater. Heats 5 Gallons in Minutes. Hot Water Heater 1600W,",
+          "breadcrumb": "https://www.amazon.com"
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 16,
+          "domain": "www.wholesalewaterheater.com",
+          "url": "https://www.wholesalewaterheater.com/collections/residential-water-heaters?srsltid=AfmBOoq4hsklI20QzzssRIJCalR0kMTnq7nGzxIPuMem7XBWxXzyaucJ",
+          "title": "Residential Water Heaters",
+          "description": "Rheem PROG40-38N RH62 40 Gallon Tall Gas 58.5\" Residential Water Heater 4-Pack BundleResidential 40 Gallon Tall 38,000 BTU Natural Gas Water Heater – Brand: ...",
+          "breadcrumb": "https://www.wholesalewaterheater.com"
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 18,
+          "domain": "www.hotwater.com",
+          "url": "https://www.hotwater.com/",
+          "title": "A. O. Smith: Gas & Electric Water Heaters & Tankless Models",
+          "description": "Find residential and commercial tankless models, hybrid heat pumps and storage tanks. Explore A. O. Smith's line of gas and electric water heaters.",
+          "breadcrumb": "https://www.hotwater.com"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 19,
+          "domain": "www.doitbest.com",
+          "url": "https://www.doitbest.com/category/plumbing-supplies/water-heaters-parts-accessories/water-heaters/?srsltid=AfmBOooIl1bNtnPmiRva_zI4UT_1HZU4n1eN-6LeeEkB5rPNNeStZQzh",
+          "title": "Shop Water Heaters: Gas, Electric, Hybrid, & Tankless",
+          "description": "Shop a wide selection of premium water heaters at Do it Best, including electric, gas, hybrid, and tankless options. Get same day pick-up or home delivery.",
+          "breadcrumb": "https://www.doitbest.com"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 20,
+          "domain": "www.thespruce.com",
+          "url": "https://www.thespruce.com/best-water-heaters-11727367",
+          "title": "The 7 Best Water Heaters to Buy and Never Settle for Cold Showers",
+          "description": "Top Picks ; Best Overall: A.O. Smith Signature 100 40 Gal. 4500-Watt Electric Water Heater at Lowes $449 ; Best Tank: Rheem Performance 40 Gal.",
+          "breadcrumb": "https://www.thespruce.com"
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 21,
+          "domain": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=Of6Xn2cdlRk",
+          "title": "How to choose a water heater",
+          "description": "In this video, you'll learn which water heater is right for your household needs and how to choose the right water heater size --- Whenever ...",
+          "breadcrumb": "410+ views"
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 22,
+          "domain": "www.geappliances.com",
+          "url": "https://www.geappliances.com/ge-appliances/air-water/water-heaters/",
+          "title": "Water Heaters",
+          "description": "Ranging from 2.5-gallon to 50-gallon capacities, electric water heaters by GE Appliances are designed for easy installation and effortless temperature control.",
+          "breadcrumb": "https://www.geappliances.com"
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 23,
+          "domain": "www.tonysappliance.com",
+          "url": "https://www.tonysappliance.com/catalog/water-heater",
+          "title": "Shop Water Heaters",
+          "description": "A water heater is a home appliance that is used to heat and store hot water for various domestic purposes, such as bathing, washing dishes, or doing laundry. It ...",
+          "breadcrumb": "https://www.tonysappliance.com"
+        },
+        {
+          "rank_group": 15,
+          "rank_absolute": 25,
+          "domain": "www.americanwaterheater.com",
+          "url": "https://www.americanwaterheater.com/",
+          "title": "American Water Heaters: Gas & Electric Water Heaters & Tankless ...",
+          "description": "Find residential and commercial tankless models, hybrid heat pumps and storage tanks. Explore American Water Heaters' line of gas and electric water ...",
+          "breadcrumb": "https://www.americanwaterheater.com"
+        },
+        {
+          "rank_group": 16,
+          "rank_absolute": 26,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/n/video/rough-plumbing/repair-replace-water-heater-video/75024295",
+          "title": "When to Repair or Replace Your Water Heater: Video Guide",
+          "description": "In this video learn when to replace your water heater or repair it to keep the hot water in your home running efficiently.",
+          "breadcrumb": "https://www.lowes.com"
+        },
+        {
+          "rank_group": 17,
+          "rank_absolute": 27,
+          "domain": "www.ebay.com",
+          "url": "https://www.ebay.com/b/Home-Water-Heaters/260484/bn_7470360",
+          "title": "Home Water Heaters for sale",
+          "description": "Get the best deals on Home Water Heaters when you shop the largest online selection at eBay.com. Free shipping on many items | Browse your favorite brands ...",
+          "breadcrumb": "https://www.ebay.com"
+        }
+      ],
+      "paid": [],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "How long do hot water heaters typically last?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the average cost to change a hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the best hot water heater to buy?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What are signs I need a new water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_expanded_element",
+                  "featured_title": null,
+                  "url": "https://wgsmartsavings.com/spotlights/6676",
+                  "domain": "wgsmartsavings.com",
+                  "title": "Five Signs That It May Be Time to Replace Your Water Heater",
+                  "description": "Leaks or Pools of Water Around the Water Heater Tank. Water puddles can be a sign that a valve needs to be tightened or replaced. ...\nLukewarm Water Even at the Hottest Temperature Setting. ...\nContaminated Water Coming Out of the Faucet. ...\nRepairs Keep Adding Up. ...\nWater Heater Is More Than 10 Years Old.",
+                  "images": null,
+                  "timestamp": null,
+                  "table": null
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    },
+    {
+      "category": "water_heater",
+      "keyword": "tankless water heater",
+      "cost": 0.004,
+      "check_url": "https://www.google.com/search?q=tankless%20water%20heater&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCUsekq0PU9mAEXnfFf39IToN",
+      "item_type_counts": {
+        "ai_overview": 1,
+        "popular_products": 1,
+        "people_also_ask": 1,
+        "organic": 17,
+        "local_pack": 3,
+        "video": 1,
+        "people_also_search": 2,
+        "images": 1
+      },
+      "local_pack": [
+        {
+          "type": "local_pack",
+          "rank_group": 1,
+          "rank_absolute": 5,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[12]/div[3]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/c-wiz[1]",
+          "title": "ProMax Tankless Water Heaters and Plumbing",
+          "description": "Open · Closes 7 PM",
+          "domain": "www.google.com",
+          "phone": "+16196309144",
+          "booking_url": null,
+          "url": "https://www.google.com/searchviewer/10?sca_esv=64cf5a5637c3d606&hl=en&gl=US&output=search&svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdKZk1tNDNkMmh1GAo",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 5,
+            "votes_count": 105,
+            "rating_max": 5
+          },
+          "cid": "5330254998147445391",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 2,
+          "rank_absolute": 6,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[12]/div[3]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/c-wiz[2]",
+          "title": "Payless Water Heaters & Plumbing",
+          "description": "Open 24 hours · 7929 Silverton Ave #617",
+          "domain": "paylesswaterheaters.com",
+          "phone": "+16193762295",
+          "booking_url": null,
+          "url": "https://paylesswaterheaters.com/service-area/san-diego-water-heater-repair-installation/?utm_source=organic&utm_medium=gbp&utm_campaign=san_diego",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.8,
+            "votes_count": 545,
+            "rating_max": 5
+          },
+          "cid": "2922185218552400726",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 3,
+          "rank_absolute": 7,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[12]/div[3]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/c-wiz[3]",
+          "title": "Ferguson Plumbing Supply",
+          "description": "Open · Closes 5 PM · 3280 Market St",
+          "domain": "www.ferguson.com",
+          "phone": "+16195150300",
+          "booking_url": null,
+          "url": "https://www.ferguson.com/store/ca/san+diego/plumbingpvf-0667?utm_source=google&utm_medium=organic&utm_campaign=rt_lis_listingtraffic&utm_content=listing",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.1,
+            "votes_count": 120,
+            "rating_max": 5
+          },
+          "cid": "16365685393179720655",
+          "rectangle": null
+        }
+      ],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 4,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/b/Plumbing-Water-Heaters-Tankless-Water-Heaters/N-5yc1vZ2fkoqer",
+          "title": "Tankless Water Heaters",
+          "description": "Tankless Water Heaters SAME-DAY WATER HEATER INSTALLATION Free Delivery & Haul-Away. Call 1-855-400-2552 by Noon, Monday-Friday.",
+          "breadcrumb": "https://www.homedepot.com"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 9,
+          "domain": "www.eccotemp.com",
+          "url": "https://www.eccotemp.com/gas-tankless/?srsltid=AfmBOopCnW1mu-wQe-HuAzM4H2x8olgUyAkN43lE7jXbQyQ3ZLFbUg21",
+          "title": "Best Gas Tankless Water Heaters",
+          "description": "Tankless water heaters operate on a simple yet efficient principle: heating water precisely when it's needed. to as an on-demand water heater adjust temp from ...",
+          "breadcrumb": "https://www.eccotemp.com"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 10,
+          "domain": "www.navieninc.com",
+          "url": "https://www.navieninc.com/residential/tankless-water-heaters",
+          "title": "Tankless Water Heaters",
+          "description": "A tankless water heater is a type of water heater that doesn't use a storage tank to heat water. Instead, hot water is produced only when you need it.",
+          "breadcrumb": "https://www.navieninc.com"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 11,
+          "domain": "www.energystar.gov",
+          "url": "https://www.energystar.gov/products/whole_home_tankless_gas_water_heaters",
+          "title": "Whole Home Tankless Gas Water Heaters",
+          "description": "ENERGY STAR certified gas tankless water heaters cut water heating expenses, while also providing continuous hot water delivery.",
+          "breadcrumb": "https://www.energystar.gov"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 12,
+          "domain": "palmetto.com",
+          "url": "https://palmetto.com/home-electrification/tankless-water-heaters",
+          "title": "Tankless Water Heaters: Pros, Cons, and Costs",
+          "description": "Tankless water heaters are more energy efficient, heat water on demand, take up less space, generally last longer, but cost more upfront ...",
+          "breadcrumb": "https://palmetto.com"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 13,
+          "domain": "www.standardplumbing.com",
+          "url": "https://www.standardplumbing.com/catalog/140005?srsltid=AfmBOorDuNPCVdx2mErtUVGxChLdqqrMtoDTaRsgeuPaouVKGl3FOrXl",
+          "title": "Catalog Results for \"TANKLESS WATER HEATERS\"",
+          "description": "Tankless heaters don't have a pre-filled tank and only heat water when you need it, so they can give endless hot water. It really is as good as it sounds!",
+          "breadcrumb": "https://www.standardplumbing.com"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 14,
+          "domain": "www.consumerreports.org",
+          "url": "https://www.consumerreports.org/appliances/water-heaters/tankless-water-heaters-vs-storage-tank-water-heaters-a5291982593/",
+          "title": "Tankless Water Heaters vs. Storage Tank Water Heaters",
+          "description": "Tankless water heaters tend to cost more up front than storage tank models. The nine models in our tests range from $525 to $1,150. ...",
+          "breadcrumb": "https://www.consumerreports.org"
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "domain": "www.hotwater.com",
+          "url": "https://www.hotwater.com/residential/water-heaters/gas-tankless/",
+          "title": "ProLine® Residential Gas Tankless Water Heaters",
+          "description": "A. O. Smith offers a complete line of natural gas and liquid propane tankless water heaters for continuous hot water needs. Choose from ENERGY STAR® ...",
+          "breadcrumb": "https://www.hotwater.com"
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 17,
+          "domain": "www.consumerreports.org",
+          "url": "https://www.consumerreports.org/appliances/water-heaters/tankless-water-heaters-vs-storage-tank-water-heaters-a5291982593/",
+          "title": "Tankless Water Heaters vs. Storage Tank Water Heaters",
+          "description": "Tankless water heaters tend to cost more up front than storage tank models. The nine models in our tests range from $525 to $1,150. ...",
+          "breadcrumb": "https://www.consumerreports.org"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 18,
+          "domain": "www.hotwater.com",
+          "url": "https://www.hotwater.com/residential/water-heaters/gas-tankless/",
+          "title": "ProLine® Residential Gas Tankless Water Heaters",
+          "description": "A. O. Smith offers a complete line of natural gas and liquid propane tankless water heaters for continuous hot water needs. Choose from ENERGY STAR® ...",
+          "breadcrumb": "https://www.hotwater.com"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 19,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/pl/water-heaters/tankless/4294859099-4294708186",
+          "title": "Tankless Water Heaters for Space-Saving Hot Water",
+          "description": "Save space with tankless water heaters that heat water on demand. Compare electric, gas, indoor, outdoor, and whole-home options at Lowe's. Shop Now.",
+          "breadcrumb": "https://www.lowes.com"
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 20,
+          "domain": "www.rheem.com",
+          "url": "https://www.rheem.com/products/residential/water-heating/tankless/",
+          "title": "Tankless Water Heaters - Rheem Manufacturing Company",
+          "description": "Experience continuous hot water with Rheem's energy-efficient residential tankless water heaters, available in gas, propane, ...",
+          "breadcrumb": "https://www.rheem.com"
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 22,
+          "domain": "www.acehardware.com",
+          "url": "https://www.acehardware.com/departments/plumbing/water-heaters/tankless-water-heaters",
+          "title": "Electric, Natural Gas & Propane Tankless Water Heaters",
+          "description": "Choose from our selection of tankless water heaters from brands like Ecosmart and Titan to bring instant hot water to your home.",
+          "breadcrumb": "https://www.acehardware.com"
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 23,
+          "domain": "www.thisoldhouse.com",
+          "url": "https://www.thisoldhouse.com/plumbing/read-this-before-you-buy-a-tankless-water-heater",
+          "title": "Tankless Water Heaters (2026 Guide)",
+          "description": "The average tankless water heater cost is $2,600, but the range is anywhere from $1,300–$3,900. High-end brands can cost up to $6,000. Your on-demand water ...",
+          "breadcrumb": "https://www.thisoldhouse.com"
+        },
+        {
+          "rank_group": 15,
+          "rank_absolute": 24,
+          "domain": "www.pcrichard.com",
+          "url": "https://www.pcrichard.com/tankless-water-heaters/?srsltid=AfmBOoqvz4nn129uQhRgLgQjaRqSoOR9Fl-OnEpm0TrepExdWNu2-lNu",
+          "title": "Tankless Water Heaters",
+          "description": "Explore the latest deals on Tankless Water Heaters at P.C. Richard & Son. Discover a wide range of discounted Tankless Water Heaters from top brands today.",
+          "breadcrumb": "https://www.pcrichard.com"
+        },
+        {
+          "rank_group": 16,
+          "rank_absolute": 25,
+          "domain": "www.statewaterheaters.com",
+          "url": "https://www.statewaterheaters.com/residential/water-heaters/gas-tankless/",
+          "title": "ProLine® Residential Gas Tankless Water Heaters",
+          "description": "Maximize space and energy efficiency with our ProLine® tankless gas water heaters. Discover features and choose the perfect model for your home.",
+          "breadcrumb": "https://www.statewaterheaters.com"
+        },
+        {
+          "rank_group": 17,
+          "rank_absolute": 26,
+          "domain": "modernize.com",
+          "url": "https://modernize.com/plumbing/water-heaters/best-tankless-water-heaters",
+          "title": "Best Tankless Water Heater Brands: 2026 Cost, Efficiency & Value",
+          "description": "Tankless water heaters, also called on-demand water heaters, heat water only when you need it instead of storing hot water in a tank.",
+          "breadcrumb": "https://modernize.com"
+        }
+      ],
+      "paid": [],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 3,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[12]/div[3]/div[1]/div[1]/div[5]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the downside to a tankless water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[12]/div[3]/div[1]/div[1]/div[5]/div[1]/div[2]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Can you replace a 50 gallon water heater with a tankless water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[12]/div[3]/div[1]/div[1]/div[5]/div[1]/div[2]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "How much is a tankless water heater for a 2000 square foot house?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[12]/div[3]/div[1]/div[1]/div[5]/div[1]/div[2]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Why don't plumbers like tankless water heaters?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[12]/div[3]/div[1]/div[1]/div[5]/div[1]/div[2]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    },
+    {
+      "category": "water_heater",
+      "keyword": "gas water heater",
+      "cost": 0.004,
+      "check_url": "https://www.google.com/search?q=gas%20water%20heater&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCUsekq0PU9mAEXnfFf39IToN",
+      "item_type_counts": {
+        "popular_products": 2,
+        "people_also_ask": 1,
+        "organic": 17,
+        "discussions_and_forums": 1,
+        "local_pack": 2,
+        "video": 1,
+        "images": 2,
+        "people_also_search": 2
+      },
+      "local_pack": [
+        {
+          "type": "local_pack",
+          "rank_group": 1,
+          "rank_absolute": 7,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[3]/div[1]/c-wiz[1]",
+          "title": "Ferguson Plumbing Supply",
+          "description": "Open · 3280 Market St",
+          "domain": "www.ferguson.com",
+          "phone": "+16195150300",
+          "booking_url": null,
+          "url": "https://www.ferguson.com/store/ca/san+diego/plumbingpvf-0667?utm_source=google&utm_medium=organic&utm_campaign=rt_lis_listingtraffic&utm_content=listing",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.1,
+            "votes_count": 120,
+            "rating_max": 5
+          },
+          "cid": "16365685393179720655",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 2,
+          "rank_absolute": 8,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[3]/div[1]/c-wiz[2]",
+          "title": "Allied Plumbing and Fire Supply",
+          "description": "Open · 1844 Imperial Ave",
+          "domain": "www.apfs.com",
+          "phone": "+16192333314",
+          "booking_url": null,
+          "url": "http://www.apfs.com/",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.9,
+            "votes_count": 16,
+            "rating_max": 5
+          },
+          "cid": "3125793197945097217",
+          "rectangle": null
+        }
+      ],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 3,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/b/Plumbing-Water-Heaters/Gas/N-5yc1vZbqlyZ1z20ekn",
+          "title": "Gas - Water Heaters",
+          "description": "RheemPerformance 50 Gal.​ Tall 38,000 BTU Natural Gas Water Heater with 6-​Year Warranty. Model# XG50T06EC38U1. $749.00. Save up to in ...",
+          "breadcrumb": "https://www.homedepot.com"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/pl/water-heaters/gas/4294859099-4294686342",
+          "title": "Gas Water Heaters for Daily Living",
+          "description": "Find gas water heater options designed to deliver steady hot water and support everyday household demands. Shop gas water heater models at Lowe's today.",
+          "breadcrumb": "https://www.lowes.com"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 9,
+          "domain": "www.ferguson.com",
+          "url": "https://www.ferguson.com/category/water-heaters/residential-water-heaters/gas-water-heaters/?srsltid=AfmBOooPMkrsV6_w-2iGw8zRt8PzlruV7-1UWMNczK4DEZPjU2vrps0x",
+          "title": "Gas Water Heaters",
+          "description": "Shop Gas Water Heaters at Ferguson. Find expert-curated Gas Water Heaters products from the #1 US plumbing supplier and top distributor of HVAC, waterworks, ...",
+          "breadcrumb": "https://www.ferguson.com"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 10,
+          "domain": "www.hotwater.com",
+          "url": "https://www.hotwater.com/residential/water-heaters/gas-tank/",
+          "title": "ProLine® Residential Gas Tank Water Heaters",
+          "description": "From high-efficiency ENERGY STAR® certified water heaters to economical standard efficiency gas water heaters, AO Smith has a complete line of natural gas and ...",
+          "breadcrumb": "https://www.hotwater.com"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 11,
+          "domain": "www.acehardware.com",
+          "url": "https://www.acehardware.com/departments/plumbing/water-heaters/gas-water-heaters",
+          "title": "Natural Gas Hot Water Heaters",
+          "description": "Shop water heaters powered by natural gas at Ace, including popular 30, 40 and 50 gallon tank sizes as well as compact tankless designs.",
+          "breadcrumb": "https://www.acehardware.com"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 12,
+          "domain": "www.grainger.com",
+          "url": "https://www.grainger.com/category/plumbing/water-heaters/gas-water-heaters-with-tank",
+          "title": "Gas Water Heaters with Tank",
+          "description": "Gas water heaters burn combustible gases to heat and store water inside an internal tank. The gas burner rapidly heats water providing a responsive system.",
+          "breadcrumb": "https://www.grainger.com"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 14,
+          "domain": "www.pcrichard.com",
+          "url": "https://www.pcrichard.com/gas-water-heaters/?srsltid=AfmBOoqV7GPZtciAMwSFgtsPegLVrAuZHN8qML2EXbSplODFSZ2Nyeqe",
+          "title": "Gas Water Heaters",
+          "description": "Gas water heaters heat water through the use of a gas-powered burner that's located at the bottom of their tanks. also budget-friendly to run",
+          "breadcrumb": "https://www.pcrichard.com"
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "domain": "www.statewaterheaters.com",
+          "url": "https://www.statewaterheaters.com/residential/water-heaters/gas-tank/",
+          "title": "ProLine® Residential Gas Tank Water Heaters",
+          "description": "Discover our ProLine® residential gas tank water heaters, boasting high efficiency and ENERGY STAR qualification. Easy installation, unmatched durability.",
+          "breadcrumb": "https://www.statewaterheaters.com"
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 18,
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/bayarea/comments/1t33dcg/gas_water_heater_ban_in_2027_do_you_think_its/",
+          "title": "Gas Water Heater Ban in 2027 - Do you think it's actually going to happen?",
+          "description": "They seemed to be set on it. These new exemptions they are talking about don’t seem super helpful. How many single-family homes still have knob and ...",
+          "breadcrumb": "430+ comments"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 19,
+          "domain": "www.lennox.com",
+          "url": "https://www.lennox.com/residential/products/water-heaters/gas",
+          "title": "Gas Water Heater",
+          "description": "Designed for bigger households and heavy hot water usage, Lennox gas water heaters heat water quickly while keeping operating costs low.",
+          "breadcrumb": "https://www.lennox.com"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 20,
+          "domain": "www.pcrichard.com",
+          "url": "https://www.pcrichard.com/gas-water-heaters/?srsltid=AfmBOoosCR2CYz6u21WQhJMLCf_014r8hpkqseq3xu8B9AgU39439r9o",
+          "title": "Gas Water Heaters",
+          "description": "Explore the latest deals on Gas Water Heaters at P.C. Richard & Son. Discover a wide range of discounted Gas Water Heaters from top brands ...",
+          "breadcrumb": "https://www.pcrichard.com"
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 21,
+          "domain": "m.yelp.com",
+          "url": "https://m.yelp.com/search?find_desc=50+gallon+gas+water+heater&find_loc=San+Diego%2C+CA",
+          "title": "TOP 10 BEST 50 Gallon Gas Water Heater in San Diego, CA",
+          "description": "Top 10 Best 50 gallon gas water heater Near San Diego, California ; JG Water Heaters, Filtration and Plumbing · (332 reviews) · 6.8 mi ; Quick Water Heater & ...",
+          "breadcrumb": "https://m.yelp.com"
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 22,
+          "domain": "forum.heatinghelp.com",
+          "url": "https://forum.heatinghelp.com/discussion/201660/recommendation-for-highly-reliable-natural-gas-water-heater",
+          "title": "Recommendation for highly reliable natural gas water heater?...",
+          "description": "Bock and Bradford are both excellent products, I would go with a power-vent model if you can vent it properly and use a power anode rod, forget ...",
+          "breadcrumb": "https://forum.heatinghelp.com"
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 23,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/b/Plumbing-Water-Heaters-Tank-Water-Heaters-Gas-Tank-Water-Heaters/N-5yc1vZ2fkoqeo",
+          "title": "Gas Tank Water Heaters",
+          "description": "The average price for Gas Tank Water Heaters ranges from $500 to over $5,000. Which brand has the largest assortment of Gas Tank Water Heaters at The Home Depot ...",
+          "breadcrumb": "https://www.homedepot.com"
+        },
+        {
+          "rank_group": 15,
+          "rank_absolute": 24,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/n/video/rough-plumbing/how-to-install-a-gas-water-heater/73146913",
+          "title": "Gas Water Heater Setup: Easy Video Tutorial",
+          "description": "Install a gas water heater safely with this video guide. Watch how to safely remove the old unit, connect water and gas lines, and test for leaks.",
+          "breadcrumb": "https://www.lowes.com"
+        },
+        {
+          "rank_group": 16,
+          "rank_absolute": 25,
+          "domain": "www.doitbest.com",
+          "url": "https://www.doitbest.com/category/plumbing-supplies/water-heaters-parts-accessories/water-heaters/gas-water-heater/?srsltid=AfmBOooPOfYcnQaWuPOrvZxonatvcEN4fy_zv4kF0yZ_kDOUFsddVLW-",
+          "title": "Gas Water Heater",
+          "description": "Best Gas Water Heater at a hardware store near you. Buy Water Heaters at lowest prices. Pick up in-store or get fast delivery.",
+          "breadcrumb": "https://www.doitbest.com"
+        },
+        {
+          "rank_group": 17,
+          "rank_absolute": 26,
+          "domain": "www.plumbers-supply-co.com",
+          "url": "https://www.plumbers-supply-co.com/129738/category/gas-water-heaters",
+          "title": "Gas Water Heaters",
+          "description": "Lochinvar GTN040 40B. Steel Residential Energy Saver Tall Natural Gas Water Heater with Insulation Blanket, 40 gal, 40000 Btu/hr, 42 gph at 90 deg F Rise.",
+          "breadcrumb": "https://www.plumbers-supply-co.com"
+        }
+      ],
+      "paid": [],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "How many years should a gas water heater last?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_expanded_element",
+                  "featured_title": "12 years",
+                  "url": "https://www.rheem.com/water-heating/articles/water-heater-lifespan-when-to-repair-vs-replace/",
+                  "domain": "www.rheem.com",
+                  "title": "Water Heater Lifespan: When to Repair vs. Replace - Rheem",
+                  "description": "A: Traditional tank water heaters usually last 8–12 years, while tankless units often last 15–20+ years. Mar 25, 2026",
+                  "images": null,
+                  "timestamp": null,
+                  "table": null
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the most common problem with a gas hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_expanded_element",
+                  "featured_title": null,
+                  "url": "https://www.rotorooter.com/blog/water-heaters/common-water-heater-problems-and-how-to-fix-them/",
+                  "domain": "www.rotorooter.com",
+                  "title": "Common Water Heater Problems & How to Fix Them | Roto-Rooter Blog",
+                  "description": "One of the most common water heater issues is sediment buildup in the tank. Over time, minerals from the water settle at the bottom, reducing efficiency and causing overheating.",
+                  "images": null,
+                  "timestamp": null,
+                  "table": null
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Is a gas hot water heater better than an electric?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_expanded_element",
+                  "featured_title": null,
+                  "url": "https://www.lennox.com/residential/lennox-life/consumer/gas-vs-electric-water-heater",
+                  "domain": "www.lennox.com",
+                  "title": "Gas vs. Electric Water Heater: Which One to Choose? - Lennox",
+                  "description": "Gas heaters heat water faster and tend to cost less to operate in most regions, making them a strong fit for larger families with high demand. Electric heaters are simpler to install, easier to maintain, and can be the smarter choice in areas where natural gas isn't available or where clean electricity is the norm. Mar 31, 2026",
+                  "images": null,
+                  "timestamp": null,
+                  "table": null
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the average cost of a new gas hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_expanded_element",
+                  "featured_title": "Gas Water Heater Replacement Cost",
+                  "url": "https://www.fixr.com/costs/gas-water-heater",
+                  "domain": "www.fixr.com",
+                  "title": "How Much Does a Gas Water Heater Cost in 2026? | Fixr.com",
+                  "description": null,
+                  "images": null,
+                  "timestamp": "2026-01-30 00:00:00 +00:00",
+                  "table": {
+                    "table_header": null,
+                    "table_content": [
+                      [
+                        "Average cost to install a gas water heater"
+                      ],
+                      [
+                        "National average cost",
+                        "$1,900"
+                      ],
+                      [
+                        "Average range",
+                        "$1,000 – $2,700"
+                      ],
+                      [
+                        "Low-end",
+                        "$700"
+                      ],
+                      [
+                        "High-end",
+                        "$4,000"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    },
+    {
+      "category": "water_heater",
+      "keyword": "electric water heater",
+      "cost": 0.004,
+      "check_url": "https://www.google.com/search?q=electric%20water%20heater&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCUsekq0PU9mAEXnfFf39IToN",
+      "item_type_counts": {
+        "popular_products": 2,
+        "people_also_ask": 1,
+        "organic": 17,
+        "local_pack": 2,
+        "short_videos": 1,
+        "images": 2,
+        "video": 1,
+        "people_also_search": 2
+      },
+      "local_pack": [
+        {
+          "type": "local_pack",
+          "rank_group": 1,
+          "rank_absolute": 4,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[3]/div[1]/c-wiz[1]",
+          "title": "Ferguson Plumbing Supply",
+          "description": "Open · 3280 Market St",
+          "domain": "www.ferguson.com",
+          "phone": "+16195150300",
+          "booking_url": null,
+          "url": "https://www.ferguson.com/store/ca/san+diego/plumbingpvf-0667?utm_source=google&utm_medium=organic&utm_campaign=rt_lis_listingtraffic&utm_content=listing",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.1,
+            "votes_count": 120,
+            "rating_max": 5
+          },
+          "cid": "16365685393179720655",
+          "rectangle": null
+        },
+        {
+          "type": "local_pack",
+          "rank_group": 2,
+          "rank_absolute": 5,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[3]/div[1]/c-wiz[2]",
+          "title": "Downtown Ace Hardware",
+          "description": "Open · 675 Sixth Ave",
+          "domain": "www.acehardware.com",
+          "phone": "+16195449400",
+          "booking_url": null,
+          "url": "http://www.acehardware.com/store-details/19716?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=19716",
+          "is_paid": false,
+          "rating": {
+            "rating_type": "Max5",
+            "value": 4.6,
+            "votes_count": 685,
+            "rating_max": 5
+          },
+          "cid": "8128569057115963567",
+          "rectangle": null
+        }
+      ],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 3,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/b/Plumbing-Water-Heaters/Electric/N-5yc1vZbqlyZ1z20els",
+          "title": "Electric - Water Heaters",
+          "description": "RheemPerformance 50 Gal.​ Medium 4500-​Watt Double Element Demand Response Ready Electric Water Heater with 6-​Year Warranty. Model# XE50M06CG45U0. $789 ...",
+          "breadcrumb": "https://www.homedepot.com"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 6,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/pl/water-heaters/electric/4294859099-4294713579",
+          "title": "Electric Water Heaters for Everyday Comfort",
+          "description": "Electric water heaters provide dependable hot water performance for homes, apartments and specialty residential applications. With tank and tankless options,",
+          "breadcrumb": "https://www.lowes.com"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 8,
+          "domain": "www.hotwater.com",
+          "url": "https://www.hotwater.com/residential/water-heaters/electric-tank/",
+          "title": "ProLine® Residential Electric Tank Water Heaters",
+          "description": "ProLine® family of electric tank water heaters offers a wide range of innovative solutions with commercial grade technology for residential use.",
+          "breadcrumb": "https://www.hotwater.com"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 9,
+          "domain": "www.stinehome.com",
+          "url": "https://www.stinehome.com/home-improvement/plumbing/water-heaters/electric-water-heaters/?srsltid=AfmBOopfZfwug6D4_pwirhoCSnv7qZWtMrglIdYO1xJGZOoB1aPNQi01",
+          "title": "Electric Water Heaters | Stine Home + Yard : The Family You Can Build ...",
+          "description": "Find amazing Stine Home Improvement products in Electric Water Heaters today! Explore our catalog and discover amazing savings! Free In-Store & ...",
+          "breadcrumb": "https://www.stinehome.com"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "domain": "www.ferguson.com",
+          "url": "https://www.ferguson.com/category/water-heaters/residential-water-heaters/electric-water-heaters/?srsltid=AfmBOoq607Yi-b0pRE7d8IhTVupOfy78SsxBbezUcAn8TU2MFWP_dhbv",
+          "title": "Electric Water Heaters",
+          "description": "Shop residential electric tank water heaters by capacity. Under 10 gallon electric water heaters, under 10 gallon electric water heaters, 30 gallon electric ...",
+          "breadcrumb": "https://www.ferguson.com"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 12,
+          "domain": "www.bradfordwhite.com",
+          "url": "https://www.bradfordwhite.com/electric-water-heater/",
+          "title": "Efficient Home Electric Water Heaters",
+          "description": "Bradford White's electric tank type water heaters. With a variety of sizes, our electric line delivers outstanding performance for any water heating need.",
+          "breadcrumb": "https://www.bradfordwhite.com"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 13,
+          "domain": "www.amazon.com",
+          "url": "https://www.amazon.com/Electric-Water-Heaters/s?k=Electric+Water+Heaters",
+          "title": "Electric Water Heaters",
+          "description": "10 Gallon Versatile Plug and Play Electric Water Heater with Adjustable Thermostat, Easily Installs Where You Want It, 120 Volt",
+          "breadcrumb": "https://www.amazon.com"
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 15,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/n/video/rough-plumbing/how-to-install-an-electric-water-heater/72925071",
+          "title": "Electric Water Heater Installation: Video Guide",
+          "description": "Learn Electric water heater installation with this video. Know how to safely remove and install and get everything running smoothly.",
+          "breadcrumb": "https://www.lowes.com"
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 18,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/n/video/rough-plumbing/how-to-install-an-electric-water-heater/72925071",
+          "title": "Electric Water Heater Installation: Video Guide",
+          "description": "Learn Electric water heater installation with this video. Know how to safely remove and install and get everything running smoothly.",
+          "breadcrumb": "https://www.lowes.com"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 19,
+          "domain": "www.menards.com",
+          "url": "https://www.menards.com/main/plumbing/water-heaters/electric-water-heaters/c-8690.htm?srsltid=AfmBOoqyaxlXb7eQ1xC5xHsr76pVxWpICXpQO9A48Wgq_SQbFy4pXSVr",
+          "title": "Electric Water Heaters at Menards®",
+          "description": "Shop Menards for a great selection of electric water heaters of all sizes to meet your needs. Tall, short, tankless, and everything in between.",
+          "breadcrumb": "https://www.menards.com"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 20,
+          "domain": "www.plumbers-supply-co.com",
+          "url": "https://www.plumbers-supply-co.com/129735/category/electric-water-heaters",
+          "title": "Electric Water Heaters",
+          "description": "Lochinvar LES-40B DAK. Steel Residential Energy Saver Short Electric Water Heater with Insulation Blanket, 40 gal, 21 gph at 90 deg F Rise, 240 V, 1 ph.",
+          "breadcrumb": "https://www.plumbers-supply-co.com"
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 21,
+          "domain": "www.ebay.com",
+          "url": "https://www.ebay.com/b/Electric-Home-Standard-Water-Heaters/260504/bn_7115561605",
+          "title": "Electric Home Standard Water Heaters for sale",
+          "description": "Get the best deals on Electric Home Standard Water Heaters when you shop the largest online selection at eBay.com. Free shipping on many items | Browse your ...",
+          "breadcrumb": "https://www.ebay.com"
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 22,
+          "domain": "www.geappliances.com",
+          "url": "https://www.geappliances.com/ge-appliances/air-water/water-heaters/",
+          "title": "Water Heaters",
+          "description": "Ranging from 2.5-gallon to 50-gallon capacities, electric water heaters by GE Appliances are designed for easy installation and effortless temperature control.",
+          "breadcrumb": "https://www.geappliances.com"
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 23,
+          "domain": "www.mclendons.com",
+          "url": "https://www.mclendons.com/146539/Category/Electric-Tank-Water-Heaters?srsltid=AfmBOoqtFTdS6kMbGhMhlcA1UJNP55pDoyAqM5kfdZWYcomX8xJ3bMrm",
+          "title": "Electric Tank Water Heaters",
+          "description": "Ruud · 0.0. (0) · Qty: $699.99 / EA · Add To Cart · Add to Favorite List. Compare. Bosch ES4.0. Bosch. Bosch Tronic 3000T Series ES4.0 Electric ...",
+          "breadcrumb": "https://www.mclendons.com"
+        },
+        {
+          "rank_group": 15,
+          "rank_absolute": 24,
+          "domain": "www.walmart.com",
+          "url": "https://www.walmart.com/c/kp/gal-electric-water-heaters",
+          "title": "Gal Electric Water Heaters for Home Use",
+          "description": "Shop gal electric water heaters for reliable hot water solutions in homes and small spaces. Various sizes and capacities available.",
+          "breadcrumb": "https://www.walmart.com"
+        },
+        {
+          "rank_group": 16,
+          "rank_absolute": 26,
+          "domain": "www.statewaterheaters.com",
+          "url": "https://www.statewaterheaters.com/",
+          "title": "State Water Heaters: Gas & Electric Water Heaters & Tankless Models",
+          "description": "Discover our diverse selection of residential and commercial tankless water heaters, hybrid heat pumps, storage tanks, alongside gas and electric units.",
+          "breadcrumb": "https://www.statewaterheaters.com"
+        },
+        {
+          "rank_group": 17,
+          "rank_absolute": 27,
+          "domain": "www.hioutlet.com",
+          "url": "https://www.hioutlet.com/pl/plumbing-water-heaters-electric-water-heaters/3034",
+          "title": "Shop Electric Waters Heaters",
+          "description": "Richmond/Rheem Electric 40gal Medium Water Heater, 240 V, 4500 W, 90 to 93 % Energy Efficiency SKU# WH-6EM40-D Size: 20-1/4\" x 48-3/8\" ; AO ...",
+          "breadcrumb": "https://www.hioutlet.com"
+        }
+      ],
+      "paid": [],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the most common problem with electric water heaters?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Is it cheaper to run a gas or electric water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the average lifespan of an electric hot water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "What is the most efficient type of electric water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[13]/div[3]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    },
+    {
+      "category": "water_heater",
+      "keyword": "heat pump water heater",
+      "cost": 0.004,
+      "check_url": "https://www.google.com/search?q=heat%20pump%20water%20heater&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCUsekq0PU9mAEXnfFf39IToN",
+      "item_type_counts": {
+        "ai_overview": 1,
+        "organic": 14,
+        "knowledge_graph_expanded_item": 5,
+        "people_also_ask": 1,
+        "discussions_and_forums": 1,
+        "images": 2,
+        "video": 1,
+        "people_also_search": 2
+      },
+      "local_pack": [],
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "domain": "www.homedepot.com",
+          "url": "https://www.homedepot.com/b/Plumbing-Water-Heaters-Tank-Water-Heaters-Heat-Pump-Water-Heaters/N-5yc1vZckra",
+          "title": "Heat Pump Water Heaters",
+          "description": "Browse a variety of heat pump water heaters to find the perfect energy-efficient solution for your home. $2,499.00 ProTerra 80 Gal.",
+          "breadcrumb": "https://www.homedepot.com"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 9,
+          "domain": "www.reddit.com",
+          "url": "https://www.reddit.com/r/heatpumps/comments/1nty3i3/what_is_your_experience_with_heat_pump_water/",
+          "title": "What is your experience with heat pump *water heaters* : r/heatpumps",
+          "description": "Does anybody have any experience with Heat Pump *Water Heaters*?\n\nCA will stop sale of natural gas water heater in 2027. So I am planning ahead. ...",
+          "breadcrumb": "230+ comments"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 10,
+          "domain": "www.energystar.gov",
+          "url": "https://www.energystar.gov/products/heat_pump_water_heaters",
+          "title": "Heat Pump Water Heaters | ENERGY STAR",
+          "description": "Heat pump water heaters are also commonly referred to as Hybrid Electric water Heaters. Different name - same ultra-efficient performance! Just look for the ...",
+          "breadcrumb": "https://www.energystar.gov"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 11,
+          "domain": "www.rheem.com",
+          "url": "https://www.rheem.com/water-heating/articles/what-is-a-heat-pump-water-heater-and-how-does-it-work/",
+          "title": "What Is a Heat Pump Water Heater and How Does It Work?",
+          "description": "The heat pump works like a refrigerator in reverse. It pulls heat energy from the air to heat water. A refrigerant system absorbs heat from the surrounding air ...",
+          "breadcrumb": "https://www.rheem.com"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 13,
+          "domain": "www.consumerreports.org",
+          "url": "https://www.consumerreports.org/appliances/water-heaters/best-heat-pump-water-heaters-of-the-year-a1171798033/",
+          "title": "5 Best Heat Pump Water Heaters of 2026, Tested in our Labs",
+          "description": "Consumer Reports tested heat pump water heaters to determine which ones were the most energy-efficient and fastest at heating water.",
+          "breadcrumb": "https://www.consumerreports.org"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 17,
+          "domain": "www.rheem.com",
+          "url": "https://www.rheem.com/water-heating/articles/what-is-a-heat-pump-water-heater-and-how-does-it-work/",
+          "title": "What Is a Heat Pump Water Heater and How Does It Work?",
+          "description": "The heat pump works like a refrigerator in reverse. It pulls heat energy from the air to heat water. A refrigerant system absorbs heat from the surrounding air ...",
+          "breadcrumb": "https://www.rheem.com"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 18,
+          "domain": "www.sce.com",
+          "url": "https://www.sce.com/factsheet/HeatPumpWaterHeaters",
+          "title": "Heat Pump Water Heaters",
+          "description": "Water heaters with new energy-efficient heat pump technology are a highly efficient way to heat water, offering a reduction in energy usage and utility bill ...",
+          "breadcrumb": "https://www.sce.com"
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 19,
+          "domain": "www.energystar.gov",
+          "url": "https://www.energystar.gov/about/federal-tax-credits/heat-pump-water-heaters",
+          "title": "Heat Pump Water Heaters Tax Credit",
+          "description": "If you replace your water heater the following year, you would be eligible for another 30% tax credit, up to $2,000 plus up to $600 if you need an electric ...",
+          "breadcrumb": "https://www.energystar.gov"
+        },
+        {
+          "rank_group": 9,
+          "rank_absolute": 20,
+          "domain": "goclean.masscec.com",
+          "url": "https://goclean.masscec.com/videos/ask-this-old-house-explanation-of-heat-pump-water-heater/",
+          "title": "“Ask This Old House” Explanation of Heat Pump Water Heater",
+          "description": "Video Highlights. “Ask This Old House” plumbing and heating expert Richard Trethewey helps a homeowner select and install a heat pump water heater.",
+          "breadcrumb": "https://goclean.masscec.com"
+        },
+        {
+          "rank_group": 10,
+          "rank_absolute": 21,
+          "domain": "www.lowes.com",
+          "url": "https://www.lowes.com/pl/water-heaters/hybrid-heat-pump-technology/4294859099-4294400540",
+          "title": "Hybrid Heat Pump Water Heaters",
+          "description": "A hybrid heat pump water heater uses a heat pump on top of a standard electric tank to pull warmth from the surrounding air and transfer it into the water. It ...",
+          "breadcrumb": "https://www.lowes.com"
+        },
+        {
+          "rank_group": 11,
+          "rank_absolute": 22,
+          "domain": "www.nytimes.com",
+          "url": "https://www.nytimes.com/wirecutter/guides/heat-pump-water-heaters/",
+          "title": "The 3 Best Heat Pump Water Heaters of 2026 | Reviews by Wirecutter",
+          "description": "The Rheem ProTerra XE65T10HS45U1 is the best overall heat pump water heater we've found, with a Uniform Energy Factor (UEF) rating that's at ...",
+          "breadcrumb": "https://www.nytimes.com"
+        },
+        {
+          "rank_group": 12,
+          "rank_absolute": 24,
+          "domain": "www.efficiencyvermont.com",
+          "url": "https://www.efficiencyvermont.com/blog/how-to/is-a-heat-pump-water-heater-a-good-choice-for-your-home",
+          "title": "Is a heat pump water heater a good choice for your home?",
+          "description": "A heat pump water heater, sometimes called a hybrid water heater, uses heat pump technology to heat water more efficiently than conventional electric water ...",
+          "breadcrumb": "https://www.efficiencyvermont.com"
+        },
+        {
+          "rank_group": 13,
+          "rank_absolute": 25,
+          "domain": "www.hotwater.com",
+          "url": "https://www.hotwater.com/info-center/advantages-disadvantages-of-heat-pumps.html",
+          "title": "Pros & Cons of a Heat Pump Water Heater",
+          "description": "Heat pump water heaters are the most efficient type of electric water heater, with the potential to reduce water heating costs by up to 73%. Because they ...",
+          "breadcrumb": "https://www.hotwater.com"
+        },
+        {
+          "rank_group": 14,
+          "rank_absolute": 26,
+          "domain": "www.uswhpro.com",
+          "url": "https://www.uswhpro.com/heat-pump-water-heaters-hpwhs-an-overview",
+          "title": "Heat Pump Water Heaters (HPWHs) 101: An Overview",
+          "description": "Heat pump water heaters are essentially a combination of a tank type electric water heater, a fan, an evaporator, and a compressor.",
+          "breadcrumb": "https://www.uswhpro.com"
+        }
+      ],
+      "paid": [],
+      "people_also_ask": [
+        {
+          "type": "people_also_ask",
+          "rank_group": 1,
+          "rank_absolute": 8,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[12]/div[3]/div[1]/div[1]/div[7]/div[1]",
+          "items": [
+            {
+              "type": "people_also_ask_element",
+              "title": "What are the downsides of a heat pump water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[12]/div[3]/div[1]/div[1]/div[7]/div[1]/div[2]/div[2]/div[1]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Is it worth getting a heat pump water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[12]/div[3]/div[1]/div[1]/div[7]/div[1]/div[2]/div[2]/div[2]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Why don't contractors like heat pumps?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[12]/div[3]/div[1]/div[1]/div[7]/div[1]/div[2]/div[2]/div[3]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            },
+            {
+              "type": "people_also_ask_element",
+              "title": "Which is better, a tankless water heater or a heat pump water heater?",
+              "seed_question": null,
+              "xpath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[12]/div[3]/div[1]/div[1]/div[7]/div[1]/div[2]/div[2]/div[4]",
+              "expanded_element": [
+                {
+                  "type": "people_also_ask_ai_overview_expanded_element",
+                  "items": null,
+                  "references": null,
+                  "asynchronous_ai_overview": true
+                }
+              ]
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}
