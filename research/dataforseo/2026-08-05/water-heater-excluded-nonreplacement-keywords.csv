@@ -1,0 +1,15 @@
+category,cluster,keyword,reason
+water_heater,tankless,tankless water heater cost,no explicit replacement or installation intent
+water_heater,cost,water heater cost,no explicit replacement or installation intent
+water_heater,cost,hot water heater cost,no explicit replacement or installation intent
+water_heater,replacement,water heater service,no explicit replacement or installation intent
+water_heater,tankless,tankless water heater price,no explicit replacement or installation intent
+water_heater,tankless,electric tankless water heater cost,no explicit replacement or installation intent
+water_heater,tankless,tankless water heater service,no explicit replacement or installation intent
+water_heater,electric,electric water heater cost,no explicit replacement or installation intent
+water_heater,gas,gas water heater cost,no explicit replacement or installation intent
+water_heater,heat_pump,heat pump water heater cost,no explicit replacement or installation intent
+water_heater,tankless,tankless gas water heater cost,no explicit replacement or installation intent
+water_heater,tankless,gas tankless water heater cost,no explicit replacement or installation intent
+water_heater,gas,gas hot water heater cost,no explicit replacement or installation intent
+water_heater,tankless,tankless water heater company,no explicit replacement or installation intent

@@ -4,6 +4,8 @@ Prepared: 2026-08-05
 
 Use `DATAFORSEO_LIVE_KEYWORDS.csv` as the approved input list for Google Ads Search Volume validation with a city supplied through the API `location_name` field.
 
+For reporting after the 2026-08-05 intent correction, use `DATAFORSEO_LIVE_KEYWORDS_STRICT.csv`. It requires every water-heater keyword to express replacement or installation explicitly and excludes generic product-price/service queries.
+
 ## Current scope
 
 - Water-heater replacement and installation only. Repair terms, brands, tank capacities, lifespan, and other informational/product intents are excluded.

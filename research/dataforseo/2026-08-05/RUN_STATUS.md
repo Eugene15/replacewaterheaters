@@ -42,3 +42,22 @@ Total DataForSEO spend for this workflow:
 - Original and checkpointed Live geo calls: **$1.62**.
 - Standard Queue recovery: **$0.78**.
 - **Grand total: $3.06**.
+
+## Water-heater intent correction
+
+The first merged list contained 14 ambiguous water-heater queries with possible product-shopping intent, such as generic equipment cost/price and `water heater service`. They are retained only in the raw research for auditability and must not be used in replacement-service demand totals.
+
+The canonical strict outputs are:
+
+- `DATAFORSEO_LIVE_KEYWORDS_STRICT.csv`
+- `all-services-17-market-geo-volume-strict.json`
+- `all-services-17-market-volume-matrix-strict.csv`
+- `all-services-17-market-summary-strict.csv`
+- `water-heater-excluded-nonreplacement-keywords.csv`
+
+Strict scope results:
+
+- 116 water-heater keywords, all with explicit replacement/installation/changeout/swap/conversion intent.
+- 14 ambiguous water-heater keywords excluded.
+- 0 repair, maintenance, or parts keywords.
+- No additional DataForSEO cost; strict reports were rebuilt from the saved 17-market responses.
