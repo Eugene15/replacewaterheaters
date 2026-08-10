@@ -8,6 +8,7 @@ Updated: 2026-07-27
 - Production URL: https://replacewaterheaters.com
 - `www` URL: https://www.replacewaterheaters.com
 - Canonical host: **without `www`**
+- Every page canonical must be an absolute self-referencing URL on `https://replacewaterheaters.com`; never use the `www` host in a canonical tag.
 - `www` permanently redirects to the same path on the canonical host with HTTP 301.
 - The website itself has not been built yet. The repository currently contains the handoff documentation and source logo only, so the production domain may return 404 until a deployable site is added.
 

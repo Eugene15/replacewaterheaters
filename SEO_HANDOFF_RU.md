@@ -348,7 +348,7 @@ Homepage — Sacramento water heater replacement (/)
 | Supporting phrases | same-day, gas, electric, heat pump |
 | Title | `Water Heater Replacement in {City}, CA | Wellmade` |
 | H1 | `Water heater replacement in {City}` |
-| Canonical | self-referencing absolute URL |
+| Canonical | self-referencing absolute URL на `https://replacewaterheaters.com` без `www` |
 
 Не создавать отдельные gas/electric/heat-pump/same-day/cost/installation страницы для каждого города, если SERP не показывает другой интент и volume отсутствует. Эти темы пока должны быть секциями одной городской страницы.
 
@@ -406,6 +406,7 @@ Homepage — Sacramento water heater replacement (/)
 - BreadcrumbList на city pages.
 - FAQPage только при наличии видимого FAQ и если это соответствует текущим правилам Google.
 - Unique title, description, H1, canonical, Open Graph.
+- Все canonical всегда указывают на `https://replacewaterheaters.com/...` без `www`; canonical на `https://www.replacewaterheaters.com/...` запрещены.
 - Телефон в формате `tel:+19162657756`.
 - Mobile-first верстка, responsive images, WebP, preload только LCP.
 - Обновлять XML sitemap при публикации новых canonical URL.

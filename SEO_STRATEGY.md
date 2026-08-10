@@ -168,7 +168,7 @@ Each city gets one primary commercial page.
 | Supporting phrases | same-day availability, gas, electric, heat pump |
 | Title | `Water Heater Replacement in {City}, CA | Wellmade` |
 | H1 | `Water heater replacement in {City}` |
-| Canonical | Self-referencing absolute URL |
+| Canonical | Self-referencing absolute URL on `https://replacewaterheaters.com` (never `www`) |
 
 Do not create separate gas, electric, heat-pump, same-day, installation, and cost pages for every city while their measured demand is zero or they share the same intent. Use sections and FAQs on the main city page. Split a cluster into a standalone page only after SERP evidence shows a different intent and the page can offer genuinely unique value.
 
@@ -226,6 +226,7 @@ Business coverage is a hard gate. Search volume alone does not authorize a page 
 - Breadcrumb structured data on all city pages.
 - FAQ structured data only when the visible FAQ is present and eligible under current Google guidance.
 - Unique title, description, H1, canonical, and social metadata for every page.
+- Every canonical must use the non-`www` host: `https://replacewaterheaters.com/...`. Never emit `https://www.replacewaterheaters.com/...` as a canonical URL.
 - Click-to-call phone in `tel:+19162657756` format.
 - Fast mobile rendering, compressed images, no horizontal overflow.
 - Separate XML sitemap entries for every published canonical page.
