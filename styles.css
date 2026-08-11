@@ -593,6 +593,127 @@ h1 { max-width: 680px; margin-bottom: 22px; color: var(--navy); font-size: clamp
   margin-top: 28px;
 }
 
+/* GEO pipeline polish: tighter narrative rhythm and route-specific composition. */
+.city-page .section { padding-block: clamp(64px, 7vw, 96px); }
+.city-page--roseville .page-hero { background: var(--paper); }
+.city-page--roseville .page-hero__grid { grid-template-columns: minmax(0, 1.2fr) minmax(300px, .5fr); }
+.city-page--roseville .page-hero__note { background: var(--sky); color: var(--navy); border: 1px solid var(--line); box-shadow: none; }
+.city-page--roseville .page-hero__note p { color: var(--muted); }
+.city-page--roseville .local-detail { background: var(--blue-dark); }
+.sd-hero .text-link { min-height: 48px; display: inline-flex; align-items: center; margin-top: 10px; padding: 10px 18px; background: var(--blue); color: var(--white); text-decoration: none; }
+.sf-hero__note { background: transparent; }
+
+@media (min-width: 901px) {
+  .decision-fork .fork-grid, .location-check .location-cards { display: grid; grid-template-columns: 1fr 1fr; max-width: none; }
+  .decision-fork .fork-grid article + article, .location-check .location-cards article + article { margin-top: 0; }
+  .decision-fork .fork-grid article + article { border-left: 1px solid var(--line); }
+}
+
+@media (max-width: 760px) {
+  .city-page .section { padding-block: 58px; }
+  .la-hero .address-micro { grid-row: 3; }
+  .la-hero aside { grid-row: 4; }
+  .oc-hero { text-align: left; }
+  .oc-hero h1, .oc-hero > .shell > p, .oc-resolve { margin-inline: 0; }
+  .city-page--roseville .page-hero__grid { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* Route-specific editorial treatments for the four decision-heavy pages. */
+.city-page--fremont-checker .section,
+.city-page--conversion .section,
+.city-page--electrification .section,
+.city-page--san-jose-checker .section { padding-block: clamp(52px, 5.5vw, 76px); }
+
+.city-page--fremont-checker .portal-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  border: 0;
+}
+.city-page--fremont-checker .portal-list article {
+  display: block;
+  padding: 22px;
+  border: 0;
+  background: var(--paper);
+}
+.city-page--fremont-checker .portal-list span { display: block; margin-top: 8px; }
+.city-page--fremont-checker .scope-topics { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; border: 0; }
+.city-page--fremont-checker .scope-topics p { padding: 22px; border: 0; background: var(--sky); }
+.city-page--fremont-checker .scope-topics p + p { margin-top: 0; }
+
+.city-page--conversion .permit-matrix .matrix {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  border: 0;
+  background: transparent;
+}
+.city-page--conversion .permit-matrix .matrix__head { display: none; }
+.city-page--conversion .permit-matrix .matrix > div:not(.matrix__head) { display: block; padding: 24px; background: var(--paper); }
+.city-page--conversion .permit-matrix .matrix > div > * { display: block; padding: 0; border: 0; }
+.city-page--conversion .permit-matrix .matrix > div > span:first-child { margin-bottom: 18px; color: var(--blue-dark); font-weight: 800; }
+.city-page--conversion .permit-matrix .matrix > div > span + span { margin-top: 12px; color: var(--muted); }
+.city-page--conversion .photo-list { grid-template-columns: repeat(3, 1fr); gap: 14px; border: 0; }
+.city-page--conversion .photo-list li { padding: 20px; border: 0; background: var(--sky); }
+.city-page--conversion .sd-estimate dl { gap: 18px; border: 0; }
+.city-page--conversion .sd-estimate dl div { padding: 22px; border: 0; background: var(--paper); }
+
+.city-page--electrification .score-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 24px;
+  border: 0;
+}
+.city-page--electrification .score-grid article { padding: 20px 0; border: 0; border-top: 3px solid var(--blue); }
+.city-page--electrification .score-grid p { margin-top: 14px; }
+.city-page--electrification .trade-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 26px;
+  border: 0;
+}
+.city-page--electrification .trade-grid article { padding: 0; border: 0; }
+.city-page--electrification .compare-rows { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; border: 0; }
+.city-page--electrification .compare-rows article { display: block; padding: 22px; border: 0; background: var(--sky); }
+.city-page--electrification .compare-rows span { display: block; margin-top: 10px; }
+.city-page--electrification .sf-faq details { padding: 20px 0; margin: 0; border: 0; border-bottom: 1px solid var(--line); }
+
+.city-page--san-jose-checker .question-stack {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  border: 0;
+}
+.city-page--san-jose-checker .question-stack article {
+  display: block;
+  padding: 24px;
+  border: 0;
+  background: var(--sky);
+}
+.city-page--san-jose-checker .question-stack article > span { display: inline-block; margin-top: 16px; padding: 0; background: transparent; }
+.city-page--san-jose-checker .packet-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; border: 0; }
+.city-page--san-jose-checker .packet-grid article { padding: 0; border: 0; }
+.city-page--san-jose-checker .question-index { display: block; }
+.city-page--san-jose-checker .question-index details { padding: 20px 0; border: 0; border-bottom: 1px solid var(--line); }
+
+@media (max-width: 760px) {
+  .city-page--fremont-checker .portal-list,
+  .city-page--fremont-checker .scope-topics,
+  .city-page--conversion .permit-matrix .matrix,
+  .city-page--conversion .photo-list,
+  .city-page--electrification .score-grid,
+  .city-page--electrification .trade-grid,
+  .city-page--electrification .compare-rows,
+  .city-page--san-jose-checker .question-stack,
+  .city-page--san-jose-checker .packet-grid { grid-template-columns: 1fr; }
+  .city-page--conversion .permit-matrix .matrix > div:not(.matrix__head),
+  .city-page--conversion .photo-list li,
+  .city-page--conversion .sd-estimate dl div,
+  .city-page--fremont-checker .portal-list article,
+  .city-page--fremont-checker .scope-topics p,
+  .city-page--san-jose-checker .question-stack article { padding: 18px; }
+}
+
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: 0.01ms !important; }
