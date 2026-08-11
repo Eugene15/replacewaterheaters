@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "canonical-facts.v1",
+  "facts": [
+    {
+      "id": "ADAPT_REQUIRED",
+      "key": "ADAPT_REQUIRED",
+      "value": "ADAPT_REQUIRED",
+      "status": "verified",
+      "source": "ADAPT_REQUIRED",
+      "verifiedAt": "ADAPT_REQUIRED"
+    }
+  ],
+  "prohibitedClaims": ["ADAPT_REQUIRED"]
+}
+

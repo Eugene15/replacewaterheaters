@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "role-artifact.v1",
+  "projectId": "replacewaterheaters",
+  "runId": "folsom-utility-rework-2026-08-11",
+  "stage": "prewriting_checkpoint",
+  "createdAt": "2026-08-11T11:37:07-07:00",
+  "producerId": "content_director_strategy_architecture_critic",
+  "inputHashes": [
+    "a8274c4f1288b3b97a75344a627696b42f7348946a9778c7c421c7bd5b5c0adc",
+    "21cf50fefae543568b882e3c3d5ada603c28f8ca9e4c79064e6103e6bf7500d0",
+    "97faaae8001dee0b7fdad0849542d281141ff239fe5df79891618e0c75da2909",
+    "a30f5a50b1d394a3a4429c10ba058b77a16e50fef26d30715bd2d0cc2cd48039",
+    "f8fe0fb24c1e8e14e435a3302e09bcc0a94e8f16b7a09879cf03f65aeae1a283",
+    "95709c060223494c20cac7efbccb589f28f9d6721524e2560555573be048374f"
+  ],
+  "contentHash": "66e158db119e94c0e0460a3bad95cc3c21fdda3546b116fe7a13d59773104f2a",
+  "contentHashAlgorithm": "sha256 of UTF-8 PowerShell compressed JSON with contentHash set to an empty string",
+  "reviewedReleaseHash": "f3976c21f5f90dbdb8a4a3fd9ea3cc29862bafcc4aa39a5ed5739b2be0287fd9",
+  "reviewedHtmlHash": "a8274c4f1288b3b97a75344a627696b42f7348946a9778c7c421c7bd5b5c0adc",
+  "reviewedStrategyHash": "f8fe0fb24c1e8e14e435a3302e09bcc0a94e8f16b7a09879cf03f65aeae1a283",
+  "reviewedArchitectureHash": "95709c060223494c20cac7efbccb589f28f9d6721524e2560555573be048374f",
+  "evidenceIds": [
+    "competitor-function-analysis",
+    "evidence-inventory",
+    "visitor-state",
+    "page-strategy",
+    "page-architecture",
+    "fact-scope-001",
+    "fact-form-001",
+    "fact-sameday-001",
+    "fact-folsom-permit-001",
+    "fact-trust-details-deferral-001"
+  ],
+  "status": "complete",
+  "blockers": [],
+  "answers": [
+    {
+      "questionId": "1",
+      "question": "Why does this page deserve to exist?",
+      "answer": "The page combines a verified Folsom eTRAKiT minor-permit starting point with a no-jargon replacement decision and a real SMS request path. Those functions provide route-specific and transactional utility.",
+      "evidenceIds": ["page-strategy", "fact-folsom-permit-001", "fact-form-001"]
+    },
+    {
+      "questionId": "2",
+      "question": "What does the visitor actually need?",
+      "answer": "The visitor needs to orient from the failure or planned-replacement trigger, identify or mark uncertainty about the current heater, compare like-for-like and conversion paths, understand scope inputs and prepare the minimum call or SMS details.",
+      "evidenceIds": ["visitor-state", "fact-types-001", "fact-form-001"]
+    },
+    {
+      "questionId": "3",
+      "question": "What realistic competitive advantage does the page have?",
+      "answer": "Its credible advantage is decision transparency: current-system identification, bounded scope drivers, verified local permit context and honest SMS behavior without generic pricing or reputation theater.",
+      "evidenceIds": ["page-strategy", "competitor-function-analysis", "fact-form-001", "fact-folsom-permit-001"]
+    },
+    {
+      "questionId": "4",
+      "question": "What can the company not honestly claim?",
+      "answer": "It cannot claim licensing, insurance, warranty, reviews, ratings, years in business, local operating proof, a Folsom office, fixed prices, website photo upload, instant estimates, online scheduling, included permit handling or guaranteed same-day completion.",
+      "evidenceIds": ["evidence-inventory", "fact-trust-details-deferral-001", "fact-sameday-001"]
+    },
+    {
+      "questionId": "5",
+      "question": "What functions do established competitors use to create trust?",
+      "answer": "Competitors use reviews, testimonials and operating history for provider risk; installed-price ranges for price risk; and comparisons plus local permit information for decision and process risk.",
+      "evidenceIds": ["competitor-function-analysis"]
+    },
+    {
+      "questionId": "6",
+      "question": "What verified alternative trust mechanisms can this page provide?",
+      "answer": "It can provide official permit attribution, exact claim boundaries, practical decision inputs, truthful form disclosure and the conditional call-before-noon timing statement.",
+      "evidenceIds": ["fact-folsom-permit-001", "fact-form-001", "fact-sameday-001", "page-strategy"]
+    },
+    {
+      "questionId": "7",
+      "question": "What useful information or real functionality may competitors be missing?",
+      "answer": "The page lets a visitor proceed without a model number, distinguishes current equipment from desired replacement path, and prepares a real SMS while making clear that attachments are added later in the messaging app.",
+      "evidenceIds": ["visitor-state", "fact-types-001", "fact-form-001"]
+    },
+    {
+      "questionId": "8",
+      "question": "Is the strategy strong enough to justify writing?",
+      "answer": "Yes. The six-block strategy, all section content and the exact released order are strong enough. The release now implements the reviewed architecture, avoids the Roseville options-local-cost sequence and introduces no filler, SEO-only section or unsupported claim.",
+      "evidenceIds": ["page-strategy", "page-architecture", "section-utility-review"]
+    }
+  ],
+  "decision": "proceed",
+  "reason": "All eight strategic questions have evidence-backed answers. The exact release matches the six-block architecture, every visible section passes utility and factual review, and the composition no longer transfers Roseville's section recipe.",
+  "approvedStrategyHash": "f8fe0fb24c1e8e14e435a3302e09bcc0a94e8f16b7a09879cf03f65aeae1a283",
+  "approvedArchitectureHash": "95709c060223494c20cac7efbccb589f28f9d6721524e2560555573be048374f",
+  "requiredCorrection": null
+}

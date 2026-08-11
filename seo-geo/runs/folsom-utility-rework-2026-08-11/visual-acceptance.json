@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "visual-acceptance.v1",
+  "policyVersion": "buyer-facing-quality.v3",
+  "route": "/service-areas/folsom-ca/",
+  "releaseHash": "f3976c21f5f90dbdb8a4a3fd9ea3cc29862bafcc4aa39a5ed5739b2be0287fd9",
+  "reviewerRole": "independent_visual_design_critic",
+  "authorIsReviewer": false,
+  "reviewBasis": "Newly recaptured 1684x1000 and 390x844 viewport and full-page screenshots only; prior visual artifact treated as stale.",
+  "evidence": [
+    "seo-geo/runs/geo-recheck-2026-08-11/render-evidence/folsom-ca-1684x1000-viewport.png",
+    "seo-geo/runs/geo-recheck-2026-08-11/render-evidence/folsom-ca-1684x1000.png",
+    "seo-geo/runs/geo-recheck-2026-08-11/render-evidence/folsom-ca-390x844-viewport.png",
+    "seo-geo/runs/geo-recheck-2026-08-11/render-evidence/folsom-ca-390x844.png"
+  ],
+  "demandingUserQuestion": {
+    "question": "Is this genuinely good human design, not merely a technically working page?",
+    "answer": "yes",
+    "reason": "The page preserves a clear buyer task, useful choices, strong visual hierarchy and an attached request outcome. The reordered dark decision and permit sections form a coherent chapter without becoming one undifferentiated dense surface."
+  },
+  "routeVerdict": "pass",
+  "releaseDecision": "visual-gate-pass",
+  "failClosed": true,
+  "blockers": [],
+  "criticalFindings": [],
+  "majorFindings": [],
+  "minorFindings": [],
+  "checks": {
+    "header": {"verdict":"pass","observation":"Desktop navigation follows the page order—Current heater, Cost factors, Folsom permit, Start request, Service areas—without wrapping or crowding; brand and phone action remain balanced. Mobile retains the logo, top call line and phone control without regression."},
+    "hero": {"verdict":"pass","desktopHeadlineLines":3,"mobileHeadlineLines":3,"observation":"Headline width and three-line wrap are controlled at both sizes. Start my request is prominent and attached to the immediate replacement problem; the secondary phone action remains clear."},
+    "whitespace": {"verdict":"pass","observation":"The angled desktop split and blue installation card use the hero space deliberately. On the shortened full page, section height follows content and no unexplained blank band dominates."},
+    "clippingAndEdges": {"verdict":"pass","observation":"No visible clipping, overflow, overlap, cropped text or edge collision appears in any of the four captures."},
+    "mobile": {"verdict":"pass","observation":"Hero, installation card, equipment choices, permit explanation, cost factors, decision band and request form stack in a coherent order with consistent side padding and readable measures."},
+    "adminTableSilhouette": {"verdict":"pass","observation":"Choice cards, editorial cost factors and the three-path decision band are separated by narrative and color. The single request form is outcome-oriented and does not make the overall page resemble an intake dashboard."},
+    "repetitiveComposition": {"verdict":"pass","observation":"The page alternates asymmetric hero, light choice grid, editorial cost factors, a dark three-path comparison, a darker permit explanation and a focused final request section. The shortened sequence avoids repeated process/FAQ/CTA patterns."},
+    "adjacentDarkSurfaces": {"verdict":"pass","observation":"The decision band and following permit section are adjacent, but they remain distinguishable: the first uses a visibly lighter navy, three equal choice columns and compact bullets; the second shifts to a darker navy, a large permit headline and a two-column narrative layout. The tonal boundary is visible on desktop and mobile, and the transition from equipment choice to permit implication is semantically coherent. They do not read as adjacent tables, duplicate comparison panels or one merged admin surface."},
+    "lowerSectionRemoval": {"verdict":"pass","observation":"The shortened page remains focused. The request form functions as a credible final conversion destination after the permit section, followed by a normal footer; there is no abrupt visual break."}
+  },
+  "viewportVerdicts": [
+    {
+      "viewport": "1684x1000",
+      "viewportScreenshot": "seo-geo/runs/geo-recheck-2026-08-11/render-evidence/folsom-ca-1684x1000-viewport.png",
+      "fullPageScreenshot": "seo-geo/runs/geo-recheck-2026-08-11/render-evidence/folsom-ca-1684x1000.png",
+      "goodDesign": "yes",
+      "demandingUserWouldLikeIt": "yes",
+      "visibleDefects": [],
+      "technicalChecksPassed": true,
+      "independentRenderedReview": true,
+      "verdict": "pass"
+    },
+    {
+      "viewport": "390x844",
+      "viewportScreenshot": "seo-geo/runs/geo-recheck-2026-08-11/render-evidence/folsom-ca-390x844-viewport.png",
+      "fullPageScreenshot": "seo-geo/runs/geo-recheck-2026-08-11/render-evidence/folsom-ca-390x844.png",
+      "goodDesign": "yes",
+      "demandingUserWouldLikeIt": "yes",
+      "visibleDefects": [],
+      "technicalChecksPassed": true,
+      "independentRenderedReview": true,
+      "verdict": "pass"
+    }
+  ],
+  "summary": {"viewportCases":2,"pass":2,"revise":0,"blockers":0}
+}

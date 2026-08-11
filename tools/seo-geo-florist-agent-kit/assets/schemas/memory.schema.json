@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "memory.schema.json",
+  "type": "object",
+  "required": ["schemaVersion", "entries", "feedbackLedger", "approvedExamples", "regressionRules", "candidates"],
+  "properties": {
+    "schemaVersion": {"const": "agent-learning-memory.v1"},
+    "entries": {"type": "array"},
+    "feedbackLedger": {"type": "array"},
+    "approvedExamples": {"type": "array"},
+    "regressionRules": {"type": "array"},
+    "candidates": {"type": "array"}
+  },
+  "additionalProperties": false
+}
+

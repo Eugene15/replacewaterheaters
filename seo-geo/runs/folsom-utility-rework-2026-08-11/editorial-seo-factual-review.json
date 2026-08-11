@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "role-artifact.v1",
+  "projectId": "replacewaterheaters",
+  "runId": "folsom-utility-rework-2026-08-11",
+  "stage": "editorial_marketing_seo_factual_review",
+  "createdAt": "2026-08-12T00:30:00Z",
+  "producerId": "independent_editorial_marketing_seo_factual_reviewer",
+  "inputHashes": [
+    "f3976c21f5f90dbdb8a4a3fd9ea3cc29862bafcc4aa39a5ed5739b2be0287fd9"
+  ],
+  "releaseHash": "f3976c21f5f90dbdb8a4a3fd9ea3cc29862bafcc4aa39a5ed5739b2be0287fd9",
+  "sourceHash": "f3976c21f5f90dbdb8a4a3fd9ea3cc29862bafcc4aa39a5ed5739b2be0287fd9",
+  "contentHash": "3e7d1e6c66cfc4f364c7d59ae7f9c378d54e9ada8f09e1a5639a8c479df2a19d",
+  "evidenceIds": [
+    "service-areas/folsom-ca/index.html@f3976c21f5f90dbdb8a4a3fd9ea3cc29862bafcc4aa39a5ed5739b2be0287fd9",
+    "canonical-facts.v1",
+    "editorial-seo-factual-review.json@c74c0295f4e353f3f7d59d9fd0571d60c4cd26db42a9484cf59fc29ba505947f"
+  ],
+  "reviewScope": {
+    "route": "/service-areas/folsom-ca/",
+    "priorBlockerVerification": true,
+    "fullContractRerun": true,
+    "siteFilesEdited": false
+  },
+  "priorFindingVerification": {
+    "findingId": "folsom-nav-order-001",
+    "status": "corrected",
+    "previousEvidence": "Header #options → #local → #cost → #request did not match document #options → #cost → #local → #request.",
+    "currentEvidence": "Header now follows #options → #cost → #local → #request, matching the forward document sequence.",
+    "verification": "The Cost factors link now precedes Folsom permit, so following the header no longer sends the visitor backward after the permit section."
+  },
+  "routeReview": {
+    "route": "/service-areas/folsom-ca/",
+    "verdict": "pass",
+    "blockerCount": 0,
+    "findings": [],
+    "checks": {
+      "utilityFirstNarrative": {
+        "verdict": "pass",
+        "evidence": "Current heater identification leads to cost drivers and replacement-path comparison, then the local permit starting point and final SMS request."
+      },
+      "navigation": {
+        "verdict": "pass",
+        "evidence": "Header order matches document flow: Current heater (#options), Cost factors (#cost), Folsom permit (#local), Start request (#request). Every fragment target exists."
+      },
+      "metadataH1CanonicalRobots": {
+        "verdict": "pass",
+        "evidence": "Unique Folsom title and description, one route-specific H1, self-referencing HTTPS canonical, index,follow robots and matching Open Graph URL remain intact."
+      },
+      "schemaAndFaqParity": {
+        "verdict": "pass",
+        "evidence": "No visible FAQ and no FAQPage entity are present. Service and BreadcrumbList remain consistent with visible page identity and breadcrumbs."
+      },
+      "permitFactuality": {
+        "verdict": "pass",
+        "evidence": "Permit copy stays within the verified Folsom eTRAKiT minor-permit fact, qualifies exact address/scope and links the official city source."
+      },
+      "naturalCityUse": {
+        "verdict": "pass",
+        "evidence": "City use is limited to route identity, navigation, schema/breadcrumbs and sourced permit context; generic guidance is not GEO-stuffed."
+      },
+      "replacementOnlyAndClaims": {
+        "verdict": "pass",
+        "evidence": "The page remains replacement-only and contains no invented repair, upload, instant estimate, confirmed scheduling, reputation, licensing, warranty, provider-selection, price, rebate or guaranteed same-day claim."
+      },
+      "smsBehavior": {
+        "verdict": "pass",
+        "evidence": "The form accurately prepares a text message, transmits nothing before Send, and instructs the homeowner to attach photos in the messaging app."
+      },
+      "conditionalSameDay": {
+        "verdict": "pass",
+        "evidence": "Evening completion remains a before-noon question subject to phone confirmation, equipment, route, site and permit needs."
+      },
+      "conversionClarity": {
+        "verdict": "pass",
+        "evidence": "All primary actions lead to the verified phone or #request, and the request form remains the final main-content block."
+      },
+      "regressions": {
+        "verdict": "pass",
+        "evidence": "No new editorial, SEO, schema, factual, navigation or conversion regression was detected after the header-order correction."
+      }
+    }
+  },
+  "blockerCount": 0,
+  "criticalCount": 0,
+  "majorCount": 0,
+  "minorCount": 0,
+  "overallVerdict": "pass",
+  "status": "complete",
+  "blockers": []
+}

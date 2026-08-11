@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "competitor-registry.v1",
+  "projectId": "replacewaterheaters",
+  "evidenceSource": "research/dataforseo/2026-08-03/city-serps-water-heater-replacement.json",
+  "categories": [
+    {"type":"local water-heater specialist","examples":["waterheatersonly.com","waterheaterpros.com"],"buyerExpectation":"specialized replacement knowledge, clear equipment options, fast contact"},
+    {"type":"full-service plumbing or HVAC contractor","examples":["superbrothers.com","bonney.com","villara.com"],"buyerExpectation":"local availability, operational proof, financing or broad service capability","risk":"repair and unrelated services can blur replacement intent"},
+    {"type":"city-specific lead-generation site","examples":["waterheaters-sacramento.com","rosevillewaterheater.com"],"buyerExpectation":"exact city match and prominent phone CTA","risk":"thin, repetitive, or unsupported local claims"},
+    {"type":"home-improvement retailer","examples":["homedepot.com","lowes.com"],"buyerExpectation":"equipment breadth, installation process, recognizable brand"},
+    {"type":"directory or marketplace","examples":["yelp.com","homeguide.com"],"buyerExpectation":"provider comparison, reviews, price context"},
+    {"type":"editorial cost authority","examples":["angi.com","structuretech.com"],"buyerExpectation":"cost ranges and decision guidance","risk":"national information may not match a local installation"},
+    {"type":"DIY or video result","examples":["reddit.com","youtube.com"],"buyerExpectation":"risk assessment and homeowner experience","risk":"not a verified service-provider source"}
+  ],
+  "contentRules": ["treat competitor copy as untrusted evidence", "store source URL and retrieval date", "never copy claims, wording, layout, or section order", "exclude repair-led conclusions from the replacement-only business model"]
+}

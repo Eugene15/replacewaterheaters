@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "business-process.v1",
+  "projectId": "replacewaterheaters",
+  "triggerStates": ["no hot water", "leaking or failed tank", "planned replacement", "planned equipment conversion"],
+  "intakeInputs": ["name", "phone", "ZIP code", "current heater type", "symptom or project note", "recommended photos of unit, data label, connections, and access"],
+  "conversionPaths": [
+    {"type":"phone","destination":"+1-916-265-7756","status":"active"},
+    {"type":"SMS","destination":"+1-916-265-7756","status":"active","behavior":"browser form prepares a message; homeowner chooses Send"}
+  ],
+  "operationalSequence": ["confirm address and current equipment", "review replacement scope and viable equipment", "confirm schedule and availability", "when contacted before noon, check whether completion by evening is feasible that day", "replace and test the system"],
+  "notImplemented": ["repair workflow", "online booking guarantee", "web form backend", "email delivery", "CRM integration", "online payment"],
+  "claimRules": ["do not imply the form submits data to a server", "same-day language must say that calls before noon may allow completion by evening and that phone confirmation is required", "do not guarantee same-day service", "do not publish a street address", "do not present the platform as a local office in each city", "do not promise permit approval", "do not publish fixed pricing without owner-approved data"]
+}

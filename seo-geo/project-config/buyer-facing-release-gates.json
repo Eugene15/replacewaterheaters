@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "buyer-facing-release-gates.v3",
+  "policyVersion": "buyer-facing-quality.v3",
+  "projectId": "replacewaterheaters",
+  "sourceDocuments": [
+    "C:/Users/eugen/Documents/btw01/docs/BUYER_FACING_AI_CONTENT_RELEASE_GATES_RU.md",
+    "C:/Users/eugen/Documents/btw01/docs/PORTABLE_VISUAL_ACCEPTANCE_GATE_RU.md",
+    "C:/Users/eugen/Downloads/Архитектура агентной системы для создания SEO-страниц.md",
+    "C:/Users/eugen/Downloads/Проблема_ неестественное использование названия города на GEO-страницах.md",
+    "seo-geo/policies/PORTABLE_BUYER_FACING_AGENT_QUALITY_STANDARD.md",
+    "C:/Users/eugen/Downloads/Rework the SEO - Landing Page Content Agent.md",
+    "C:/Users/eugen/Downloads/Review Model Selection and Reasoning Effort for the Content Agent.md"
+  ],
+  "policyAuthority": "immutable_inherited_contract_cannot_be_weakened_by_role_prompt_example_memory_template_or_prior_approval",
+  "publicationPolicy": "blocked_until_all_gates_pass_and_owner_approval_matches_source_hash",
+  "forbiddenVisibleLabels": [
+    "Option A", "Option B", "Heading", "Body", "Decision Note", "State Note",
+    "Boundary Note", "Help Text", "Selection Help", "Unknown State", "Status Note",
+    "LOCAL / NOINDEX", "unpublished draft", "agent draft"
+  ],
+  "forbiddenMetadataPhrases": ["Same-Day Service", "same-day appointments available"],
+  "forbiddenSemanticPatterns": [
+    "internal audit or operational handoff language",
+    "bureaucratic abstractions instead of a concrete buyer action",
+    "database status language presented to a buyer",
+    "explanations of internal limitations without useful next-step guidance"
+  ],
+  "forbiddenBuyerFacingConcepts": [
+    "evidence packet", "estimate packet", "authority packet", "property brief",
+    "scope checker", "permit-path questions", "readiness scorecard", "jurisdiction resolver",
+    "project record", "scope utility", "possible result", "selection help",
+    "primary source", "supporting permit information"
+  ],
+  "forbiddenDesignPatterns": [
+    "decorative numbering", "numbered badge", "CSS counter"
+  ],
+  "sourceInputs": [
+    "index.html", "styles.css", "script.js", "service-areas/index.html", "service-areas/*/index.html",
+    "scripts/generate-phase1-service-pages.mjs", "scripts/sync-public-schema.mjs", "scripts/update-buyer-language-v3.mjs", "research/phase1-water-heater-city-dossiers.json",
+    "seo-geo/project-config/component-registry.json", "seo-geo/project-config/canonical-facts.json",
+    "seo-geo/project-config/buyer-facing-release-gates.json",
+    "seo-geo/project-config/role-adaptation-registry.json",
+    "seo-geo/project-config/adaptation-plan.json",
+    "tools/seo-geo-florist-agent-kit/references/page-team-architecture.md",
+    "tools/seo-geo-florist-agent-kit/references/geo-naturalness.md",
+    "seo-geo/policies/PORTABLE_BUYER_FACING_AGENT_QUALITY_STANDARD.md"
+  ],
+  "releaseHashCoverage": ["visible copy","page data","component recipe","components","CSS","media references","client behavior","renderer and generator code","feature flags","policy version"],
+  "requiredViewports": ["3840x2160","1920x1080","768x1024","375x812"],
+  "reviewIndependence": {
+    "authorMayApprove": false,
+    "blindBuyerReview": true,
+    "blindBuyerPermittedInputs": ["exact rendered route or archived HTML","ordered screenshots","short buyer persona","buyer task"],
+    "blindBuyerForbiddenInputs": ["author prompts","source JSON","internal slot names","keyword targets","SEO scores","research conclusions","factuality defense","previous reviews","owner comments","intended-meaning explanation"]
+  },
+  "routeAcceptanceRequiredFields": ["policyVersion","route","releaseHash","renderedHtmlHash","screenshotSetHash","approvedBy","approvedAt","blindBuyerReview","authorIsReviewer"],
+  "compositionHardFailures": ["table_adjacent_table","checklist_adjacent_checklist","matrix_adjacent_matrix","long_ruled_list_adjacent_long_ruled_list","status_panel_adjacent_status_panel","comparison_panel_beside_comparison_panel","visually_equivalent_dense_surfaces"],
+  "heroGestaltHardFailures": [
+    "headline_wraps_into_more_than_five_lines_on_desktop",
+    "headline_column_is_narrower_than_readable_body_measure",
+    "option_text_wraps_word_by_word",
+    "option_column_is_narrower_than_220px_on_desktop",
+    "unexplained_empty_space_dominates_more_than_one_third_of_the_hero",
+    "primary_action_is_visually_detached_from_the_service_message",
+    "technical_geometry_pass_without_full_viewport_composition_pass"
+  ],
+  "heroGestaltRequiredEvidence": [
+    "full viewport screenshot with header and entire hero visible",
+    "headline line count and rendered width",
+    "body copy rendered width and line length",
+    "each decision option rendered width",
+    "visual balance judgment for occupied and empty regions",
+    "buyer readability verdict independent of overflow metrics"
+  ],
+  "visualAcceptanceQuestions": [
+    "Это действительно хороший дизайн, а не просто технически работающая страница?",
+    "Понравится ли результат придирчивому пользователю с хорошим визуальным вкусом?",
+    "Не заметит ли он шаблонность, нелепую пустоту, дисбаланс, clipping, технический вид, имитацию таблицы или небрежную композицию?"
+  ],
+  "visualAcceptanceRequiredFields": [
+    "route",
+    "release_hash",
+    "viewport",
+    "good_design",
+    "demanding_user_would_like_it",
+    "visible_defects",
+    "technical_checks_passed",
+    "independent_rendered_review",
+    "verdict"
+  ],
+  "visualAcceptancePassRule": "pass_only_when_good_design_yes_demanding_user_yes_visible_defects_none_technical_yes_independent_yes_otherwise_revise",
+  "denseSectionClasses": ["decision-fork","permit-matrix","photo-kit","scope-checker","result-band","estimate-packet","readiness","trade-matrix","system-compare","location-check","portal-prep","route-map","authority-flow","la-requirements","property-variables","jurisdiction-resolver","authority-packet","county-next"],
+  "stageBindings": {
+    "reasoning_plan": ["complexity level", "stage model", "reasoning effort", "selection reason", "escalation trigger", "no silent downgrade"],
+    "competitor_function_analysis": ["competitor element", "buyer concern", "functional job", "proof type", "no copied architecture"],
+    "evidence_inventory": ["available verified", "conditional", "unavailable or unverified", "desired capabilities", "fact IDs"],
+    "visitor_state": ["trigger states", "unknowns", "anxieties", "decisions", "action barriers", "minimum useful next step"],
+    "prewriting_checkpoint": ["eight strategic questions answered", "exact strategy hash", "exact architecture hash", "proceed or return decision", "copy blocked unless proceed"],
+    "marketing_brief": ["supported value proposition", "benefit-to-proof mapping", "objections", "CTA motivation"],
+    "section_utility_review": ["every section classified", "zero generic filler", "zero SEO-only sections", "zero unsupported claims", "city-name necessity"],
+    "component_mapping": ["registered component", "allowed fields", "unknown fields block"],
+    "seo_schema_review": ["controlled before-after edits", "no page regeneration", "no geographic frequency targets"],
+    "geo_naturalness_review": ["every geographic occurrence classified", "semantic necessity", "zero unresolved SEO-driven occurrences"],
+    "editorial_marketing_review": ["post-SEO whole-page narrative", "marketing integrity", "exact-owner issue routing", "zero critical or major findings"],
+    "ui_visual_design": ["hierarchy", "composition", "spacing", "typography", "responsive design"],
+    "render_capture": ["final HTML scan", "source hash", "viewport screenshots"],
+    "visual_design_critique": ["independent screenshot review", "demanding-user question", "ranked findings", "critic does not edit"],
+    "buyer_visual_review": ["buyer-only context", "decision semantics", "trust", "CTA outcome", "draft-language scan"],
+    "quality_gate": ["route-specific evidence", "reviewer independence", "cross-page escalation", "current HTML CSS media screenshot and release hashes", "SEO", "factuality", "language", "composition", "capability", "zero blockers"],
+    "owner_approval": ["exact route", "exact release hash", "exact rendered HTML hash", "exact screenshot-set hash", "exact quality-gate hash", "approver", "timestamp"]
+  },
+  "componentInstances": {
+    "service-areas/san-diego-ca/index.html": [{"componentKey":"conversion_decision_fork","fields":["question","lead","optionAHeading","optionABody","optionBHeading","optionBBody","decisionNote"]}],
+    "service-areas/san-jose-ca/index.html": [{"componentKey":"permit_eligibility_checker","fields":["question","lead","criteria","resultExplanation","CTA"]}],
+    "service-areas/los-angeles-ca/index.html": [{"componentKey":"property_authority_brief","fields":["question","jurisdictionExplanation","permitAlert","addressPrompt","CTA"]}],
+    "service-areas/orange-county-ca/index.html": [{"componentKey":"jurisdiction_resolver","fields":["question","countyBoundaryExplanation","addressPrompt","jurisdictionPaths","decisionNote"]}],
+    "service-areas/san-francisco-ca/index.html": [{"componentKey":"electrification_readiness","fields":["question","lead","readinessCriteria","permitExplanation","CTA"]}],
+    "service-areas/fremont-ca/index.html": [{"componentKey":"same_location_scope_utility","fields":["question","lead","staysOption","movesOption","unknownOption","decisionNote"]}]
+  },
+  "decisionBlocks": {
+    "service-areas/san-diego-ca/index.html": {"question":"Water heater replacement in San Diego.","options":["Keep the system type","Change the system type"]},
+    "service-areas/fremont-ca/index.html": {"question":"Water heater replacement in Fremont.","options":["Yes, it stays in place","No, it moves or changes","Not sure yet"]}
+  },
+  "requiredArtifacts": [
+    "competitor-function-analysis", "evidence-inventory", "visitor-state", "reasoning-plan", "prewriting-checkpoint", "marketing-brief", "component-contract-review", "section-utility-review", "seo-change-log", "geo-naturalness-review", "editorial-marketing-review", "ui-visual-design", "humanizer-visible-text-review",
+    "rendered-html-review", "buyer-review", "visual-review", "cross-page-review",
+    "visual-design-critique", "seo-schema-review", "capability-fact-check", "quality-gate"
+  ],
+  "crossPageEscalationThreshold": 2,
+  "approvalScope": "exact_route_only_no_batch_wildcard_inherited_or_latest_approval",
+  "failClosed": true
+}

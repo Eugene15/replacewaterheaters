@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "agent-learning-memory.v1",
+  "entries": [
+    {
+      "knowledgeKey": "visible-copy.no-internal-seo-language",
+      "version": 1,
+      "status": "active",
+      "type": "anti-pattern",
+      "rule": "Visible buyer-facing copy must not discuss local pages, published pages, URLs, SEO structure, keyword targeting, pipeline stages, or implementation intent.",
+      "authority": "owner decision",
+      "tags": ["copy", "narrative", "regression", "all-pages"]
+    }
+  ],
+  "feedbackLedger": [
+    {
+      "id": "feedback-2026-08-04-001",
+      "before": "Why city details matter. A local page should answer more than do you serve my city?",
+      "after": "Plan the replacement. The installation depends on your home and current equipment.",
+      "ownerDecision": "reject internal SEO framing in visible copy",
+      "rationale": "The customer needs installation guidance, not commentary about how a landing page should work.",
+      "recordedAt": "2026-08-05"
+    }
+  ],
+  "approvedExamples": [],
+  "regressionRules": [
+    {
+      "id": "regression-visible-internal-language-001",
+      "scope": "visible page copy",
+      "check": "flag buyer-facing references to local page, published page, URL, SEO, keyword, pipeline, or implementation unless the user is explicitly reading documentation"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "brand-constitution.v1",
+  "projectId": "replacewaterheaters",
+  "voice": ["reliable", "direct", "calm", "specific", "non-pressuring"],
+  "audienceMoment": "a homeowner may have no hot water and needs a clear next step without exaggerated emergency language",
+  "copyRules": [
+    "lead with the replacement decision and next action",
+    "explain technical details only when they change the homeowner's choice or preparation",
+    "use conditional language for scheduling, service area, permit, and rebate claims",
+    "write short coherent paragraphs in natural homeowner language",
+    "keep phone and SMS actions explicit"
+  ],
+  "copyBans": ["internal SEO or pipeline language", "keyword-stuffed city paragraphs", "fake urgency", "empty superlatives", "repair positioning", "unsupported trust claims", "invented local color"],
+  "visualPrinciples": ["clear action above the fold", "high-contrast blue and tinted-neutral palette", "square corners and restrained elevation", "strong typographic hierarchy", "mobile-first forms and tap targets", "one component vocabulary without cloning whole page recipes"],
+  "accessibility": ["WCAG 2.2 AA target", "visible focus", "keyboard access", "reduced-motion support", "descriptive labels", "no horizontal overflow", "comfortable tap targets"],
+  "source": "PRODUCT.md and current styles.css"
+}

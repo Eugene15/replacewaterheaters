@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "role-artifact.v1",
+  "projectId": "replacewaterheaters",
+  "runId": "folsom-utility-rework-2026-08-11",
+  "stage": "reasoning_plan",
+  "createdAt": "2026-08-11T11:37:07-07:00",
+  "producerId": "content_director_strategy_architecture_critic",
+  "inputHashes": [
+    "a8274c4f1288b3b97a75344a627696b42f7348946a9778c7c421c7bd5b5c0adc",
+    "866bbe822bc5e91b53b1e6528aa4e390b695b310b0a4335d73c9008ebb5fa407",
+    "21cf50fefae543568b882e3c3d5ada603c28f8ca9e4c79064e6103e6bf7500d0",
+    "97faaae8001dee0b7fdad0849542d281141ff239fe5df79891618e0c75da2909",
+    "a30f5a50b1d394a3a4429c10ba058b77a16e50fef26d30715bd2d0cc2cd48039",
+    "f8fe0fb24c1e8e14e435a3302e09bcc0a94e8f16b7a09879cf03f65aeae1a283",
+    "95709c060223494c20cac7efbccb589f28f9d6721524e2560555573be048374f",
+    "e9fe4b962e4f06031f5558d32f2c407d966075ebb5405f398d23f2170c49c009",
+    "234f3647a02d265910224ac599479f5cce81b7787989e1b669b28882a0938178",
+    "60fa6761dfdb543e53f8c9f603a04d0123058203c513b3e102ee31e91727aa40"
+  ],
+  "contentHash": "4c4604e2d54ecd059095f45f7fd1848b182b86195799535b9392d008ac349a74",
+  "contentHashAlgorithm": "sha256 of UTF-8 PowerShell compressed JSON with contentHash set to an empty string",
+  "reviewedReleaseHash": "f3976c21f5f90dbdb8a4a3fd9ea3cc29862bafcc4aa39a5ed5739b2be0287fd9",
+  "reviewedHtmlHash": "a8274c4f1288b3b97a75344a627696b42f7348946a9778c7c421c7bd5b5c0adc",
+  "evidenceIds": [
+    "competitor-function-analysis",
+    "evidence-inventory",
+    "visitor-state",
+    "page-strategy",
+    "page-architecture",
+    "fact-scope-001",
+    "fact-types-001",
+    "fact-phone-001",
+    "fact-conversion-001",
+    "fact-form-001",
+    "fact-sameday-001",
+    "fact-folsom-permit-001"
+  ],
+  "status": "complete",
+  "blockers": [],
+  "complexity": "high",
+  "signals": [
+    "Verified company reputation and provider proof remain unavailable, so the page must compete through decision utility and capability transparency.",
+    "The corrected six-block strategy is credible and no longer depends on filler, reputation imitation or missing capabilities.",
+    "Every visible section now has a defensible user function and evidence boundary.",
+    "The released six-block order now exactly matches the architecture and materially differentiates the page from Roseville's options-local-cost article sequence."
+  ],
+  "stageAssignments": [
+    {
+      "stage": "strategy_architecture_critic",
+      "model": "gpt-5.6-sol",
+      "effort": "high",
+      "reason": "The review must distinguish a real utility strategy from a cosmetically changed Roseville recipe and enforce exact architecture-to-release alignment.",
+      "escalateWhen": ["a revised exact sequence still reads as the Roseville composition", "the page again requires filler or unsupported proof"],
+      "actualModel": "gpt-5.6-sol",
+      "actualEffort": "high",
+      "actualRuntimeEvidence": "Executed from scratch in this review runtime at the assigned model and effort; no downgrade or adapter mapping was used."
+    },
+    {
+      "stage": "architecture_correction",
+      "model": "gpt-5.6-sol",
+      "effort": "high",
+      "reason": "The responsible owner must reconcile the released order with the approved six-block composition without restoring removed recipe sections.",
+      "escalateWhen": ["the correction changes the strategy", "the local block remains in Roseville's options-local-cost sequence"],
+      "actualModel": null,
+      "actualEffort": null,
+      "actualRuntimeEvidence": "Not yet executed."
+    },
+    {
+      "stage": "bounded_copy_execution",
+      "model": "gpt-5.6-terra",
+      "effort": "medium",
+      "reason": "No strategic invention is needed once the six-block order is reconciled; copy work should remain bounded.",
+      "escalateWhen": ["a correction introduces a new claim", "the writer adds process, emergency, FAQ or repeated CTA filler"],
+      "actualModel": null,
+      "actualEffort": null,
+      "actualRuntimeEvidence": "Blocked until a new exact-hash checkpoint returns proceed."
+    },
+    {
+      "stage": "section_utility_review",
+      "model": "gpt-5.6-sol",
+      "effort": "high",
+      "reason": "The critic must classify all six sections and reject cross-page composition transfer even when section-level utility passes.",
+      "escalateWhen": ["a section mixes verified and unsupported material", "shared infrastructure becomes indistinguishable from copied composition"],
+      "actualModel": "gpt-5.6-sol",
+      "actualEffort": "high",
+      "actualRuntimeEvidence": "Executed from scratch in this same review runtime at the assigned model and effort."
+    }
+  ],
+  "adapterMapping": {},
+  "noSilentDowngrade": true,
+  "currentReviewDowngradeObserved": false,
+  "routingDecision": "High reasoning confirms that the exact release clears strategy, architecture, section-utility and cross-page composition gates. Mechanical downstream validation may proceed without additional strategic generation."
+}

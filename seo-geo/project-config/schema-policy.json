@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "schema-policy.v1",
+  "projectId": "replacewaterheaters",
+  "entityStrategy": {"businessEntity":"one stable Wellmade Water Heater Service entity","canonicalId":"https://replacewaterheaters.com/#business","rule":"city pages reference the same business entity and never create a fake local office"},
+  "routePolicies": [
+    {"routeType":"homepage","allowedTypes":["HomeAndConstructionBusiness","WebSite","FAQPage"],"requirements":["verified name, URL, phone, and service vocabulary only","areaServed must not exceed owner-confirmed coverage","FAQ schema must match visible FAQ"]},
+    {"routeType":"service-area hub","allowedTypes":["CollectionPage","BreadcrumbList"],"requirements":["list only published routes","do not imply every linked city is a confirmed physical location"]},
+    {"routeType":"city service page","allowedTypes":["Service","BreadcrumbList","FAQPage"],"requirements":["Service area names the city but does not claim a local address","provider references the canonical business entity","FAQ JSON-LD exactly matches visible questions and answers"]}
+  ],
+  "globalRules": ["one self-referencing canonical per route", "indexable routes only in sitemap", "absolute URLs in JSON-LD", "visible content and schema claims must match canonical facts", "no AggregateRating or Review without verified first-party evidence", "no Offer or price fields without approved pricing facts", "no openingHours, address, license, award, or same-day guarantee without verified facts", "validate rendered JSON-LD because client-side injection cannot be assessed reliably from stripped HTML"]
+}

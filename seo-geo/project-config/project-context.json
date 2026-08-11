@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "project-context.v1",
+  "projectId": "replacewaterheaters",
+  "industry": "residential water heater replacement",
+  "brandName": "Wellmade Water Heater Service",
+  "primaryMarket": "California",
+  "businessModel": "statewide service-area platform focused on residential water heater replacement; no public street address and no unsupported claim of a local branch in each city",
+  "primaryConversion": "qualified phone call or homeowner-initiated SMS service request to +1-916-265-7756",
+  "audiences": [
+    "homeowner without hot water who needs a replacement path quickly",
+    "homeowner with a leaking or failed tank who needs safe next-step guidance",
+    "homeowner planning a tank, tankless, electric, gas, or heat-pump replacement",
+    "property owner comparing a compatible changeout with an equipment conversion"
+  ],
+  "buyerJobs": [
+    "confirm whether replacement service is available for the exact address",
+    "understand which replacement equipment paths the existing home can support",
+    "identify the installation details that change scope and cost",
+    "understand permit and utility considerations without receiving invented guarantees",
+    "prepare photos and equipment details for an efficient first conversation",
+    "request an appointment by phone or SMS"
+  ],
+  "queryFamilies": [
+    "water heater replacement {city}",
+    "water heater installation {city}",
+    "water heater replacement cost {city}",
+    "tankless water heater {city}",
+    "gas water heater replacement {city}",
+    "electric water heater replacement {city}",
+    "heat pump water heater replacement {city}",
+    "same day water heater replacement {city}"
+  ],
+  "excludedVerticals": [
+    "painting",
+    "interior painting",
+    "exterior painting",
+    "wallpaper installation"
+  ],
+  "siteSeparationRule": "Painting and wallpaper research belongs to a separate website and domain. It must not create routes, schema entities, navigation items, sitemap entries, or internal links on the water-heater site.",
+  "competitorTypes": [
+    "local water-heater specialist",
+    "full-service plumbing or HVAC contractor",
+    "city-specific lead-generation site",
+    "home-improvement retailer installation service",
+    "local-services directory or marketplace",
+    "editorial cost authority",
+    "DIY or video result"
+  ],
+  "geoNaturalnessPolicy": {
+    "cityMentionRule": "semantic_necessity_only",
+    "pageContextInherited": true,
+    "forbidFrequencyTargets": true,
+    "classifications": ["required", "natural", "seo-driven"],
+    "unresolvedSeoDrivenAllowed": 0
+  },
+  "componentRegistryPath": "seo-geo/project-config/component-registry.json",
+  "brandConstitutionPath": "seo-geo/project-config/brand-constitution.json",
+  "businessProcessPath": "seo-geo/project-config/business-process.json",
+  "searchClusterPath": "seo-geo/project-config/search-clusters.json",
+  "competitorRegistryPath": "seo-geo/project-config/competitor-registry.json",
+  "geoPromptPath": "seo-geo/project-config/geo-prompts.json",
+  "schemaPolicyPath": "seo-geo/project-config/schema-policy.json",
+  "roleAdaptationPath": "seo-geo/project-config/role-adaptation-registry.json",
+  "adaptationPlanPath": "seo-geo/project-config/adaptation-plan.json",
+  "adaptationApprovalPath": "seo-geo/project-config/adaptation-approval.json",
+  "pilot": {
+    "markets": ["California statewide candidate set selected by demand and localized SERP overlap"],
+    "clusters": ["replacement", "installation", "cost", "tankless"],
+    "generationAllowed": false,
+    "publicationAllowed": false
+  },
+  "localAcceptanceMode": true,
+  "modelAdapter": "local_dynamic_reasoning_v1"
+}

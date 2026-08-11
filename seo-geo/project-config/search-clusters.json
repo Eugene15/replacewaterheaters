@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "search-clusters.v1",
+  "projectId": "replacewaterheaters",
+  "sourceEvidence": ["research/dataforseo/2026-08-03/market-cluster-demand.json", "research/dataforseo/2026-08-03/city-serps-water-heater-replacement.json", "SEO_STRATEGY.md"],
+  "interpretationRules": ["do not sum close variants", "zero means no measurable volume at available granularity", "CPC is commercial evidence, not organic difficulty", "keywords are candidate clusters, not automatic URLs"],
+  "pilotMarkets": [
+    {"market":"Sacramento","primaryCluster":{"key":"replacement","representative":"water heater replacement sacramento","monthlyVolume":170},"supportingClusters":[{"key":"installation","monthlyVolume":70},{"key":"cost","monthlyVolume":30},{"key":"tankless","monthlyVolume":40}],"portfolioDecision":"merge on the Sacramento homepage pending new overlap evidence"},
+    {"market":"Roseville","primaryCluster":{"key":"replacement","representative":"water heater replacement roseville","monthlyVolume":20},"supportingClusters":[{"key":"installation","monthlyVolume":40},{"key":"cost","monthlyVolume":0},{"key":"tankless","monthlyVolume":10}],"portfolioDecision":"one city replacement page; supporting clusters remain sections"},
+    {"market":"Folsom","primaryCluster":{"key":"replacement","representative":"water heater replacement folsom","monthlyVolume":30},"supportingClusters":[{"key":"installation","monthlyVolume":0},{"key":"cost","monthlyVolume":0},{"key":"tankless","monthlyVolume":0}],"portfolioDecision":"one city replacement page; supporting topics remain sections"}
+  ],
+  "supportingQueryFamilies": [
+    {"family":"same-day replacement","pageRule":"supporting copy only; always conditional"},
+    {"family":"gas replacement","pageRule":"equipment subsection unless localized SERP proves distinct intent"},
+    {"family":"electric replacement","pageRule":"equipment subsection unless localized SERP proves distinct intent"},
+    {"family":"heat-pump replacement","pageRule":"equipment subsection unless localized SERP proves distinct intent"}
+  ],
+  "excludedFamilies": ["water heater repair", "brand-only product searches", "tank capacity shopping", "lifespan informational queries"]
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "geo-prompts.v1",
+  "projectId": "replacewaterheaters",
+  "baselineStatus": "not_collected",
+  "observationRequiredFields": ["promptId","prompt","platform","visibleModel","observedAt","language","geographicContext","rawAnswer","mentionedBrands","recommendedBrands","position","sentiment","citations","brandClaims","availabilityState"],
+  "stablePromptSet": [
+    {"id":"geo-sac-replace-001","language":"en","geography":"Sacramento, CA","prompt":"Who can replace a residential water heater in Sacramento, California?"},
+    {"id":"geo-sac-urgent-001","language":"en","geography":"Sacramento, CA","prompt":"My water heater failed in Sacramento. What should I compare before choosing a replacement service?"},
+    {"id":"geo-roseville-replace-001","language":"en","geography":"Roseville, CA","prompt":"What are my options for water heater replacement in Roseville, California?"},
+    {"id":"geo-folsom-replace-001","language":"en","geography":"Folsom, CA","prompt":"What should a Folsom homeowner know before replacing a water heater?"},
+    {"id":"geo-tankless-001","language":"en","geography":"Sacramento region","prompt":"Who can help compare tank and tankless water heater replacement in the Sacramento area?"},
+    {"id":"geo-heatpump-001","language":"en","geography":"Sacramento region","prompt":"What should I verify before switching from a gas water heater to a heat pump water heater near Sacramento?"},
+    {"id":"geo-cost-001","language":"en","geography":"Sacramento, CA","prompt":"What factors change the cost of water heater replacement in Sacramento?"}
+  ],
+  "canonicalFactAuditKeys": ["brand_name","service_scope","service_phone","primary_market","same_day_claim","form_behavior"],
+  "prohibitions": ["do not fabricate answer-engine observations", "do not substitute organic search results for AI answers", "do not create fake citations, reviews, locations, identities, or community posts"]
+}

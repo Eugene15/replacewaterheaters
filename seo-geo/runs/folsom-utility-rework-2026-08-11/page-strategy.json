@@ -1,0 +1,21 @@
+{
+  "schemaVersion":"role-artifact.v1",
+  "projectId":"replacewaterheaters",
+  "runId":"folsom-utility-rework-2026-08-11",
+  "stage":"page_strategy",
+  "createdAt":"2026-08-11T11:30:00-07:00",
+  "producerId":"page_strategy",
+  "inputHashes":[],
+  "contentHash":"pending-current-release-hash",
+  "evidenceIds":["competitor-function-analysis","evidence-inventory","visitor-state","fact-folsom-permit-001"],
+  "status":"complete",
+  "blockers":[],
+  "audienceMoment":"A homeowner has no hot water, a leak, an aging heater, or a planned replacement but may not know the equipment type, feasible alternatives, scope drivers or what to send first.",
+  "pagePromise":"Help the visitor identify the current setup, compare viable replacement paths, understand the variables that change scope, and prepare a real phone or SMS request without relying on reputation claims.",
+  "reasonToExist":"Folsom provides a verified local minor-permit/eTRAKiT starting point, while the page turns replacement uncertainty into a bounded equipment and request decision.",
+  "competitiveApproach":"Compete through decision transparency, concrete preparation and honest claim boundaries rather than reviews, history, prices or unsupported trust language.",
+  "primaryConversion":"Phone call or prepared SMS request.",
+  "prohibitedTrustSubstitutes":["generic trusted or experienced claims","reviews or popularity","license or warranty implications","invented provider process","instant estimate or photo-upload claims"],
+  "compositionThesis":"An asymmetric editorial planner with six necessary blocks; omit generic process, emergency, FAQ and repeated final-CTA recipes.",
+  "successCondition":"The visitor can name or flag uncertainty about the current heater, understand the three replacement paths, identify scope inputs and start the verified request flow."
+}

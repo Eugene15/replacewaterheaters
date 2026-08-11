@@ -1,0 +1,15 @@
+{
+  "schemaVersion":"role-artifact.v1","projectId":"replacewaterheaters","runId":"folsom-utility-rework-2026-08-11","stage":"evidence_inventory","createdAt":"2026-08-11T12:01:00-07:00","producerId":"evidence_inventory","inputHashes":[],"contentHash":"pending-render-hash","evidenceIds":["fact-phone-001","fact-scope-001","fact-types-001","fact-conversion-001","fact-form-001","fact-sameday-001","fact-folsom-permit-001"],"status":"complete","blockers":[],
+  "availableVerified":[
+    {"item":"water-heater replacement only","factIds":["fact-scope-001"]},
+    {"item":"tank, tankless, gas, electric and heat-pump vocabulary","factIds":["fact-types-001"]},
+    {"item":"phone call and SMS request conversion","factIds":["fact-phone-001","fact-conversion-001","fact-form-001"]},
+    {"item":"Folsom lists water-heater changeouts among minor permits handled through eTRAKiT","factIds":["fact-folsom-permit-001"]}
+  ],
+  "conditional":[
+    {"item":"possible completion by evening after a call before noon","condition":"route, equipment, site and permit needs confirmed by phone for that day","factIds":["fact-sameday-001"]},
+    {"item":"service at a Folsom address","condition":"confirm exact address and current route before promising service","factIds":["fact-market-001"]}
+  ],
+  "unavailableOrUnverified":["photo upload on the website","instant estimate","online scheduling","fixed price","license or insurance claims","warranty terms","reviews, ratings, awards, years in business or completed-job counts","permit handling as an included service"],
+  "desiredCapabilities":["website photo upload","preliminary estimate workflow","online appointment selection","verified provider and project proof"]
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "adaptation-approval.v1",
+  "projectId": "replacewaterheaters",
+  "approvedAt": "2026-08-05",
+  "approvedBy": "project owner via Codex conversation",
+  "decision": "approve_adaptation_and_start_local_pilot",
+  "sourceQuote": "делай",
+  "scope": ["adapted project configuration","local pilot stages","structured artifacts","validators"],
+  "rolloutApproval": {
+    "approvedAt": "2026-08-05",
+    "sourceQuote": "ок две фазы подтверждаю",
+    "strategy": "two_phase",
+    "phase1": "publish only the strongest evidence-backed markets and validate indexing, query fit, cannibalization, engagement, calls, and qualified leads",
+    "phase2": "expand in controlled batches after Phase 1 Search Console and conversion evidence supports the template",
+    "appliesSeparatelyTo": ["water-heater website", "painting-and-wallpaper website"],
+    "automaticPublicationAuthorized": false
+  },
+  "notAuthorized": ["Bedrock","paid DataForSEO calls without advance cost approval","automatic publication","production publication","fabrication of missing business facts"]
+}

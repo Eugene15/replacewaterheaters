@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "artifact.schema.json",
+  "type": "object",
+  "required": ["schemaVersion", "projectId", "runId", "stage", "createdAt", "producerId", "inputHashes", "contentHash", "evidenceIds", "status", "blockers"],
+  "properties": {
+    "schemaVersion": {"type": "string"},
+    "projectId": {"type": "string", "minLength": 1},
+    "runId": {"type": "string", "minLength": 1},
+    "stage": {"type": "string", "minLength": 1},
+    "createdAt": {"type": "string", "format": "date-time"},
+    "producerId": {"type": "string", "minLength": 1},
+    "inputHashes": {"type": "array", "items": {"type": "string"}},
+    "contentHash": {"type": "string", "minLength": 16},
+    "evidenceIds": {"type": "array", "items": {"type": "string"}},
+    "status": {"enum": ["complete", "blocked"]},
+    "blockers": {"type": "array"}
+  },
+  "additionalProperties": true
+}
+

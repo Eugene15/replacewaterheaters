@@ -1,0 +1,22 @@
+{
+  "schemaVersion":"quality-gate.v1",
+  "projectId":"replacewaterheaters",
+  "runId":"folsom-utility-rework-2026-08-11",
+  "route":"/service-areas/folsom-ca/",
+  "releaseHash":"f3976c21f5f90dbdb8a4a3fd9ea3cc29862bafcc4aa39a5ed5739b2be0287fd9",
+  "verdict":"pass",
+  "blockers":[],
+  "gates":[
+    {"name":"reasoning-plan","verdict":"pass","artifact":"reasoning-plan.json","sha256":"79408ef7a84a2515b05e172cd3da082af6701172dc9a7f929d7a2b818dd6d98e"},
+    {"name":"prewriting-checkpoint","verdict":"proceed","artifact":"prewriting-checkpoint.json","sha256":"0714be9268941b4479348e234ec6cd1e5f45cdf81690fe76f71e38cd78f07360"},
+    {"name":"section-utility-review","verdict":"pass","artifact":"section-utility-review.json","sha256":"61b1fc0dd87e049408abe9b0d31d785ace2c053d8218520bcee43794c7260136"},
+    {"name":"editorial-seo-factual","verdict":"pass","artifact":"editorial-seo-factual-review.json","sha256":"f315624a77dd69f211db3b414c1cca6bb149deb9ab931d04ac051490d1fca539"},
+    {"name":"independent-visual","verdict":"pass","artifact":"visual-acceptance.json","sha256":"5cde8451e7b21366be841f2f2440dbdb81a4a0af147ba0fcc8c66a02f948381f"},
+    {"name":"technical-seo","verdict":"pass","details":"8 routes audited, 0 blockers"},
+    {"name":"geo-naturalness","verdict":"pass","details":"150 occurrences, 0 unresolved SEO-driven"},
+    {"name":"render","verdict":"pass","details":"Folsom 1684x1000 and 390x844 technical-pass"}
+  ],
+  "releaseAllowedByQuality":true,
+  "ownerPublicationInstruction":"finish Folsom and deploy it",
+  "published":false
+}

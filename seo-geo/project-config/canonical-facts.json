@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "canonical-facts.v1",
+  "facts": [
+    {"id":"fact-brand-001","key":"brand_name","value":"Wellmade Water Heater Service","status":"verified","source":"PRODUCT.md and current site identity","verifiedAt":"2026-08-05"},
+    {"id":"fact-domain-001","key":"canonical_domain","value":"https://replacewaterheaters.com/","status":"verified","source":"index.html canonical and REPLACEWATERHEATERS_HANDOFF.md","verifiedAt":"2026-08-05"},
+    {"id":"fact-phone-001","key":"service_phone","value":"+1-916-265-7756","status":"verified","source":"SEO_STRATEGY.md and rendered site","verifiedAt":"2026-08-05"},
+    {"id":"fact-scope-001","key":"service_scope","value":"water heater replacement only; do not offer or target repair","status":"verified","source":"SEO_STRATEGY.md section 1 and owner handoff","verifiedAt":"2026-08-05"},
+    {"id":"fact-types-001","key":"supported_equipment_vocabulary","value":["tank","tankless","gas","electric","heat pump"],"status":"verified","source":"SEO_STRATEGY.md section 1","verifiedAt":"2026-08-05"},
+    {"id":"fact-market-001","key":"service_market","value":"California statewide service-area platform; city landing pages must be selected from demand and localized SERP evidence rather than assumed from the florist preset","status":"verified","source":"owner statement on 2026-08-05","verifiedAt":"2026-08-05"},
+    {"id":"fact-conversion-001","key":"primary_conversion","value":"phone call or SMS service request","status":"verified","source":"PRODUCT.md, SEO_STRATEGY.md, and script.js","verifiedAt":"2026-08-05"},
+    {"id":"fact-form-001","key":"form_behavior","value":"the form prepares an SMS to +1-916-265-7756; no backend or CRM submission is implemented","status":"verified","source":"script.js and SEO_HANDOFF_RU.md","verifiedAt":"2026-08-05"},
+    {"id":"fact-sameday-001","key":"same_day_claim","value":"If a homeowner calls before noon, completion by evening may sometimes be possible, but availability must be confirmed by phone for that day; never guarantee same-day completion","status":"verified","source":"owner statement on 2026-08-05","verifiedAt":"2026-08-05"},
+    {"id":"fact-address-001","key":"address_publication_policy","value":"service-area operation; do not publish a street address","status":"verified","source":"owner statement on 2026-08-05","verifiedAt":"2026-08-05"},
+    {"id":"fact-platform-001","key":"market_position","value":"build as a statewide service platform rather than presenting it as one local firm","status":"verified","source":"owner statement on 2026-08-05","verifiedAt":"2026-08-05"},
+    {"id":"fact-trust-details-deferral-001","key":"deferred_trust_details","value":"license details, warranty terms, provider-selection details, local operating proof, reviews, and ratings are intentionally deferred and must neither be invented nor required in the current page-writing iteration","status":"owner_decision","source":"owner statement on 2026-08-10","verifiedAt":"2026-08-10"},
+    {"id":"fact-site-scope-001","key":"website_vertical_separation","value":"the current website and its domain are exclusively for water-heater replacement; painting and wallpaper belong to a second website on a different domain with separate branding, URLs, schema, sitemap, internal links, configuration, artifacts, and release pipeline","status":"verified","source":"owner statement on 2026-08-05","verifiedAt":"2026-08-05"},
+    {"id":"fact-rollout-001","key":"approved_rollout_strategy","value":"use two rollout phases independently for the water-heater site and the separate painting-and-wallpaper site; Phase 1 validates the strongest markets and templates, and Phase 2 expands only after Phase 1 indexing, Search Console, cannibalization, and conversion evidence","status":"verified","source":"owner approval on 2026-08-05","verifiedAt":"2026-08-05"},
+    {"id":"fact-hotline-001","key":"future_hotline","value":"a toll-free 800-number hotline is planned, but the number has not yet been supplied and must not be fabricated","status":"verified","source":"owner statement on 2026-08-05","verifiedAt":"2026-08-05"},
+    {"id":"fact-routes-001","key":"published_routes","value":["/","/service-areas/","/service-areas/roseville-ca/","/service-areas/folsom-ca/","/service-areas/san-diego-ca/","/service-areas/san-jose-ca/","/service-areas/los-angeles-ca/","/service-areas/orange-county-ca/","/service-areas/san-francisco-ca/","/service-areas/fremont-ca/"],"status":"verified","source":"sitemap.xml","verifiedAt":"2026-08-10"},
+    {"id":"fact-roseville-permit-001","key":"roseville_permit_context","value":"the City of Roseville lists residential water heater replacement as a quick building permit scope","status":"verified","source":"https://www.roseville.ca.us/government/departments/development_services/building/online_building_permit_process","verifiedAt":"2026-08-05"},
+    {"id":"fact-folsom-permit-001","key":"folsom_permit_context","value":"the City of Folsom lists water heater changeouts among minor permits handled through eTRAKiT","status":"verified","source":"https://www.folsom.ca.us/government/community-development/epermit-center","verifiedAt":"2026-08-05"}
+  ],
+  "conditionalClaims": [
+    {"key":"service_area_availability","rule":"confirm the exact address and current route before promising service in any city"},
+    {"key":"same_day_availability","rule":"always qualify with schedule, equipment, site conditions, and permit needs"},
+    {"key":"rebates","rule":"verify the current utility program and eligibility before naming an amount or promising qualification"},
+    {"key":"permit_requirements","rule":"use current jurisdiction guidance and avoid presenting general information as project-specific approval"}
+  ],
+  "unverifiedQuestions": [
+    "final city landing-page portfolio after demand and localized SERP-overlap analysis",
+    "exact toll-free 800-number before replacing the current phone",
+    "Google Business Profile status and primary category",
+    "business hours",
+    "license details",
+    "warranty terms",
+    "verified customer reviews and rating",
+    "years in business",
+    "future backend, email, or CRM destination for service requests"
+  ],
+  "prohibitedClaims": [
+    "water heater repair is offered",
+    "licensed, insured, bonded, certified, or factory-authorized status without a verified fact",
+    "warranty terms without a verified fact",
+    "years in business or completed-job counts without a verified fact",
+    "ratings, reviews, testimonials, awards, or popularity claims without verified evidence",
+    "fixed or starting prices without an approved pricing fact",
+    "guaranteed same-day service",
+    "guaranteed rebate eligibility or rebate amount",
+    "a physical office in each city",
+    "a local storefront, branch, or office in any city without verified evidence",
+    "painting or wallpaper services on the water-heater website or domain",
+    "invented customer stories, landmarks, local history, or technician credentials"
+  ]
+}

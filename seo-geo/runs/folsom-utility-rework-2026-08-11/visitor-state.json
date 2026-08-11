@@ -1,0 +1,10 @@
+{
+  "schemaVersion":"role-artifact.v1","projectId":"replacewaterheaters","runId":"folsom-utility-rework-2026-08-11","stage":"visitor_state","createdAt":"2026-08-11T12:02:00-07:00","producerId":"visitor_state","inputHashes":[],"contentHash":"pending-render-hash","evidenceIds":["serp-evidence","fact-scope-001","fact-form-001","fact-folsom-permit-001"],"status":"complete","blockers":[],
+  "triggerStates":["no hot water","leaking or failed tank","older heater being replaced before failure","buyer has already been told replacement is needed"],
+  "known":["exact symptom or reason for replacement","installation location in broad terms","address or ZIP code"],
+  "unknowns":["heater type or capacity","whether like-for-like is best","whether tankless or heat pump is feasible","what drives scope and cost","what permit process applies","what information the service needs"],
+  "anxieties":["continued water damage","time without hot water","being overcharged","choosing incompatible equipment","unexpected installation work"],
+  "decisions":["replace like-for-like or convert","which equipment paths are worth evaluating","whether timing can be confirmed today","what details to prepare before calling or texting"],
+  "actionBarriers":["does not know plumbing terminology","does not know model or capacity","cannot upload photos through the current site","does not yet know exact project scope"],
+  "minimumUsefulNextStep":"Call or prepare an SMS with the exact address or ZIP, current heater type if known, symptom, location and a note that photos are available to attach in the messaging app."
+}

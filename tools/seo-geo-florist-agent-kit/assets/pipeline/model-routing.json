@@ -1,0 +1,20 @@
+{
+  "schemaVersion":"model-routing.v1",
+  "complexityLevels":["low","medium","high","very_high"],
+  "defaults":{
+    "research":{"model":"gpt-5.6-terra","effort":"medium"},
+    "visitor_state":{"model":"gpt-5.6-sol","effort":"high"},
+    "strategy":{"model":"gpt-5.6-sol","effort":"high"},
+    "architecture":{"model":"gpt-5.6-sol","effort":"high"},
+    "copy_execution":{"model":"gpt-5.6-terra","effort":"medium"},
+    "critic":{"model":"gpt-5.6-sol","effort":"high"},
+    "deterministic_validation":{"model":null,"effort":null}
+  },
+  "veryHighOverrides":{
+    "strategy":{"model":"gpt-5.6-sol","effort":"xhigh"},
+    "architecture":{"model":"gpt-5.6-sol","effort":"xhigh"},
+    "critic":{"model":"gpt-5.6-sol","effort":"xhigh"}
+  },
+  "copyRequiresPassingCheckpoint":true,
+  "unrecordedDowngradeBlocks":true
+}

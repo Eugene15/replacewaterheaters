@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "project-context.v1",
+  "projectId": "florist-example",
+  "industry": "floristry and local flower delivery",
+  "brandName": "REPLACE_WITH_BRAND",
+  "primaryMarket": "REPLACE_WITH_CITY",
+  "businessModel": "local florist marketplace and custom bouquet requests",
+  "primaryConversion": "start a florist-reviewable bouquet request",
+  "audiences": ["gift buyer", "occasion buyer", "recipient-led bouquet shopper"],
+  "buyerJobs": ["choose an appropriate bouquet", "arrange local delivery", "understand florist confirmation and payment"],
+  "queryFamilies": ["flowers", "florist", "flower delivery", "birthday flowers", "same-day flower delivery", "rose bouquets", "wedding flowers"],
+  "competitorTypes": ["local florist", "delivery marketplace", "directory", "national wire service", "editorial authority"],
+  "componentRegistryPath": "REPLACE_WITH_COMPONENT_REGISTRY",
+  "brandConstitutionPath": "REPLACE_WITH_BRAND_CONSTITUTION",
+  "localAcceptanceMode": true,
+  "modelAdapter": "none"
+}
+

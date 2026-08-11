@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO & GEO Florist Agent Kit"
+  short_description: "Portable florist SEO and GEO pipeline"
+  default_prompt: "Use $seo-geo-florist-agent-kit to adapt and run the evidence-led SEO and GEO pipeline for this project."

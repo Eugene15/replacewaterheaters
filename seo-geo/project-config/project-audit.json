@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "project-audit.v1",
+  "projectId": "replacewaterheaters",
+  "auditedAt": "2026-08-05T12:00:00-07:00",
+  "scope": ["repository context", "published routes", "visible claims", "keyword and localized SERP evidence", "conversion behavior", "UI inventory", "schema policy", "GEO readiness", "florist preset replacement"],
+  "evidence": [
+    {"id":"evidence-product","path":"PRODUCT.md","sha256":"C19A11E01B7F6F4D6FD9DF23DF5120A2F3674953A535AB2AA0AC90F6D857D9E6"},
+    {"id":"evidence-seo-strategy","path":"SEO_STRATEGY.md","sha256":"FB564BC44CA9408144E8C154CB5191D06595E0093F8BF5D90E54951BECF3D43B"},
+    {"id":"evidence-handoff","path":"SEO_HANDOFF_RU.md","sha256":"1B3622132D01B884DC7A5E59E91C56656870840720C5019738CEF17F6F0B3E98"},
+    {"id":"evidence-homepage","path":"index.html","sha256":"426D6072AAEA8C2B4002FB346B6D18DF5969F3948E1A21E9C12103EB151D15A0"},
+    {"id":"evidence-styles","path":"styles.css","sha256":"F974A89DF2F13BA14C0F87EC1EA2A27B0412FDB8D3C2D07737F284DAB1AAEDE2"},
+    {"id":"evidence-form-script","path":"script.js","sha256":"7B38DDA102AAE8C84703C3D317FD7234737964A4BE0E0C3B98AE227DB8BE0238"},
+    {"id":"evidence-serp","path":"research/dataforseo/2026-08-03/city-serps-water-heater-replacement.json","sha256":"DEB04AFE261CF641C56CAAEB81C9E95904C700791355060E1A86AA7DFC4DFDBC"},
+    {"id":"evidence-market-demand","path":"research/dataforseo/2026-08-03/market-cluster-demand.json","sha256":"417142AD01A0E5629738848C516475435E0E80A712F395C33174D4170D475C16"},
+    {"id":"evidence-index-check","observation":"Public search queries site:replacewaterheaters.com returned no results on 2026-08-05; treat as an observation, not definitive Search Console index status."}
+  ],
+  "floristSettingsReplaced": [
+    {"from":"bouquet and flower-delivery vocabulary","to":"water-heater replacement and equipment vocabulary"},
+    {"from":"gift, occasion, and recipient audiences","to":"urgent-failure and planned-replacement homeowners"},
+    {"from":"choose bouquet, arrange delivery, florist confirmation/payment jobs","to":"confirm coverage, compare equipment, understand scope, prepare intake, request service"},
+    {"from":"florist, flower delivery, occasion, rose, wedding clusters","to":"replacement, installation, cost, tankless, gas, electric, heat-pump, qualified same-day clusters"},
+    {"from":"local florist, marketplace, wire service competitors","to":"specialists, plumbing/HVAC firms, lead-gen sites, retailers, directories, editorial and DIY results"},
+    {"from":"bouquet request and payment workflow","to":"phone or homeowner-initiated SMS replacement request"},
+    {"from":"florist Product and Offer schema","to":"one HomeAndConstructionBusiness entity plus Service, CollectionPage, BreadcrumbList, and eligible visible FAQ"},
+    {"from":"flower imagery and recipient selection UI","to":"equipment, process, cost factors, local requirements, request form, and city-navigation components"},
+    {"from":"flower-intent GEO prompts","to":"replacement provider, failure response, equipment comparison, cost, tankless, and heat-pump prompts"},
+    {"from":"florist memory and approved examples","to":"empty domain memory plus one confirmed owner anti-pattern for internal SEO language"}
+  ],
+  "strengths": [
+    "replacement-only scope and excluded intents are documented",
+    "raw DataForSEO keyword and localized SERP evidence is stored with cost ledger",
+    "Sacramento, Roseville, and Folsom routes have unique canonicals, metadata, H1, internal links, and visible FAQ",
+    "phone and SMS behavior is explicit in code",
+    "current UI has reusable accessible components and mobile rules",
+    "unsupported license, warranty, review, rating, price, and history claims are explicitly prohibited"
+  ],
+  "risksAndBlockers": [
+    {"severity":"blocker","owner":"business_fact_gate","issue":"Exact service boundary is not owner-confirmed, while homepage areaServed and published city pages imply coverage.","requiredAction":"Owner confirms actual cities/ZIPs and service-area-only status before any new market expansion or schema strengthening."},
+    {"severity":"major","owner":"business_fact_gate","issue":"License, warranty, hours, address, Google Business Profile, reviews, rating, years in business, and same-day operating rules remain unverified.","requiredAction":"Collect source documents or keep claims absent/conditional."},
+    {"severity":"major","owner":"seo_schema_reviewer","issue":"Homepage business entity has no stable @id and its areaServed list may exceed confirmed facts.","requiredAction":"After owner fact confirmation, normalize one business entity and reference it from Service nodes."},
+    {"severity":"major","owner":"monitoring","issue":"Public site search returned no indexed results and no Search Console evidence was supplied.","requiredAction":"Use Google Search Console URL inspection and coverage data; do not infer index failure from site: alone."},
+    {"severity":"major","owner":"orchestrator","issue":"Repository contains unrelated floristry and painting/wallpaper research artifacts alongside the water-heater project.","requiredAction":"Keep them out of this pipeline run and decide later whether to relocate or ignore them; do not delete without owner instruction."},
+    {"severity":"minor","owner":"component_mapper","issue":"City pages share a similar long-form recipe and should be reviewed for family-level visual and narrative diversity before more pages are generated.","requiredAction":"Pilot only current three markets and require cross-page review."},
+    {"severity":"minor","owner":"geo_observer","issue":"No genuine answer-engine baseline exists.","requiredAction":"Collect actual responses using the stable prompt set after owner approves this adaptation."}
+  ],
+  "decision": "configuration_ready_for_validation_but_page_generation_blocked_pending_owner_approval"
+}

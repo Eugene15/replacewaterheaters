@@ -1,0 +1,9 @@
+{
+  "schemaVersion": "agent-learning-memory.v1",
+  "entries": [],
+  "feedbackLedger": [],
+  "approvedExamples": [],
+  "regressionRules": [],
+  "candidates": []
+}
+

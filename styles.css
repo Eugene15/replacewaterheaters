@@ -714,6 +714,69 @@ h1 { max-width: 680px; margin-bottom: 22px; color: var(--navy); font-size: clamp
   .city-page--san-jose-checker .question-stack article { padding: 18px; }
 }
 
+/* Folsom: utility-first editorial planner, intentionally distinct from neighboring GEO pages. */
+.city-page--folsom .folsom-hero { padding-top: 36px; padding-bottom: clamp(58px, 6vw, 84px); background: linear-gradient(115deg, var(--paper) 0 66%, var(--sky) 66%); }
+.folsom-hero__grid { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(320px, .65fr); gap: clamp(48px, 7vw, 110px); align-items: center; }
+.folsom-hero .page-hero__copy { max-width: 720px; }
+.folsom-hero .page-hero__copy h1 { max-width: 680px; font-size: clamp(3.4rem, 5vw, 5.4rem); line-height: .98; }
+.folsom-hero__lead { max-width: 650px; font-size: clamp(1.05rem, 1.4vw, 1.25rem); line-height: 1.65; }
+.folsom-hero__timing { max-width: 620px; margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--line); color: var(--muted); font-size: .92rem; }
+.folsom-start { padding: clamp(28px, 3vw, 44px); background: var(--blue-dark); color: var(--white); }
+.folsom-start h2 { margin-top: 18px; font-size: clamp(1.8rem, 2.4vw, 2.7rem); }
+.folsom-start ul { display: grid; gap: 16px; margin: 28px 0 24px; padding: 0; list-style: none; }
+.folsom-start li { padding-left: 22px; position: relative; color: color-mix(in srgb, white 88%, transparent); }
+.folsom-start li::before { content: ""; position: absolute; left: 0; top: .62em; width: 8px; height: 8px; background: var(--blue-light); }
+.folsom-start > p:last-child { color: color-mix(in srgb, white 70%, transparent); font-size: .88rem; }
+.folsom-identify { background: var(--sky); }
+.folsom-identify__track { display: grid; grid-template-columns: repeat(12, 1fr); gap: 18px; margin-top: 44px; }
+.folsom-identify__track article { grid-column: span 4; min-height: 230px; padding: 30px; background: var(--paper); }
+.folsom-identify__track article:nth-child(2) { transform: translateY(24px); }
+.folsom-identify__track .folsom-identify__unsure { grid-column: 9 / 13; min-height: auto; margin-top: 42px; background: var(--blue); color: var(--white); }
+.folsom-identify__track h3 { font-size: 1.45rem; }
+.folsom-identify__track p { margin-top: 18px; color: var(--muted); line-height: 1.65; }
+.folsom-identify__unsure p { color: color-mix(in srgb, white 82%, transparent); }
+.folsom-identify__unsure a { display: inline-block; margin-top: 18px; color: var(--white); font-weight: 800; }
+.folsom-cost { background: var(--paper); }
+.folsom-cost__intro { max-width: 820px; }
+.folsom-cost__intro h2 { max-width: 780px; }
+.folsom-cost__intro > p:last-child { max-width: 660px; margin-top: 22px; font-size: 1.08rem; }
+.folsom-cost__flow { display: grid; grid-template-columns: 1fr 1fr; gap: 0 64px; max-width: 980px; margin: 54px 0 0 auto; counter-reset: none; }
+.folsom-cost__flow article { padding: 28px 0; border-top: 1px solid var(--line); }
+.folsom-cost__flow article:last-child { grid-column: 2; }
+.folsom-cost__flow p { margin-top: 12px; color: var(--muted); }
+.folsom-cost__prompt { max-width: 620px; margin: 42px 0 0 auto; padding: 26px 30px; border-left: 4px solid var(--blue); background: var(--sky); }
+.folsom-cost__prompt p { margin-top: 8px; }
+.folsom-cost__prompt a { display: inline-block; margin-top: 14px; font-weight: 800; }
+.folsom-decision { background: var(--navy); color: var(--white); }
+.folsom-decision__heading { max-width: 780px; }
+.folsom-decision__heading h2 { color: var(--white); }
+.folsom-decision__paths { display: grid; grid-template-columns: 1.05fr .95fr .95fr; gap: clamp(24px, 4vw, 54px); margin-top: 56px; }
+.folsom-decision__paths article { padding-top: 24px; border-top: 3px solid var(--blue-light); }
+.folsom-decision__paths h3 { margin-top: 14px; color: var(--white); font-size: clamp(1.5rem, 2vw, 2.1rem); }
+.folsom-decision__paths article > p:not(.folsom-path-label) { margin-top: 18px; color: color-mix(in srgb, white 77%, transparent); }
+.folsom-path-label { color: var(--blue-light); font-size: .72rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+.folsom-decision__paths ul { margin-top: 24px; padding-left: 18px; color: color-mix(in srgb, white 78%, transparent); }
+.folsom-decision__paths li + li { margin-top: 10px; }
+.folsom-urgent { border-top: 1px solid var(--line); }
+
+@media (max-width: 900px) {
+  .city-page--folsom .folsom-hero { background: var(--paper); }
+  .folsom-hero__grid { grid-template-columns: 1fr; gap: 42px; }
+  .folsom-identify__track { grid-template-columns: 1fr 1fr; }
+  .folsom-identify__track article, .folsom-identify__track .folsom-identify__unsure { grid-column: auto; margin-top: 0; transform: none; }
+  .folsom-decision__paths { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 600px) {
+  .folsom-hero .page-hero__copy h1 { font-size: clamp(2.7rem, 13vw, 4rem); line-height: .98; }
+  .folsom-start { padding: 26px 22px; }
+  .folsom-identify__track, .folsom-cost__flow { grid-template-columns: 1fr; }
+  .folsom-identify__track article { min-height: auto; padding: 24px; }
+  .folsom-cost__flow { margin-top: 38px; }
+  .folsom-cost__flow article:last-child { grid-column: auto; }
+  .folsom-cost__prompt { padding: 22px; }
+}
+
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: 0.01ms !important; }

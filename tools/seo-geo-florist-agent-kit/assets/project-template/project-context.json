@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "project-context.v1",
+  "projectId": "ADAPT_REQUIRED",
+  "industry": "ADAPT_REQUIRED",
+  "brandName": "ADAPT_REQUIRED",
+  "primaryMarket": "ADAPT_REQUIRED",
+  "businessModel": "ADAPT_REQUIRED",
+  "primaryConversion": "ADAPT_REQUIRED",
+  "audiences": ["ADAPT_REQUIRED"],
+  "buyerJobs": ["ADAPT_REQUIRED"],
+  "queryFamilies": ["ADAPT_REQUIRED"],
+  "competitorTypes": ["ADAPT_REQUIRED"],
+  "geoNaturalnessPolicy": {
+    "cityMentionRule": "semantic_necessity_only",
+    "pageContextInherited": true,
+    "forbidFrequencyTargets": true,
+    "classifications": ["required", "natural", "seo-driven"],
+    "unresolvedSeoDrivenAllowed": 0
+  },
+  "componentRegistryPath": "ADAPT_REQUIRED",
+  "brandConstitutionPath": "ADAPT_REQUIRED",
+  "localAcceptanceMode": true,
+  "modelAdapter": "local_dynamic_reasoning_v1"
+}
