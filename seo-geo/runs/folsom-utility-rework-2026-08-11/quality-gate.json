@@ -18,5 +18,11 @@
   ],
   "releaseAllowedByQuality":true,
   "ownerPublicationInstruction":"finish Folsom and deploy it",
-  "published":false
+  "published":true,
+  "productionVerification":{
+    "url":"https://replacewaterheaters.com/service-areas/folsom-ca/",
+    "httpStatus":200,
+    "cssVersion":"20260811c",
+    "verifiedSignals":["new utility-first hero","current-heater chooser","installation-based cost section","FAQ and FAQPage removed together","working request section","Folsom CSS present"]
+  }
 }
